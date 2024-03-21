@@ -1,0 +1,6 @@
+{
+  "name": "Aleutian Arc (narrow)",
+  "id": 100001,
+  "sections": [ 4820, 4821, 4822, 4823, 4824, 4825, 4826, 4827, 4828, 4829, 4830, 4831, 4832, 4833 ],
+  "mfd-tree": "aleutian-arc-narrow"
+}

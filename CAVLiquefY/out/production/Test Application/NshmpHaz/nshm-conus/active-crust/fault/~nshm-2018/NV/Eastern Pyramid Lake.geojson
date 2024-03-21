@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "id": 1045,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.60034, 40.31075],
+      [-119.51553, 40.20995],
+      [-119.50385, 40.14823],
+      [-119.50915, 40.12631],
+      [-119.50708, 40.10169],
+      [-119.4954, 40.05839],
+      [-119.50079, 40.00018],
+      [-119.47456, 39.95517],
+      [-119.45623, 39.94978]
+    ]
+  },
+  "properties": {
+    "name": "Eastern Pyramid Lake",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 44.03866,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.32939911054116056,
+        "gr-a-value": 1.66218,
+        "single-rate": 3.245E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.14445,
+        "single-rate": 9.85E-5
+      },
+      "ZENG": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.25916,
+        "single-rate": 1.283E-4
+      }
+    }
+  }
+}

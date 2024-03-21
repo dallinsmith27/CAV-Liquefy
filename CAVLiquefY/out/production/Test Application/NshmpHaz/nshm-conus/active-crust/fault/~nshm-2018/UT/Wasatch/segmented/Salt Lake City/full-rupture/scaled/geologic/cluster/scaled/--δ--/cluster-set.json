@@ -1,0 +1,21 @@
+{
+  "name": "Wasatch (Salt Lake City, cluster)",
+  "id": 2796,
+  "rupture-sets": [
+    {
+      "name": "Wasatch (Salt Lake City, north)",
+      "id": 2792,
+      "mfd-tree": "wasatch-slc-cluster-north"
+    },
+    {
+      "name": "Wasatch (Salt Lake City, tear)",
+      "id": 2794,
+      "mfd-tree": "wasatch-slc-cluster-tear"
+    },
+    {
+      "name": "Wasatch (Salt Lake City, south)",
+      "id": 2793,
+      "mfd-tree": "wasatch-slc-cluster-south"
+    }
+  ]
+}

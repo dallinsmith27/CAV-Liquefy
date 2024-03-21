@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "id": 2517,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-122.89808, 45.52135],
+      [-122.96223, 45.63545]
+    ]
+  },
+  "properties": {
+    "name": "Helvetia",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 13.63451,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.04330127018922193,
+        "gr-a-value": null,
+        "single-rate": 7.9303078E-5
+      },
+      "GEO": {
+        "rate": 0.014,
+        "gr-a-value": null,
+        "single-rate": 2.5639974E-5
+      },
+      "ZENG": {
+        "rate": 0.025980762113533156,
+        "gr-a-value": null,
+        "single-rate": 4.7581841E-5
+      }
+    }
+  }
+}

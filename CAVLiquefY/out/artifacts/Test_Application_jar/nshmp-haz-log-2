@@ -1,0 +1,26 @@
+   INFO HazardCalc version: 
+	nshmp-haz: 2.0.9-37-g30585a6.dirty
+	nshmp-lib: 1.2.10
+	nshmp-ws-utils: 0.3.11
+
+ SEVERE @ ModelLoader.load()Error loading model: C:\Users\dalli\Documents\GRAD_PROJECT\Settlement\Test Application\out\artifacts\Test_Application_jar\nshm-alaska-main
+
+java.lang.NullPointerException
+	at gov.usgs.earthquake.nshmp.model.Deserialize.gridRuptureSets(Deserialize.java:301)
+	at gov.usgs.earthquake.nshmp.model.ModelFiles.read(ModelFiles.java:327)
+	at gov.usgs.earthquake.nshmp.model.ModelFiles.readGridRuptureSets(ModelFiles.java:267)
+	at gov.usgs.earthquake.nshmp.model.ModelLoader$Grid.processBranch(ModelLoader.java:1130)
+	at gov.usgs.earthquake.nshmp.model.ModelLoader$Grid.processBranch(ModelLoader.java:1122)
+	at gov.usgs.earthquake.nshmp.model.ModelLoader$Grid.loadSourceTree(ModelLoader.java:1091)
+	at gov.usgs.earthquake.nshmp.model.ModelLoader.loadSourceDirectory(ModelLoader.java:322)
+	at gov.usgs.earthquake.nshmp.model.ModelLoader.gridSources(ModelLoader.java:1037)
+	at gov.usgs.earthquake.nshmp.model.ModelLoader.crustalSources(ModelLoader.java:217)
+	at gov.usgs.earthquake.nshmp.model.ModelLoader.loadTectonicSetting(ModelLoader.java:190)
+	at gov.usgs.earthquake.nshmp.model.ModelLoader.loadTectonicSettings(ModelLoader.java:174)
+	at gov.usgs.earthquake.nshmp.model.ModelLoader.load(ModelLoader.java:152)
+	at gov.usgs.earthquake.nshmp.model.HazardModel.load(HazardModel.java:113)
+	at gov.usgs.earthquake.nshmp.HazardCalc.run(HazardCalc.java:101)
+	at gov.usgs.earthquake.nshmp.HazardCalc.main(HazardCalc.java:74)
+
+ SEVERE @ HazardCalc.handleError()
+** Exiting **

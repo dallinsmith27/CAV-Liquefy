@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2511,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-124.55213, 43.30915],
+      [-124.54377, 43.26072],
+      [-124.52248, 43.23728],
+      [-124.49292, 43.15615],
+      [-124.47225, 43.13495],
+      [-124.41916, 43.1212],
+      [-124.38286, 43.09838]
+    ]
+  },
+  "properties": {
+    "name": "Coquille Anticline",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 29.24076,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.45899346400575247,
+        "gr-a-value": 1.90416,
+        "single-rate": 4.852E-4
+      },
+      "GEO": {
+        "rate": 0.24,
+        "gr-a-value": 1.62256,
+        "single-rate": 2.537E-4
+      },
+      "ZENG": {
+        "rate": 0.25980762113533157,
+        "gr-a-value": 1.657,
+        "single-rate": 2.747E-4
+      }
+    }
+  }
+}

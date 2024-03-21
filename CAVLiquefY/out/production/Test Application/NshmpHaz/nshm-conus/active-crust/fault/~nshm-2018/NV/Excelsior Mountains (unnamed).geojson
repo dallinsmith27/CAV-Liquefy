@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 1052,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-118.35654, 38.24842],
+      [-118.33704, 38.25274],
+      [-118.31171, 38.24932],
+      [-118.22996, 38.26172],
+      [-118.19348, 38.26226],
+      [-118.18845, 38.2583],
+      [-118.14658, 38.25669],
+      [-118.12223, 38.24123],
+      [-118.06716, 38.22201]
+    ]
+  },
+  "properties": {
+    "name": "Excelsior Mountains (unnamed)",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 0.0,
+    "rate-type": "SLIP",
+    "length": 26.74903,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.09346,
+        "single-rate": 8.33E-5
+      },
+      "ZENG": {
+        "rate": 0.12,
+        "gr-a-value": 1.17264,
+        "single-rate": 9.99E-5
+      }
+    }
+  }
+}

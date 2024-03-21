@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "id": 4263,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-139.5359, 60.06404],
+      [-139.56876, 60.04047],
+      [-139.61214, 60.00687],
+      [-139.61214, 59.96966],
+      [-139.62116, 59.94556],
+      [-139.79468, 59.93705]
+    ]
+  },
+  "properties": {
+    "name": "Bancas Point",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 14.0,
+    "dip": 45.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 24.213805004631332,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.0
+      },
+      "GEO": {
+        "rate": 3.0
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 1031,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.06675, 40.00136],
+      [-116.05965, 40.02526],
+      [-116.0424, 40.0479],
+      [-116.03324, 40.10881],
+      [-116.03746, 40.16047],
+      [-116.04825, 40.20646]
+    ]
+  },
+  "properties": {
+    "name": "Diamond Valley",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 23.40941,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.08426488874308759,
+        "gr-a-value": 1.21819,
+        "single-rate": 1.333E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.29255,
+        "single-rate": 1.582E-4
+      },
+      "ZENG": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.40725,
+        "single-rate": 2.06E-4
+      }
+    }
+  }
+}

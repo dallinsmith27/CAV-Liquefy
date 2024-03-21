@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 1042,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-117.37549, 41.02991],
+      [-117.3622, 41.0592],
+      [-117.24001, 41.18964],
+      [-117.23112, 41.20896],
+      [-117.14415, 41.26376]
+    ]
+  },
+  "properties": {
+    "name": "Eastern Osgood Mountains",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 32.95612,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.1915111107797445,
+        "gr-a-value": 1.35869,
+        "single-rate": 2.37E-4
+      },
+      "GEO": {
+        "rate": 0.01,
+        "gr-a-value": 0.0765,
+        "single-rate": 1.24E-5
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": -0.03925,
+        "single-rate": 9.5E-6
+      }
+    }
+  }
+}

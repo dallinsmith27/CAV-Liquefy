@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 1081,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-115.43029, 37.62883],
+      [-115.44511, 37.58553],
+      [-115.45958, 37.56388],
+      [-115.45455, 37.5274]
+    ]
+  },
+  "properties": {
+    "name": "Mount Irish Range",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 11.79291,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.030641777724759123,
+        "gr-a-value": null,
+        "single-rate": 8.1778468E-5
+      },
+      "GEO": {
+        "rate": 0.01,
+        "gr-a-value": null,
+        "single-rate": 2.6688565E-5
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": null,
+        "single-rate": 2.0444617E-5
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": 3052,
+  "properties": {
+    "name": "New Madrid - SSCn (Bootheel)",
+    "state": "MO",
+    "dip": 90.0,
+    "dip-dir": "vertical",
+    "rake": 180.0,
+    "rate-type": "RECURRENCE",
+    "references": "Pratt et al., 2013; CEUS-SSCn 2012",
+    "upper-depth": 10.0,
+    "lower-depth": 25.0,
+    "status": "last updated Sept 2021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-89.60195, 36.52821],
+      [-89.71020, 36.33843],
+      [-89.83876, 36.20379],
+      [-89.89211, 36.08213],
+      [-90.07524, 35.83413]
+    ]
+  }
+}

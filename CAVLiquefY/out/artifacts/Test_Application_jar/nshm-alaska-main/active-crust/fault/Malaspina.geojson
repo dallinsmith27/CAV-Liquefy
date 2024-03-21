@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "id": 4273,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-140.911, 60.07347],
+      [-140.98578, 60.0602],
+      [-141.05277, 60.04708],
+      [-141.15695, 60.01904],
+      [-141.21198, 60.00577],
+      [-141.4484, 59.90991]
+    ]
+  },
+  "properties": {
+    "name": "Malaspina",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 14.0,
+    "dip": 20.0,
+    "rake": 90.0,
+    "rate-type": "SLIP",
+    "length": 35.30291696697533,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.0
+      },
+      "GEO": {
+        "rate": 5.0
+      }
+    }
+  }
+}

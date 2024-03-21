@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "id": 4275,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-144.19804, 59.96163],
+      [-144.26749, 59.93816],
+      [-144.3279, 59.91143],
+      [-144.38233, 59.88608],
+      [-144.49957, 59.82],
+      [-144.59665, 59.75022]
+    ]
+  },
+  "properties": {
+    "name": "Ten Fathom",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "SLIP",
+    "length": 32.6117670514511,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.0
+      },
+      "GEO": {
+        "rate": 3.5
+      }
+    }
+  }
+}

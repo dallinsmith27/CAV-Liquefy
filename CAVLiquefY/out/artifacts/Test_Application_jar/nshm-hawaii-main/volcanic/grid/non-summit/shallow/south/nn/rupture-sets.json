@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Non-Summit (shallow, south, nn)",
+    "id": 5124,
+    "feature": 5101,
+    "mfd-tree": "non-summit-shallow-south",
+    "spatial-pdf": "non-summit-shallow-south-nn-pdf.csv"
+  }
+]

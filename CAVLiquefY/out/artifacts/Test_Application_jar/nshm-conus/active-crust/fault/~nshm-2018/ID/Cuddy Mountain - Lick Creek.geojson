@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 2202,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.62605, 44.97843],
+      [-116.73178, 44.8808],
+      [-116.83709, 44.79767],
+      [-116.8753, 44.7775]
+    ]
+  },
+  "properties": {
+    "name": "Cuddy Mountain - Lick Creek",
+    "state": "ID",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 29.86447,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.04596266658713868,
+        "gr-a-value": 1.01678,
+        "single-rate": 6.13E-5
+      },
+      "GEO": {
+        "rate": 0.05,
+        "gr-a-value": 1.05334,
+        "single-rate": 6.67E-5
+      },
+      "ZENG": {
+        "rate": 0.06894399988070801,
+        "gr-a-value": 1.19287,
+        "single-rate": 9.19E-5
+      }
+    }
+  }
+}

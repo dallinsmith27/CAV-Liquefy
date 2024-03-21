@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 2421,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-106.1587, 35.89285],
+      [-106.15007, 35.9083],
+      [-106.14504, 35.93148],
+      [-106.15564, 35.96436],
+      [-106.16229, 36.02168],
+      [-106.16975, 36.03722],
+      [-106.16211, 36.05716],
+      [-106.15439, 36.06381]
+    ]
+  },
+  "properties": {
+    "name": "Puye",
+    "state": "NM",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 19.87221,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.13788799976141602,
+        "gr-a-value": 1.69098,
+        "single-rate": 2.44E-4
+      },
+      "GEO": {
+        "rate": 0.03,
+        "gr-a-value": 1.02857,
+        "single-rate": 5.31E-5
+      },
+      "ZENG": {
+        "rate": 0.030641777724759123,
+        "gr-a-value": 1.03776,
+        "single-rate": 5.42E-5
+      }
+    }
+  }
+}

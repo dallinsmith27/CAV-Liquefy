@@ -1,0 +1,66 @@
+{
+  "hazard": {
+    "exceedanceModel": "TRUNCATION_3SIGMA_UPPER",
+    "truncationLevel": 3.0,
+    "imts": [
+      "CAV"
+    ],
+    "tectonicSettings": [],
+    "sourceTypes": [],
+    "vs30s": [],
+    "useSiteData": true,
+    "valueFormat": "ANNUAL_RATE",
+    "customImls": {}
+  },
+  "gmm": {
+    "dampingRatio": 5.0,
+    "sigmaScale": 1.0,
+    "vertical": false
+  },
+  "disagg": {
+    "returnPeriod": 2475,
+    "bins": {
+      "rMin": 0.0,
+      "rMax": 1000.0,
+      "Δr": 0.0,
+      "mMin": 4.4,
+      "mMax": 9.4,
+      "Δm": 0.0,
+      "εMin": 0.0,
+      "εMax": 0.0,
+      "Δε": 0.0
+    },
+    "contributorLimit": 1.0
+  },
+  "rate": {
+    "bins": {
+      "mMin": 4.2,
+      "mMax": 9.4,
+      "Δm": 0.0
+    },
+    "distance": 20.0,
+    "distributionFormat": "INCREMENTAL",
+    "valueFormat": "ANNUAL_RATE",
+    "timespan": 30.0
+  },
+  "output": {
+    "directory": "C:\\Users\\dalli\\Documents\\GRAD_PROJECT\\Settlement\\Test Application\\src\\NshmpHaz\\HazardCurve",
+    "dataTypes": [
+      "TOTAL",
+      "MAP"
+    ],
+    "returnPeriods": [
+      475,
+      975,
+      2475,
+      10000
+    ]
+  },
+  "performance": {
+    "optimizeGrids": true,
+    "smoothGrids": true,
+    "systemPartition": 1000,
+    "threadCount": "ALL",
+    "distanceFilterUpdate": false
+  }
+}

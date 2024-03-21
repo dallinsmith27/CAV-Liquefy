@@ -1,0 +1,53 @@
+[
+  {
+    "name": "nshm-alaska",
+    "organization": "U.S. Geological Survey",
+    "description": "National Seismic Hazard Model (NSHM): Alaska",
+    "version": "main",
+    "status": "Development",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-alaska/-/raw/main/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-alaska",
+    "downloadURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-alaska/-/archive/main/nshm-alaska-main.zip",
+    "disclaimerURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-alaska/-/raw/main/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-alaska.git",
+    "vcs": "git",
+
+    "laborHours": 500,
+
+    "tags": [
+      "Earthquake Hazards",
+      "Geologic Hazards Science Center",
+      "psha",
+      "nshmp-haz",
+      "seismic-hazard",
+      "seismic-source",
+      "earthquake-hazard",
+      "earthquake-source",
+      "earthquake-source-characterization"
+    ],
+
+    "languages": [
+      "json",
+      "geojson"
+    ],
+
+    "contact": {
+      "name": "Peter Powers",
+      "email": "pmpowers@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2022-06-08"
+    }
+  }
+]

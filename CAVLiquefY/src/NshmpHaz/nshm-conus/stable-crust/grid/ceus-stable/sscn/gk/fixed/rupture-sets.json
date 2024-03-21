@@ -1,0 +1,51 @@
+[
+  {
+    "name": "SSCn Craton [1,9,10] (gk, fixed)",
+    "id": 80231,
+    "feature": 8013,
+    "mfd-tree": "grid-mmax-craton-gk",
+    "spatial-pdf": "pdf-gk-fixed.csv"
+  },
+  {
+    "name": "SSCn Gulf Coast [2,3] (gk, fixed)",
+    "id": 80241,
+    "feature": 8014,
+    "mfd-tree": "grid-mmax-margin-1-gk",
+    "spatial-pdf": "pdf-gk-fixed.csv"
+  },
+  {
+    "name": "SSCn Mesozoic [4,5] (gk, fixed)",
+    "id": 80251,
+    "feature": 8015,
+    "mfd-tree": "grid-mmax-margin-1-gk",
+    "spatial-pdf": "pdf-gk-fixed.csv"
+  },
+  {
+    "name": "SSCn Mesozoic [6] (gk, fixed)",
+    "id": 80261,
+    "feature": 8016,
+    "mfd-tree": "grid-mmax-margin-2-gk",
+    "spatial-pdf": "pdf-gk-fixed.csv"
+  },
+  {
+    "name": "SSCn Paleozoic [7] (gk, fixed)",
+    "id": 80271,
+    "feature": 8017,
+    "mfd-tree": "grid-mmax-margin-2-gk",
+    "spatial-pdf": "pdf-gk-fixed.csv"
+  },
+  {
+    "name": "SSCn Paleozoic [8] (gk, fixed)",
+    "id": 80281,
+    "feature": 8018,
+    "mfd-tree": "grid-mmax-margin-2-gk",
+    "spatial-pdf": "pdf-gk-fixed.csv"
+  },
+  {
+    "name": "SSCn default (gk, fixed)",
+    "id": 80291,
+    "feature": 8019,
+    "mfd-tree": "grid-mmax-craton-gk",
+    "spatial-pdf": "pdf-gk-fixed.csv"
+  }
+]

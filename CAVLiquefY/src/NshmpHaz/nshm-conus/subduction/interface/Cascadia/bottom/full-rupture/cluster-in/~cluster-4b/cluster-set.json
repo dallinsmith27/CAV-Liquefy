@@ -1,0 +1,43 @@
+{
+  "name": "Cluster 4b (bottom)",
+  "id": 3320,
+  "rupture-sets": [
+    {
+      "name": "4b-1",
+      "id": 3321,
+      "mfd-tree": "cluster-4b-1-bottom",
+      "sections": [
+        3200, 3201, 3202, 3203, 3204
+      ]
+    },
+    {
+      "name": "4b-2",
+      "id": 3322,
+      "mfd-tree": "cluster-4b-2-bottom",
+      "sections": [
+        3205, 3206,
+        3207, 3208, 3209
+      ]
+    },
+    {
+      "name": "4b-3",
+      "id": 3323,
+      "mfd-tree": "cluster-4b-3-bottom",
+      "sections": [
+        3210, 3211, 3212,
+        3213, 3214, 3215
+      ]
+    },
+    {
+      "name": "4b-4",
+      "id": 3324,
+      "mfd-tree": "cluster-4b-4-bottom",
+      "sections": [
+        3216, 3217, 3218, 3219, 3220, 3221
+      ]
+    }
+  ],
+  "properties": {
+    "state": "WA"
+  }
+}

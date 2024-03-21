@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2704,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-112.75636, 41.68387],
+      [-112.74944, 41.71019],
+      [-112.73354, 41.7393],
+      [-112.72923, 41.7809],
+      [-112.72141, 41.79805]
+    ]
+  },
+  "properties": {
+    "name": "Hansel Valley",
+    "state": "UT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 13.13228,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.13788799976141602,
+        "gr-a-value": 1.50757,
+        "single-rate": 1.558E-4
+      },
+      "GEO": {
+        "rate": 0.12,
+        "gr-a-value": 1.44723,
+        "single-rate": 1.356E-4
+      },
+      "ZENG": {
+        "rate": 0.12256711089903649,
+        "gr-a-value": 1.45642,
+        "single-rate": 1.385E-4
+      }
+    },
+    "magnitude": 6.6,
+    "magnitude-note": "HISTORIC_M_MAX"
+  }
+}

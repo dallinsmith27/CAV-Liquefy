@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "id": 2516,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-123.83943, 45.38928],
+      [-123.94248, 45.43977],
+      [-124.05264, 45.48379]
+    ]
+  },
+  "properties": {
+    "name": "Happy Camp",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 19.69763,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.008660254037844387,
+        "gr-a-value": 0.3821,
+        "single-rate": 1.23E-5
+      },
+      "GEO": {
+        "rate": 0.025,
+        "gr-a-value": 0.8425,
+        "single-rate": 3.55E-5
+      },
+      "ZENG": {
+        "rate": 0.034641016151377546,
+        "gr-a-value": 0.98416,
+        "single-rate": 4.92E-5
+      }
+    }
+  }
+}

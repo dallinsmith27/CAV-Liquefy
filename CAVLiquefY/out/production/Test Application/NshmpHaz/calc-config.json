@@ -1,0 +1,8 @@
+{
+  "hazard": {
+    "imts": ["CAV"]
+  },
+  "output": {
+    "directory": "src\\HazardCurve"
+  }
+}

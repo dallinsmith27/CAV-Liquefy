@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Extensional (fixed)",
+    "id": 8112,
+    "feature": 8110,
+    "mfd-tree": "wus-extensional",
+    "spatial-pdf": "pdf-ext-fixed.csv"
+  }
+]

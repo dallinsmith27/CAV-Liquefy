@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Interface (nn, adaptive, full catalog)",
+    "id": 9983,
+    "feature": 9998,
+    "mfd-tree": "interface-full",
+    "spatial-pdf": "pdf-ak-interface-nn-adaptive.csv"
+  }
+]

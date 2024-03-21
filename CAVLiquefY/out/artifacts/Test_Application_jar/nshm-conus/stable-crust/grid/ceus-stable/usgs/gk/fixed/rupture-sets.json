@@ -1,0 +1,23 @@
+[
+  {
+    "name": "USGS Craton [1,3,4] (gk, fixed)",
+    "id": 80201,
+    "feature": 8010,
+    "mfd-tree": "grid-mmax-craton-gk",
+    "spatial-pdf": "pdf-gk-fixed.csv"
+  },
+  {
+    "name": "USGS Extended Margin [2] (gk, fixed)",
+    "id": 80211,
+    "feature": 8011,
+    "mfd-tree": "grid-mmax-margin-1-gk",
+    "spatial-pdf": "pdf-gk-fixed.csv"
+  },
+  {
+    "name": "USGS default (gk, fixed)",
+    "id": 80221,
+    "feature": 8012,
+    "mfd-tree": "grid-mmax-craton-gk",
+    "spatial-pdf": "pdf-gk-fixed.csv"
+  }
+]

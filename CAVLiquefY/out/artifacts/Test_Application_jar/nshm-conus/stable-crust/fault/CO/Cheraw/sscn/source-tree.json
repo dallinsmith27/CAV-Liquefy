@@ -1,0 +1,10 @@
+[
+  {
+    "id": "slip-rate",
+    "weight": 0.5
+  },
+  {
+    "id": "recurrence-rate",
+    "weight": 0.5
+  }
+]

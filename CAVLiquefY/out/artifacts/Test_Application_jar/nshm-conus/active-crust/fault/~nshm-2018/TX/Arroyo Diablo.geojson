@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "id": 2602,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-105.72004, 31.30621],
+      [-105.69515, 31.28537],
+      [-105.63757, 31.20227]
+    ]
+  },
+  "properties": {
+    "name": "Arroyo Diablo",
+    "state": "TX",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 14.05195,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.013,
+        "gr-a-value": null,
+        "single-rate": 3.0295925E-5
+      },
+      "GEO": {
+        "rate": 0.013,
+        "gr-a-value": null,
+        "single-rate": 3.0295925E-5
+      },
+      "ZENG": {
+        "rate": 0.013,
+        "gr-a-value": null,
+        "single-rate": 3.0295925E-5
+      }
+    }
+  }
+}

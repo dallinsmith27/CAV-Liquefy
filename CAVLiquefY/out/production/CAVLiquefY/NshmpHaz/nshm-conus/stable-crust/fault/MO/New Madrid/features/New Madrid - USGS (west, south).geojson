@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "id": 3002,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-89.830, 36.346],
+      [-90.719, 35.647]
+    ]
+  },
+  "properties": {
+    "name": "New Madrid - USGS (west, south)",
+    "state": "AR",
+    "states": ["AR", "MO"],
+    "upper-depth": 10.0,
+    "lower-depth": 25.0,
+    "dip": 89.0,
+    "rake": 180.0,
+    "rate-type": "RECURRENCE"
+  }
+}

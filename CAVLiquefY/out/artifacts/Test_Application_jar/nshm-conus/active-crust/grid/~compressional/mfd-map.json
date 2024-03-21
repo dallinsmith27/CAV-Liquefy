@@ -1,0 +1,74 @@
+{
+  "wus-compressional": [
+    {
+      "id": "M1",
+      "weight": 0.45,
+      "value": {
+        "type": "GR_MMAX_GR",
+        "b": 0.8,
+        "Δm": 0.1,
+        "mMin": 5.0,
+        "mMax": 7.5
+      }
+    },
+    {
+      "id": "M2",
+      "weight": 0.45,
+      "value": {
+        "type": "GR_MMAX_SINGLE",
+        "b": 0.8,
+        "Δm": 0.1,
+        "mMin": 5.0,
+        "mMax": 7.5
+      }
+    },
+    {
+      "id": "M3",
+      "weight": 0.1,
+      "value": {
+        "type": "GR_TAPER",
+        "b": 0.8,
+        "Δm": 0.1,
+        "mMin": 5.0,
+        "mMax": 7.5,
+        "mc": 7.5
+      }
+    }
+  ],
+  "wus-compressional-puget": [
+    {
+      "id": "M1",
+      "weight": 0.45,
+      "value": { 
+        "type": "GR_MMAX_GR",    
+         "b": 0.8,
+         "Δm": 0.1,
+         "mMin": 5.0,
+         "mMax": 7.3
+      }
+    },
+    {
+      "id": "M2",
+      "weight": 0.45,
+      "value": { 
+        "type": "GR_MMAX_SINGLE", 
+        "b": 0.8,
+        "Δm": 0.1,
+        "mMin": 5.0,
+        "mMax": 7.3
+      }
+    },
+    {
+      "id": "M3",
+      "weight": 0.10,
+      "value": { 
+        "type": "GR_TAPER",
+        "b": 0.8,
+        "Δm": 0.1,
+        "mMin": 5.0,
+        "mMax": 8.0,
+        "mc": 7.5
+      }
+    }
+  ]
+}

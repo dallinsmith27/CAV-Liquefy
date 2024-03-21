@@ -1,0 +1,30 @@
+{
+  "name": "New Madrid - SSCn (AxS-BL : RFT-L : NMN-L)",
+  "id": 3083,
+  "rupture-sets": [
+    {
+      "name": "SSCn (AxS-BL: Axial (south), Bootheel)",
+      "id": 3054,
+      "sections": [3050, 3052],
+      "mfd-tree": "sscn-south"
+    },
+    {
+      "name": "SSCn (NMN-L: north, extended)",
+      "id": 3062,
+      "sections": [3060, 3061],
+      "mfd-tree": "sscn-north"
+    },
+    {
+      "name": "SSCn (RFT-L: Reelfoot, extended)",
+      "id": 3073,
+      "sections": [3070, 3071, 3072],
+      "mfd-tree": "sscn-reelfoot",
+      "properties": {
+        "width": 15.0
+      }
+    }
+  ],
+  "properties": {
+    "state": "MO"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "teton-partial": [
+    {
+      "id": "BIRD : partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 1.77665, "b": 0.8, "mMin": 6.5, "mMax": 7.22, "Δm": 0.09 }
+    },
+    {
+      "id": "GEO : partial-rupture",
+      "weight": 0.8,
+      "value": { "type": "GR", "a": 1.89054, "b": 0.8, "mMin": 6.5, "mMax": 7.16, "Δm": 0.11 }
+    },
+    {
+      "id": "ZENG : partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 1.79617, "b": 0.8, "mMin": 6.5, "mMax": 7.22, "Δm": 0.09 }
+    }
+  ],
+  "teton-full": [
+    {
+      "id": "BIRD : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 7.22, "rate": 4.737E-4 }
+    },
+    {
+      "id": "GEO : full-rupture",
+      "weight": 0.8,
+      "value": { "type": "SINGLE", "m": 7.16, "rate": 5.363E-4 }
+    },
+    {
+      "id": "ZENG : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 7.22, "rate": 4.954E-4 }
+    }
+  ]
+}

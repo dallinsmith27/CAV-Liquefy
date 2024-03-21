@@ -1,0 +1,50 @@
+{
+  "type": "Feature",
+  "id": 2881,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-122.84099, 47.59212],
+      [-122.78654, 47.59913],
+      [-122.68295, 47.60273],
+      [-122.50057, 47.59366],
+      [-122.45035, 47.58845],
+      [-122.4366, 47.56113],
+      [-122.38117, 47.55709],
+      [-122.2217, 47.5553],
+      [-122.12377, 47.53104],
+      [-122.09062, 47.52727],
+      [-122.04786, 47.52763],
+      [-122.02369, 47.53302]
+    ]
+  },
+  "properties": {
+    "name": "Seattle (middle)",
+    "state": "WA",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 45.0,
+    "rake": 90.0,
+    "rate-type": "RECURRENCE",
+    "length": 64.29441,
+    "rate-map": {
+      "BIRD": {
+        "rate": 1.0E-7,
+        "gr-a-value": 1.11,
+        "single-rate": 1.0E-7
+      },
+      "GEO": {
+        "rate": 1.0E-7,
+        "gr-a-value": 1.11,
+        "single-rate": 1.0E-7
+      },
+      "ZENG": {
+        "rate": 1.0E-7,
+        "gr-a-value": 1.11,
+        "single-rate": 1.0E-7
+      }
+    },
+    "magnitude": 7.2,
+    "magnitude-note": "OTHER_NO_FLOAT"
+  }
+}

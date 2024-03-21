@@ -1,0 +1,34 @@
+[
+  {
+    "id": "axsbl-rfts-nmns",
+    "weight": 0.294
+  },
+  {
+    "id": "axsbl-rftl-nmns",
+    "weight": 0.126
+  },
+  {
+    "id": "axsbl-rfts-nmnl",
+    "weight": 0.126
+  },
+  {
+    "id": "axsbl-rftl-nmnl",
+    "weight": 0.054
+  },
+  {
+    "id": "axsaxn-rfts-nmns",
+    "weight": 0.196
+  },
+  {
+    "id": "axsaxn-rftl-nmns",
+    "weight": 0.084
+  },
+  {
+    "id": "axsaxn-rfts-nmnl",
+    "weight": 0.084
+  },
+  {
+    "id": "axsaxn-rftl-nmnl",
+    "weight": 0.036
+  }
+]

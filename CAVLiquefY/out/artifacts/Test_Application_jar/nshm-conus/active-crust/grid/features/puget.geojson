@@ -1,0 +1,18 @@
+{
+    "type": "Feature",
+    "id": 8101,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-125.05, 41.95],
+        [-114.65, 41.95],
+        [-114.65, 50.05],
+        [-125.05, 50.05],
+        [-125.05, 41.95]
+      ]]
+    },
+    "properties": {
+      "name": "Compressional - Puget Lowland",
+      "strike": 90.0
+    }
+  }

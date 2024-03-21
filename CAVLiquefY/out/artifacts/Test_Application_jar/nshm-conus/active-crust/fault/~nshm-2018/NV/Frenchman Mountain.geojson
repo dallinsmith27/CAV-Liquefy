@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 1055,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-114.96616, 36.25691],
+      [-114.97253, 36.24245],
+      [-114.98538, 36.23742],
+      [-115.002, 36.21945],
+      [-115.01656, 36.1969],
+      [-115.0179, 36.18603],
+      [-114.99796, 36.1403],
+      [-114.96157, 36.10661]
+    ]
+  },
+  "properties": {
+    "name": "Frenchman Mountain",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 19.88449,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.09192533317427735,
+        "gr-a-value": 1.51515,
+        "single-rate": 1.628E-4
+      },
+      "GEO": {
+        "rate": 0.015,
+        "gr-a-value": 0.72781,
+        "single-rate": 2.66E-5
+      },
+      "ZENG": {
+        "rate": 0.02298133329356934,
+        "gr-a-value": 0.91309,
+        "single-rate": 4.07E-5
+      }
+    }
+  }
+}

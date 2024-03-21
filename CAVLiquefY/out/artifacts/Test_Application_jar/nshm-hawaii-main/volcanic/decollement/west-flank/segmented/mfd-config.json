@@ -1,0 +1,10 @@
+{
+  "epistemic-tree": null,
+  "aleatory-properties": {
+    "size": 11,
+    "nσ": 2,
+    "σ": 0.12
+  },
+  "minimum-magnitude": 6.5,
+  "nshm-bin-model": false
+}

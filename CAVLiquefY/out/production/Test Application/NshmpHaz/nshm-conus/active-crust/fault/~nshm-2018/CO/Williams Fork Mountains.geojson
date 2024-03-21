@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "id": 2103,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-106.15417, 39.85429],
+      [-106.17147, 39.87194],
+      [-106.19318, 39.89015],
+      [-106.21765, 39.91348],
+      [-106.23174, 39.932],
+      [-106.24817, 39.95053],
+      [-106.26205, 39.96112],
+      [-106.27196, 39.96959],
+      [-106.2849, 39.97686],
+      [-106.29109, 39.97749]
+    ]
+  },
+  "properties": {
+    "name": "Williams Fork Mountains",
+    "state": "CO",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 18.24062,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.16852977748617518,
+        "gr-a-value": 1.75842,
+        "single-rate": 3.254E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.53174,
+        "single-rate": 1.931E-4
+      },
+      "ZENG": {
+        "rate": 0.09192533317427735,
+        "gr-a-value": 1.49518,
+        "single-rate": 1.775E-4
+      }
+    }
+  }
+}

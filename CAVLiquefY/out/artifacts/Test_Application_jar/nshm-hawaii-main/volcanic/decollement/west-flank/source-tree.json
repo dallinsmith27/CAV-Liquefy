@@ -1,0 +1,14 @@
+[
+  {
+    "id": "segmented",
+    "weight": 0.5
+  },
+  {
+    "id": "merged",
+    "weight": 0.25
+  },
+  {
+    "id": "extended",
+    "weight": 0.25
+  }
+]

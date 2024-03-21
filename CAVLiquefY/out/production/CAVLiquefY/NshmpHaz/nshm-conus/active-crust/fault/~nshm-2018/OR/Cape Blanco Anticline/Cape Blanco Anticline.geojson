@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "id": 2508,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-124.95758, 43.02085],
+      [-124.87744, 42.99381],
+      [-124.79838, 42.97818],
+      [-124.75633, 42.96255],
+      [-124.68419, 42.89508],
+      [-124.6461, 42.86597],
+      [-124.60404, 42.85276],
+      [-124.4629, 42.82949]
+    ]
+  },
+  "properties": {
+    "name": "Cape Blanco Anticline",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 45.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 47.21467,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 1.4,
+        "gr-a-value": 2.20201,
+        "single-rate": 0.0015648
+      },
+      "ZENG": null
+    }
+  }
+}

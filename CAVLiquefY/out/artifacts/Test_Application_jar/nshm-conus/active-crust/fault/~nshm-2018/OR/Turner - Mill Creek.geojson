@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 2537,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-123.072, 44.76015],
+      [-123.00929, 44.81289],
+      [-122.99016, 44.82286],
+      [-122.97488, 44.81594],
+      [-122.86168, 44.83104]
+    ]
+  },
+  "properties": {
+    "name": "Turner - Mill Creek",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 20.06061,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.025980762113533156,
+        "gr-a-value": 0.86365,
+        "single-rate": 3.63E-5
+      },
+      "GEO": {
+        "rate": 0.007,
+        "gr-a-value": 0.29409,
+        "single-rate": 9.8E-6
+      },
+      "ZENG": {
+        "rate": 0.008660254037844387,
+        "gr-a-value": 0.38653,
+        "single-rate": 1.21E-5
+      }
+    }
+  }
+}

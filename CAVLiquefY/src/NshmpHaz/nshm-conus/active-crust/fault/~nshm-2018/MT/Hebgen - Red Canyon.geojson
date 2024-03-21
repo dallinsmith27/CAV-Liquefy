@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "id": 2305,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-111.35314, 44.88008],
+      [-111.33337, 44.87056],
+      [-111.32484, 44.86095],
+      [-111.29384, 44.84145],
+      [-111.26455, 44.82896],
+      [-111.24193, 44.81314],
+      [-111.22701, 44.80764],
+      [-111.16054, 44.80503],
+      [-111.1252, 44.79848],
+      [-111.10688, 44.771],
+      [-111.09746, 44.76708]
+    ]
+  },
+  "properties": {
+    "name": "Hebgen - Red Canyon",
+    "state": "MT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 25.31725,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.9575555538987225,
+        "gr-a-value": 1.45698,
+        "single-rate": 1.859E-4
+      },
+      "GEO": {
+        "rate": 0.5,
+        "gr-a-value": 1.17479,
+        "single-rate": 9.71E-5
+      },
+      "ZENG": {
+        "rate": 0.559212443476854,
+        "gr-a-value": 1.2234,
+        "single-rate": 1.086E-4
+      }
+    },
+    "magnitude": 7.3,
+    "magnitude-note": "HISTORIC_M_MAX"
+  }
+}

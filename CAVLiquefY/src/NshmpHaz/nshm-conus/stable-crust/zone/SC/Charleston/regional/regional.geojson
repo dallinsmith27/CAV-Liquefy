@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": 3712,
+  "properties": {
+    "name": "Charleston (regional)",
+    "reference": "CEUS-SSCn 2012",
+    "status": "last updated Sept 2021",
+    "state": "SC",
+    "rate": "regional.csv",
+    "strike": 50.0,
+    "mfd-tree": "charleston"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-81.55969, 32.87752],
+        [-79.30933, 34.28701],
+        [-78.35790, 33.18331],
+        [-80.61665, 31.77194],
+        [-81.55969, 32.87752]
+      ]
+    ]
+  }
+}

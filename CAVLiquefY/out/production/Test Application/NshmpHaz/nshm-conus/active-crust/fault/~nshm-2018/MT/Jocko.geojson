@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 2307,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-113.97453, 47.14798],
+      [-113.98396, 47.12525],
+      [-114.0464, 47.05608],
+      [-114.05458, 47.01825]
+    ]
+  },
+  "properties": {
+    "name": "Jocko",
+    "state": "MT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 15.90746,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.16852977748617518,
+        "gr-a-value": null,
+        "single-rate": 3.6139428E-4
+      },
+      "GEO": {
+        "rate": 0.08,
+        "gr-a-value": null,
+        "single-rate": 1.7155163E-4
+      },
+      "ZENG": {
+        "rate": 0.0766044443118978,
+        "gr-a-value": null,
+        "single-rate": 1.6427014E-4
+      }
+    }
+  }
+}

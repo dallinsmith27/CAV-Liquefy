@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 2425,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-106.25455, 35.9083],
+      [-106.25429, 35.93336],
+      [-106.26614, 35.94711],
+      [-106.28169, 35.97873]
+    ]
+  },
+  "properties": {
+    "name": "Sawyer Canyon",
+    "state": "NM",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 8.435931,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.030641777724759123,
+        "gr-a-value": null,
+        "single-rate": 1.0523261E-4
+      },
+      "GEO": {
+        "rate": 0.024,
+        "gr-a-value": null,
+        "single-rate": 8.2422899E-5
+      },
+      "ZENG": {
+        "rate": 0.02298133329356934,
+        "gr-a-value": null,
+        "single-rate": 7.8924444E-5
+      }
+    }
+  }
+}

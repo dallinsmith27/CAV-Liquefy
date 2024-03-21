@@ -1,0 +1,25 @@
+{
+  "name": "New Madrid - USGS (east, center-south)",
+  "id": 3045,
+  "rupture-sets": [
+    {
+      "name": "USGS (east, center)",
+      "id": 3041,
+      "mfd-tree": "usgs-hi-mag",
+      "properties": {
+        "width": 15.0
+      }
+    },
+    {
+      "name": "USGS (east, south)",
+      "id": 3042,
+      "mfd-tree": "usgs-hi-mag",
+      "properties": {
+        "width": 15.0
+      }
+    }
+  ],
+  "properties": {
+    "state": "MO"
+  }
+}

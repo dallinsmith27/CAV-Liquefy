@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": 5050,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [[
+      [-155.275, 19.370],
+      [-155.235, 19.410],
+      [-155.270, 19.445],
+      [-155.310, 19.405],
+      [-155.275, 19.370]
+    ]]
+  },
+  "properties": {
+    "name": "Caldera Collapse",
+    "state": "HI",
+    "rate": "caldera.csv",
+    "mfd-tree": [
+      { "id": "M1", "weight": 0.13, "value": { "type": "SINGLE", "m": 5.2 }},
+      { "id": "M2", "weight": 0.74, "value": { "type": "SINGLE", "m": 5.3 }},
+      { "id": "M3", "weight": 0.13, "value": { "type": "SINGLE", "m": 5.4 }}
+    ]
+  }
+}
+

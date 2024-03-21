@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "id": 4237,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-151.60583, 63.42405],
+      [-151.5023, 63.43277],
+      [-151.33455, 63.46381],
+      [-151.23845, 63.47027],
+      [-151.1599, 63.48132],
+      [-151.04465, 63.50137],
+      [-150.89663, 63.54647]
+    ]
+  },
+  "properties": {
+    "name": "Kantishna Hills (south)",
+    "state": "AK",
+    "upper-depth": 9.0,
+    "lower-depth": 10.0,
+    "rake": 90.0,
+    "rate-type": "SLIP",
+    "dip": 10.0,
+    "length": 38.20769013619743,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 1.2
+      },
+      "GEO": {
+        "rate": 1.2
+      }
+    }
+  }
+}

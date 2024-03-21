@@ -1,0 +1,9 @@
+[
+  {
+    "name": "WUS Branch Average",
+    "id": 8131,
+    "feature": 8130,
+    "mfd-tree": "system-active-mfd",
+    "grid-mfds": "branch-avg-grid.csv"
+  }
+]

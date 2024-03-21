@@ -1,0 +1,48 @@
+{
+  "type": "Feature",
+  "id": 2701,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-112.31972, 41.03435],
+      [-112.30193, 41.01216],
+      [-112.26563, 40.98907],
+      [-112.27228, 40.96607],
+      [-112.26994, 40.94442],
+      [-112.23724, 40.87022],
+      [-112.21703, 40.85449],
+      [-112.18441, 40.8191],
+      [-112.19564, 40.79385],
+      [-112.20426, 40.75046],
+      [-112.21451, 40.73402],
+      [-112.2305, 40.72387]
+    ]
+  },
+  "properties": {
+    "name": "Great Salt Lake (Antelope Island)",
+    "state": "UT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "RECURRENCE",
+    "length": 39.45502,
+    "rate-map": {
+      "BIRD": {
+        "rate": 2.38E-4,
+        "gr-a-value": 1.4609,
+        "single-rate": 2.38E-4
+      },
+      "GEO": {
+        "rate": 2.38E-4,
+        "gr-a-value": 1.4609,
+        "single-rate": 2.38E-4
+      },
+      "ZENG": {
+        "rate": 2.38E-4,
+        "gr-a-value": 1.4609,
+        "single-rate": 2.38E-4
+      }
+    }
+  }
+}

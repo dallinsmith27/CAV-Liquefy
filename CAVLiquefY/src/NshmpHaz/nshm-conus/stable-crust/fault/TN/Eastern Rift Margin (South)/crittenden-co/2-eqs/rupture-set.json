@@ -1,0 +1,9 @@
+{
+  "name": "Eastern Rift Margin (South) (crittenden-co)",
+  "id": 3801,
+  "sections": [3802, 3803, 3804],
+  "mfd-tree": "eastern-rift-margin-south",
+  "properties": {
+    "width": 15.0
+  }
+}

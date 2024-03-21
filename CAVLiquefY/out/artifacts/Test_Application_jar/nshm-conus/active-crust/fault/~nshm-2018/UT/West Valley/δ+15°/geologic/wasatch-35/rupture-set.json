@@ -1,0 +1,9 @@
+{
+  "name": "West Valley (Wasatch 35°)",
+  "id": 2717,
+  "mfd-tree": "west-valley-geologic",
+  "properties": {
+    "dip": 65.0,
+    "width": 6.63964
+  }
+}

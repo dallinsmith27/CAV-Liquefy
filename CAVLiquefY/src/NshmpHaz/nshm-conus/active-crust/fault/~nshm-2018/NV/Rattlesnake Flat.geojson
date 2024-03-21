@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "id": 1097,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-118.479, 38.3246],
+      [-118.44666, 38.32047],
+      [-118.33849, 38.35057],
+      [-118.3091, 38.35362]
+    ]
+  },
+  "properties": {
+    "name": "Rattlesnake Flat",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 0.0,
+    "rate-type": "SLIP",
+    "length": 15.45384,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": null,
+        "single-rate": 1.2654565E-4
+      },
+      "ZENG": {
+        "rate": 0.12,
+        "gr-a-value": null,
+        "single-rate": 1.5185478E-4
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "id": 4231,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-143.67832, 63.87218],
+      [-143.75459, 63.84714],
+      [-143.86963, 63.81286],
+      [-143.97768, 63.77835]
+    ]
+  },
+  "properties": {
+    "name": "Billy Creek",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 45.0,
+    "rate-type": "SLIP",
+    "length": 18.016098841123423,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.01
+      },
+      "GEO": {
+        "rate": 0.01
+      }
+    }
+  }
+}

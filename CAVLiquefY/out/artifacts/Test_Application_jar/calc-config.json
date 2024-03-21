@@ -1,0 +1,8 @@
+{
+  "hazard": {
+    "imts": ["CAV"]
+  },
+  "output": {
+    "directory": "C:\\Users\\dalli\\Documents\\GRAD_PROJECT\\Settlement\\CAVLiquefY\\out\\artifacts\\Test_Application_jar\\HazardCurve"
+  }
+}

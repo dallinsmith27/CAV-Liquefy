@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Compressional - Puget Lowland",
+    "id": 8101,
+    "feature": 8101,
+    "mfd-tree": "wus-compressional-puget",
+    "spatial-pdf": "pdf-cmp-puget.csv"
+  }
+]

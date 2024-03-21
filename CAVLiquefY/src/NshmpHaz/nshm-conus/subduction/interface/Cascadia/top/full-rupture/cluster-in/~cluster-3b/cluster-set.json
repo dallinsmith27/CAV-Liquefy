@@ -1,0 +1,35 @@
+{
+  "name": "Cluster 3b (top)",
+  "id": 3390,
+  "rupture-sets": [
+    {
+      "name": "3b-1",
+      "id": 3391,
+      "mfd-tree": "cluster-3b-1-top",
+      "sections": [
+        3260, 3261, 3262, 3263, 3264, 3265, 3266
+      ]
+    },
+    {
+      "name": "3b-2",
+      "id": 3392,
+      "mfd-tree": "cluster-3b-2-top",
+      "sections": [
+        3267, 3268, 3269,
+        3270, 3271, 3272,
+        3273, 3274
+      ]
+    },
+    {
+      "name": "3b-3",
+      "id": 3393,
+      "mfd-tree": "cluster-3b-3-top",
+      "sections": [
+        3275, 3276, 3277, 3278, 3279, 3280, 3281
+      ]
+    }
+  ],
+  "properties": {
+    "state": "WA"
+  }
+}

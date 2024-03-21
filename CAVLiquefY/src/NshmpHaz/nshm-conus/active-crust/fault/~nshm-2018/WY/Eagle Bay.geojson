@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2901,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-110.38652, 44.25239],
+      [-110.39101, 44.26587],
+      [-110.41231, 44.29488],
+      [-110.41402, 44.33513],
+      [-110.39506, 44.37978],
+      [-110.4035, 44.47421],
+      [-110.38841, 44.53044]
+    ]
+  },
+  "properties": {
+    "name": "Eagle Bay",
+    "state": "WY",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 31.74049,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.559212443476854,
+        "gr-a-value": 1.81533,
+        "single-rate": 7.143E-4
+      },
+      "GEO": {
+        "rate": 0.48,
+        "gr-a-value": 1.749,
+        "single-rate": 6.131E-4
+      },
+      "ZENG": {
+        "rate": 0.5055893324585256,
+        "gr-a-value": 1.77155,
+        "single-rate": 6.458E-4
+      }
+    }
+  }
+}

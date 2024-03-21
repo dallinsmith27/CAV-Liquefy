@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2804,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-123.29797, 48.02582],
+      [-123.34356, 48.02541],
+      [-123.36143, 48.03072],
+      [-123.3978, 48.03357],
+      [-123.4844, 48.05117],
+      [-123.67229, 48.07483],
+      [-123.68792, 48.07669]
+    ]
+  },
+  "properties": {
+    "name": "Lake Creek - Boundary Creek",
+    "state": "WA",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 29.68525,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.4503332099679081,
+        "gr-a-value": 1.89874,
+        "single-rate": 4.669E-4
+      },
+      "GEO": {
+        "rate": 0.43,
+        "gr-a-value": 1.87867,
+        "single-rate": 4.458E-4
+      },
+      "ZENG": {
+        "rate": 0.5888972745734183,
+        "gr-a-value": 2.01524,
+        "single-rate": 6.106E-4
+      }
+    }
+  }
+}

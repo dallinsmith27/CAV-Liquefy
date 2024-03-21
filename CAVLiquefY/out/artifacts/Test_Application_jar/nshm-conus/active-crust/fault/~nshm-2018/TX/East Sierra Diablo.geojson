@@ -1,0 +1,47 @@
+{
+  "type": "Feature",
+  "id": 2607,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-104.87319, 31.2241],
+      [-104.87616, 31.29381],
+      [-104.86143, 31.30927],
+      [-104.85011, 31.33083],
+      [-104.87679, 31.38994],
+      [-104.87059, 31.39596],
+      [-104.8776, 31.42569],
+      [-104.87625, 31.4389],
+      [-104.86682, 31.46774],
+      [-104.85981, 31.47466],
+      [-104.87176, 31.51688]
+    ]
+  },
+  "properties": {
+    "name": "East Sierra Diablo",
+    "state": "TX",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 34.56035,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.02,
+        "gr-a-value": 0.39056,
+        "single-rate": 2.42E-5
+      },
+      "GEO": {
+        "rate": 0.02,
+        "gr-a-value": 0.39056,
+        "single-rate": 2.42E-5
+      },
+      "ZENG": {
+        "rate": 0.02,
+        "gr-a-value": 0.39056,
+        "single-rate": 2.42E-5
+      }
+    }
+  }
+}

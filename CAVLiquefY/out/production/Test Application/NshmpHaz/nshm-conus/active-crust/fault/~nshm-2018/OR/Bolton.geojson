@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 2507,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-122.69009, 45.40879],
+      [-122.66305, 45.40232],
+      [-122.63232, 45.37447],
+      [-122.61615, 45.36495],
+      [-122.60034, 45.36153]
+    ]
+  },
+  "properties": {
+    "name": "Bolton",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 9.08917,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.025980762113533156,
+        "gr-a-value": null,
+        "single-rate": 6.5513144E-5
+      },
+      "GEO": {
+        "rate": 0.013,
+        "gr-a-value": null,
+        "single-rate": 3.2780845E-5
+      },
+      "ZENG": {
+        "rate": 0.025980762113533156,
+        "gr-a-value": null,
+        "single-rate": 6.5513144E-5
+      }
+    }
+  }
+}

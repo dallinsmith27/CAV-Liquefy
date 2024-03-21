@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Compressional - WA,OR (adaptive)",
+    "id": 8103,
+    "feature": 8100,
+    "mfd-tree": "wus-compressional",
+    "spatial-pdf": "pdf-cmp-wa-or-adaptive.csv"
+  }
+]

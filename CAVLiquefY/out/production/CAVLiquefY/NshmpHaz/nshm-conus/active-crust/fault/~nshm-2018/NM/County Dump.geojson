@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 2405,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-106.77572, 35.00849],
+      [-106.78407, 35.10507],
+      [-106.78246, 35.18304],
+      [-106.80033, 35.24476],
+      [-106.78281, 35.2807],
+      [-106.74993, 35.32597]
+    ]
+  },
+  "properties": {
+    "name": "County Dump",
+    "state": "NM",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 36.64471,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.0383022221559489,
+        "gr-a-value": 0.6867,
+        "single-rate": 4.44E-5
+      },
+      "GEO": {
+        "rate": 0.038,
+        "gr-a-value": 0.68326,
+        "single-rate": 4.4E-5
+      },
+      "ZENG": {
+        "rate": 0.04596266658713868,
+        "gr-a-value": 0.76588,
+        "single-rate": 5.32E-5
+      }
+    }
+  }
+}

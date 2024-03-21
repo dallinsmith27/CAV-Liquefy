@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Compressional - No Puget (fixed)",
+    "id": 8106,
+    "feature": 8102,
+    "mfd-tree": "wus-compressional",
+    "spatial-pdf": "pdf-cmp-no-puget-fixed.csv"
+  }
+]

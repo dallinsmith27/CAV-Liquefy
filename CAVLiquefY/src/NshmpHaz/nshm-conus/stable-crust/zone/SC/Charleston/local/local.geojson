@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": 3710,
+  "properties": {
+    "name": "Charleston (local)",
+    "reference": "CEUS-SSCn 2012",
+    "status": "last updated Sept 2021",
+    "state": "SC",
+    "rate": "local.csv",
+    "strike": 50.0,
+    "mfd-tree": "charleston"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-80.69841, 32.85038],
+        [-79.84357, 33.38907],
+        [-79.52452, 33.02700],
+        [-80.37770, 32.49418],
+        [-80.69841, 32.85038]
+      ]
+    ]
+  }
+}

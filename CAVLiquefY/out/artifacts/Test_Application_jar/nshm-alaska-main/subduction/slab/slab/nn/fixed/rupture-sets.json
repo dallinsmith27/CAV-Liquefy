@@ -1,0 +1,9 @@
+[
+  {
+    "name": "AK Slab (nn, fixed, full catalog)",
+    "id": 37005,
+    "feature": 37001,
+    "mfd-tree": "slab-full",
+    "spatial-pdf": "pdf-ak-slab-nn-fixed.csv"
+  }
+]

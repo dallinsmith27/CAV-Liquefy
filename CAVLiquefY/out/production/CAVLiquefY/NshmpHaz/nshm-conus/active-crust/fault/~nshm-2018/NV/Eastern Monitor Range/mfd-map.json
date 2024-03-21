@@ -1,0 +1,38 @@
+{
+  "monitor-bird": [
+    {
+      "id": "full-rupture",
+      "weight": 0.667,
+      "value": { "type": "SINGLE", "m": 7.43, "rate": 7.9E-6 }
+    },
+    {
+      "id": "partial-rupture",
+      "weight": 0.333,
+      "value": { "type": "GR", "a": 0.22471, "b": 0.8, "mMin": 6.5, "mMax": 7.43, "Δm": 0.1162 }
+    }
+  ],
+  "monitor-geo": [
+    {
+      "id": "full-rupture",
+      "weight": 0.667,
+      "value": { "type": "SINGLE", "m": 7.43, "rate": 5.16E-5 }
+    },
+    {
+      "id": "partial-rupture",
+      "weight": 0.333,
+      "value": { "type": "GR", "a": 1.03943, "b": 0.8, "mMin": 6.5, "mMax": 7.43, "Δm": 0.1162 }
+    }
+  ],
+  "monitor-zeng": [
+    {
+      "id": "full-rupture",
+      "weight": 0.667,
+      "value": { "type": "SINGLE", "m": 7.43, "rate": 6.71E-5 }
+    },
+    {
+      "id": "partial-rupture",
+      "weight": 0.333,
+      "value": { "type": "GR", "a": 1.15413, "b": 0.8, "mMin": 6.5, "mMax": 7.43, "Δm": 0.1162 }
+    }
+  ]
+}

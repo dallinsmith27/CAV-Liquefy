@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "id": 2803,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.54414, 46.26611],
+      [-119.49335, 46.24121],
+      [-119.40535, 46.21926],
+      [-119.34647, 46.20287],
+      [-119.25161, 46.15009],
+      [-119.18488, 46.12221],
+      [-119.07683, 46.10279],
+      [-119.00065, 46.05051],
+      [-118.88065, 46.01018]
+    ]
+  },
+  "properties": {
+    "name": "Horse Heaven Hills",
+    "state": "WA",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 59.40533,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.034641016151377546,
+        "gr-a-value": 0.47086,
+        "single-rate": 2.15E-5
+      },
+      "GEO": {
+        "rate": 0.031,
+        "gr-a-value": 0.42263,
+        "single-rate": 1.92E-5
+      },
+      "ZENG": {
+        "rate": 0.05196152422706631,
+        "gr-a-value": 0.64695,
+        "single-rate": 3.22E-5
+      }
+    }
+  }
+}

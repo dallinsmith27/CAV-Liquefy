@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "id": 2311,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-112.79269, 44.94772],
+      [-112.752, 44.90801],
+      [-112.70627, 44.8736]
+    ]
+  },
+  "properties": {
+    "name": "Red Rock Hills",
+    "state": "MT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 10.71093,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.13788799976141602,
+        "gr-a-value": null,
+        "single-rate": 3.9724528E-4
+      },
+      "GEO": {
+        "rate": 0.17,
+        "gr-a-value": null,
+        "single-rate": 4.8975786E-4
+      },
+      "ZENG": {
+        "rate": 0.16852977748617518,
+        "gr-a-value": null,
+        "single-rate": 4.85522E-4
+      }
+    }
+  }
+}

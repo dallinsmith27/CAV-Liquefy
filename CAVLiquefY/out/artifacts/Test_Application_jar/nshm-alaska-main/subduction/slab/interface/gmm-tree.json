@@ -1,0 +1,8 @@
+[
+  { "id": "AG_20_GLOBAL_INTERFACE", "weight": 0.1666 },
+  { "id": "AG_20_GLOBAL_INTERFACE_AK_BIAS_CORR", "weight": 0.1667 },
+  { "id": "KBCG_20_GLOBAL_INTERFACE", "weight": 0.1666 },
+  { "id": "KBCG_20_GLOBAL_INTERFACE_AK_BIAS_CORR", "weight": 0.1667 },
+  { "id": "PSBAH_20_ALASKA_INTERFACE", "weight": 0.1667 },
+  { "id": "PSBAH_20_ALASKA_INTERFACE_AK_BIAS_CORR", "weight": 0.1667 }
+]

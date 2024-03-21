@@ -1,0 +1,249 @@
+{
+  "wasatch-all": [
+    {
+      "id": "BIRD : partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.46801, "b": 0.8, "mMin": 6.5, "mMax": 7.4, "Δm": 0.1125 }
+    },
+    {
+      "id": "GEO : partial-rupture",
+      "weight": 0.8,
+      "value": { "type": "GR", "a": 2.71969, "b": 0.8, "mMin": 6.5, "mMax": 7.4, "Δm": 0.1125 }
+    },
+    {
+      "id": "ZENG : partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.50019, "b": 0.8, "mMin": 6.5, "mMax": 7.4, "Δm": 0.1125 }
+    }    
+  ],
+  "wasatch-brigham-city-partial": [
+    {
+      "id": "BIRD: partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.06512, "b": 0.8, "mMin": 6.5, "mMax": 6.95, "Δm": 0.1125 }
+    },
+    {
+      "id": "GEO: partial-rupture",
+      "weight": 0.8,
+      "value": { "type": "GR", "a": 2.06512, "b": 0.8, "mMin": 6.5, "mMax": 6.95, "Δm": 0.1125 }
+    },
+    {
+      "id": "ZENG: partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.06512, "b": 0.8, "mMin": 6.5, "mMax": 6.95, "Δm": 0.1125 }
+    }
+  ],
+  "wasatch-brigham-city-full": [
+    {
+      "id": "BIRD : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 6.95, "rate": 9.09E-4 }
+    },
+    {
+      "id": "GEO : full-rupture",
+      "weight": 0.8,
+      "value": { "type": "SINGLE", "m": 6.95, "rate": 9.09E-4 }
+    },
+    {
+      "id": "ZENG : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 6.95, "rate": 9.09E-4 }
+    }
+  ],
+  "wasatch-weber-partial": [
+    {
+      "id": "BIRD: partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.03614, "b": 0.8, "mMin": 6.5, "mMax": 7.15, "Δm": 0.1083 }
+    },
+    {
+      "id": "GEO: partial-rupture",
+      "weight": 0.8,
+      "value": { "type": "GR", "a": 2.04706, "b": 0.8, "mMin": 6.5, "mMax": 7.16, "Δm": 0.11 }
+    },
+    {
+      "id": "ZENG: partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.03614, "b": 0.8, "mMin": 6.5, "mMax": 7.15, "Δm": 0.1083 }
+    }
+  ],
+  "wasatch-weber-full": [
+    {
+      "id": "BIRD : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 7.15, "rate": 7.69E-4 }
+    },
+    {
+      "id": "GEO : full-rupture",
+      "weight": 0.8,
+      "value": { "type": "SINGLE", "m": 7.16, "rate": 7.69E-4 }
+    },
+    {
+      "id": "ZENG : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 7.15, "rate": 7.69E-4 }
+    }
+  ],
+  "wasatch-slc-partial-geodetic": [
+    {
+      "id": "BIRD: partial-rupture",
+      "weight": 0.5,
+      "value": { "type": "GR", "a": 1.90452, "b": 0.8, "mMin": 6.5, "mMax": 7.03, "Δm": 0.0883 }
+    },
+    {
+      "id": "ZENG: partial-rupture",
+      "weight": 0.5,
+      "value": { "type": "GR", "a": 1.90452, "b": 0.8, "mMin": 6.5, "mMax": 7.03, "Δm": 0.0883 }
+    }
+  ],
+  "wasatch-slc-partial-geologic": [
+    {
+      "id": "GEO: partial-rupture",
+      "weight": 1.0,
+      "value": { "type": "GR", "a": 2.116, "b": 0.8, "mMin": 6.5, "mMax": 7.051, "Δm": 0.0917 }
+    }
+  ],
+  "wasatch-slc-full-geodetic": [
+    {
+      "id": "BIRD: full-rupture",
+      "weight": 0.5,
+      "value": { "type": "SINGLE", "m": 7.03, "rate": 7.69E-4 }
+    },
+    {
+      "id": "ZENG: full-rupture",
+      "weight": 0.5,
+      "value": { "type": "SINGLE", "m": 7.03, "rate": 7.69E-4 }
+    }
+  ],
+  "wasatch-slc-full-geologic": [
+    {
+      "id": "GEO: full-rupture",
+      "weight": 1.0,
+      "value": { "type": "SINGLE", "m": 7.05, "rate": 7.69E-4 }
+    }
+  ],
+  "wasatch-slc-connected": [
+    {
+      "id": "GEO: full-rupture",
+      "weight": 1.0,
+      "value": { "type": "SINGLE", "m": 7.07, "rate": 7.69E-4 }
+    }
+  ],
+  "wasatch-slc-cluster-north": [
+    { "id": "M1", "weight": 0.2, "value": { "type": "SINGLE", "m": 6.03 }},
+    { "id": "M2", "weight": 0.6, "value": { "type": "SINGLE", "m": 6.23 }},
+    { "id": "M3", "weight": 0.2, "value": { "type": "SINGLE", "m": 6.43 }}
+  ],
+  "wasatch-slc-cluster-tear": [
+    { "id": "M1", "weight": 0.2, "value": { "type": "SINGLE", "m": 4.2 }},
+    { "id": "M2", "weight": 0.6, "value": { "type": "SINGLE", "m": 4.4 }},
+    { "id": "M3", "weight": 0.2, "value": { "type": "SINGLE", "m": 4.6 }}
+  ],
+  "wasatch-slc-cluster-south": [
+    { "id": "M1", "weight": 0.2, "value": { "type": "SINGLE", "m": 6.7 }},
+    { "id": "M2", "weight": 0.6, "value": { "type": "SINGLE", "m": 6.9 }},
+    { "id": "M3", "weight": 0.2, "value": { "type": "SINGLE", "m": 7.1 }}
+  ],
+  "wasatch-provo-partial": [
+    {
+      "id": "BIRD: partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.04125, "b": 0.8, "mMin": 6.5, "mMax": 7.27, "Δm": 0.0962 }
+    },
+    {
+      "id": "GEO: partial-rupture",
+      "weight": 0.8,
+      "value": { "type": "GR", "a": 2.04125, "b": 0.8, "mMin": 6.5, "mMax": 7.27, "Δm": 0.0962 }
+    },
+    {
+      "id": "ZENG: partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.04125, "b": 0.8, "mMin": 6.5, "mMax": 7.27, "Δm": 0.0962 }
+    }
+  ],
+  "wasatch-provo-full": [
+    {
+      "id": "BIRD : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 7.27, "rate": 7.69E-4 }
+    },
+    {
+      "id": "GEO : full-rupture",
+      "weight": 0.8,
+      "value": { "type": "SINGLE", "m": 7.27, "rate": 7.69E-4 }
+    },
+    {
+      "id": "ZENG : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 7.27, "rate": 7.69E-4 }
+    }
+  ],
+  "wasatch-nephi-partial": [
+    {
+      "id": "BIRD: partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.04185, "b": 0.8, "mMin": 6.5, "mMax": 7.01, "Δm": 0.085 }
+    },
+    {
+      "id": "GEO: partial-rupture",
+      "weight": 0.8,
+      "value": { "type": "GR", "a": 2.04185, "b": 0.8, "mMin": 6.5, "mMax": 7.01, "Δm": 0.085 }
+    },
+    {
+      "id": "ZENG: partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.04185, "b": 0.8, "mMin": 6.5, "mMax": 7.01, "Δm": 0.085 }
+    }
+  ],
+  "wasatch-nephi-full": [
+    {
+      "id": "BIRD : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 7.01, "rate": 0.00111 }
+    },
+    {
+      "id": "GEO : full-rupture",
+      "weight": 0.8,
+      "value": { "type": "SINGLE", "m": 7.01, "rate": 0.00111 }
+    },
+    {
+      "id": "ZENG : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 7.01, "rate": 0.00111 }
+    }
+  ],
+  "wasatch-levan-partial": [
+    {
+      "id": "BIRD: partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 1.69078, "b": 0.8, "mMin": 6.5, "mMax": 6.83, "Δm": 0.0825 }
+    },
+    {
+      "id": "GEO: partial-rupture",
+      "weight": 0.8,
+      "value": { "type": "GR", "a": 1.55126, "b": 0.8, "mMin": 6.5, "mMax": 6.83, "Δm": 0.0825 }
+    },
+    {
+      "id": "ZENG: partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 2.15429, "b": 0.8, "mMin": 6.5, "mMax": 6.83, "Δm": 0.0825 }
+    }
+  ],
+  "wasatch-levan-full": [
+    {
+      "id": "BIRD : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 6.83, "rate": 5.226E-4 }
+    },
+    {
+      "id": "GEO : full-rupture",
+      "weight": 0.8,
+      "value": { "type": "SINGLE", "m": 6.83, "rate": 3.79E-4 }
+    },
+    {
+      "id": "ZENG : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 6.83, "rate": 0.0015193 }
+    }
+  ]
+}

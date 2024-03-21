@@ -1,0 +1,30 @@
+{
+  "name": "Cheraw (USGS)",
+  "id": 2180,
+  "mfd-tree": [
+    {
+      "id": "full-rupture",
+      "weight": 0.5,
+      "value": {
+        "type": "SINGLE",
+        "m": 7.0,
+        "rate": 0.0001148
+      }
+    },
+    {
+      "id": "partial-rupture",
+      "weight": 0.5,
+      "value": {
+        "type": "GR",
+        "a": 2.14217,
+        "b": 0.95,
+        "mMin": 6.5,
+        "mMax": 7.0,
+        "Δm": 0.1
+      }
+    }
+  ],
+  "properties": {
+    "width": 17.3205
+  }
+}

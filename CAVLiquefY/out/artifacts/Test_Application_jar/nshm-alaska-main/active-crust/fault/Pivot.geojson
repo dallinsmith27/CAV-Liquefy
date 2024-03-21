@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "id": 4213,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-157.35917, 65.19713],
+      [-157.23728, 65.2366],
+      [-157.11676, 65.27542],
+      [-156.99285, 65.31514],
+      [-156.86639, 65.34754],
+      [-156.74594, 65.37824]
+    ]
+  },
+  "properties": {
+    "name": "Pivot",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 180.0,
+    "rate-type": "SLIP",
+    "length": 34.945062662451704,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.01
+      },
+      "GEO": {
+        "rate": 0.01
+      }
+    }
+  }
+}

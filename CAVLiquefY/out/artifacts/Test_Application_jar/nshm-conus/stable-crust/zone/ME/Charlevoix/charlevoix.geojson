@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "id": 3500,
+  "properties": {
+    "name": "Charlevoix",
+    "reference": "CEUS-SSCn 2012",
+    "status": "last updated Sept 2021",
+    "state": "ME",
+    "rate": "charlevoix.csv",
+    "mfd-tree": [
+      { "id": "M1", "weight": 0.2, "value": { "type": "SINGLE", "m": 6.75 }},
+      { "id": "M2", "weight": 0.5, "value": { "type": "SINGLE", "m": 7.00 }},
+      { "id": "M3", "weight": 0.2, "value": { "type": "SINGLE", "m": 7.25 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "SINGLE", "m": 7.50 }}
+    ]
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-70.78993, 47.46127],
+        [-70.39319, 47.85425],
+        [-69.95667, 47.94892],
+        [-69.82713, 47.91195],
+        [-69.53350, 47.79017],
+        [-69.53048, 47.69181],
+        [-70.26876, 47.08365],
+        [-70.39539, 46.97302],
+        [-70.70941, 47.24120],
+        [-70.78993, 47.46127]
+      ]
+    ]
+  }
+}

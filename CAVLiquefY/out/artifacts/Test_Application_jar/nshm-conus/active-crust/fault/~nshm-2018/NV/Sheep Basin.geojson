@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 1106,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-115.16894, 37.00041],
+      [-115.16983, 36.95478],
+      [-115.13677, 36.89458],
+      [-115.13048, 36.83852],
+      [-115.13569, 36.80484]
+    ]
+  },
+  "properties": {
+    "name": "Sheep Basin",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 22.41908,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.053623111018328465,
+        "gr-a-value": 1.01035,
+        "single-rate": 8.7E-5
+      },
+      "GEO": {
+        "rate": 0.044,
+        "gr-a-value": 0.92445,
+        "single-rate": 7.14E-5
+      },
+      "ZENG": {
+        "rate": 0.061283555449518246,
+        "gr-a-value": 1.06834,
+        "single-rate": 9.95E-5
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "caballo-geodetic": [
+    {
+      "id": "BIRD : full-rupture",
+      "weight": 0.3335,
+      "value": { "type": "SINGLE", "m": 6.97, "rate": 5.44E-5 }
+    },
+    {
+      "id": "BIRD : partial-rupture",
+      "weight": 0.1665,
+      "value": { "type": "GR", "a": 0.86471, "b": 0.8, "mMin": 6.5, "mMax": 6.97, "Δm": 0.1175 }
+    },
+    {
+      "id": "ZENG : full-rupture",
+      "weight": 0.3335,
+      "value": { "type": "SINGLE", "m": 6.97, "rate": 3.11E-5 }
+    },
+    {
+      "id": "ZENG : partial-rupture",
+      "weight": 0.1665,
+      "value": { "type": "GR", "a": 0.62167, "b": 0.8, "mMin": 6.5, "mMax": 6.97, "Δm": 0.1175 }
+    }
+  ],
+  "caballo-geologic": [
+    {
+      "id": "GEO : full-rupture",
+      "weight": 0.667,
+      "value": { "type": "SINGLE", "m": 6.97, "rate": 2.54E-5 }
+    },
+    {
+      "id": "GEO : partial-rupture",
+      "weight": 0.333,
+      "value": { "type": "GR", "a": 0.5333, "b": 0.8, "mMin": 6.5, "mMax": 6.97, "Δm": 0.1175 }
+    }
+  ]
+}

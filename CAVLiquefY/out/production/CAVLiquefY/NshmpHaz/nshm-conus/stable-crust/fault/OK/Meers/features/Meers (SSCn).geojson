@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": 3201,  
+  "properties": {
+    "name": "Meers (SSCn)",
+    "state": "OK",
+    "dip": 89.0,
+    "dip-dir": "SW",
+    "rake": 35.0,
+    "references": "Hornsby et al., 2019; CEUS-SSCn 2012",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "rate-type": "RECURRENCE",
+    "status": "last updated Sept 2021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-98.69977, 34.87260],
+      [-98.62713, 34.84200],
+      [-98.39863, 34.75041],
+      [-98.33011, 34.73293],
+      [-98.29065, 34.71189]
+    ]
+  }
+}

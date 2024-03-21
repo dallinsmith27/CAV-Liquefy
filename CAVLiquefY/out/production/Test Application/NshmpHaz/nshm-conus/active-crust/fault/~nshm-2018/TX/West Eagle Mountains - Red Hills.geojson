@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 2609,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-105.26949, 31.00319],
+      [-105.218, 30.95468],
+      [-105.19016, 30.94183],
+      [-105.15709, 30.90023],
+      [-105.12637, 30.87256],
+      [-105.08549, 30.85675]
+    ]
+  },
+  "properties": {
+    "name": "West Eagle Mountains - Red Hills",
+    "state": "TX",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 24.43695,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.013,
+        "gr-a-value": 0.41789,
+        "single-rate": 2.0E-5
+      },
+      "GEO": {
+        "rate": 0.013,
+        "gr-a-value": 0.41789,
+        "single-rate": 2.0E-5
+      },
+      "ZENG": {
+        "rate": 0.013,
+        "gr-a-value": 0.41789,
+        "single-rate": 2.0E-5
+      }
+    }
+  }
+}

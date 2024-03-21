@@ -1,0 +1,18 @@
+{
+  "name": "Meers (USGS)",
+  "id": 3200,
+  "mfd-tree": [
+    {
+      "id": "full-rupture",
+      "weight": 1.0,
+      "value": {
+        "type": "SINGLE",
+        "m": 7.0,
+        "rate": 0.000222
+      }
+    }
+  ],
+  "properties": {
+    "width": 15.0
+  }
+}

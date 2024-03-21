@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 2426,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-106.90891, 33.81574],
+      [-106.9221, 33.97577],
+      [-106.94431, 34.07654],
+      [-106.97007, 34.14899],
+      [-106.96177, 34.21656],
+      [-106.94688, 34.25074]
+    ]
+  },
+  "properties": {
+    "name": "Socorro Canyon",
+    "state": "NM",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 49.21831,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.02298133329356934,
+        "gr-a-value": 0.35781,
+        "single-rate": 2.13E-5
+      },
+      "GEO": {
+        "rate": 0.027,
+        "gr-a-value": 0.4278,
+        "single-rate": 2.5E-5
+      },
+      "ZENG": {
+        "rate": 0.0383022221559489,
+        "gr-a-value": 0.57966,
+        "single-rate": 3.55E-5
+      }
+    }
+  }
+}

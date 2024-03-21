@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "id": 4214,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-163.69813, 65.09349],
+      [-163.35974, 65.16999],
+      [-163.15799, 65.15721],
+      [-163.05429, 65.17339],
+      [-162.91102, 65.16233],
+      [-162.76576, 65.17553]
+    ]
+  },
+  "properties": {
+    "name": "Bendeleben",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 46.40323405539311,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.2
+      },
+      "GEO": {
+        "rate": 0.2
+      }
+    }
+  }
+}

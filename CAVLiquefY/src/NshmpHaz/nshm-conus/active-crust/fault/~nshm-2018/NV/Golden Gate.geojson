@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 1056,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-115.39588, 37.82791],
+      [-115.36785, 37.90993],
+      [-115.36786, 37.97489],
+      [-115.30784, 38.14208]
+    ]
+  },
+  "properties": {
+    "name": "Golden Gate",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 35.98992,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.09958577760546715,
+        "gr-a-value": 1.09384,
+        "single-rate": 1.133E-4
+      },
+      "GEO": {
+        "rate": 0.01,
+        "gr-a-value": 0.09565,
+        "single-rate": 1.14E-5
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": -0.0201,
+        "single-rate": 8.7E-6
+      }
+    }
+  }
+}

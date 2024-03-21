@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "id": 4239,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-151.59403, 63.12781],
+      [-151.54993, 63.13657],
+      [-151.50454, 63.16012],
+      [-151.37245, 63.1707],
+      [-151.35925, 63.16449],
+      [-151.27684, 63.17106],
+      [-151.22104, 63.17268]
+    ]
+  },
+  "properties": {
+    "name": "Chedotlothna",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 45.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 20.589847539666753,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.01
+      },
+      "GEO": {
+        "rate": 0.01
+      }
+    }
+  }
+}

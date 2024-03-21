@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2536,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-118.35309, 42.64705],
+      [-118.36623, 42.58368],
+      [-118.37079, 42.50924],
+      [-118.40256, 42.48247],
+      [-118.40904, 42.41889],
+      [-118.47491, 42.40152],
+      [-118.49209, 42.3618]
+    ]
+  },
+  "properties": {
+    "name": "Tule Springs Rims",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 36.84005,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.06894399988070801,
+        "gr-a-value": 0.94044,
+        "single-rate": 7.75E-5
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.10194,
+        "single-rate": 1.125E-4
+      },
+      "ZENG": {
+        "rate": 0.12256711089903649,
+        "gr-a-value": 1.19031,
+        "single-rate": 1.378E-4
+      }
+    }
+  }
+}

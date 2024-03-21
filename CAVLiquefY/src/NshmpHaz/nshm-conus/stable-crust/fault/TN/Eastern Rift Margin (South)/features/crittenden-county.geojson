@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "id": 3806,
+  "properties": {
+    "name": "Crittenden County",
+    "state": "AR",
+    "dip": 90.0,
+    "dip-dir": "vertical",
+    "rake": 180.0,
+    "references": "Marlow et al., 2021; CEUS-SSCn 2012",
+    "upper-depth": 10.0,
+    "lower-depth": 25.0,
+    "rate-type": "RECURRENCE",
+    "status": "last updated Sept 2021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-90.10689, 35.42117],
+      [-90.14619, 35.39947],
+      [-90.16818, 35.38711],
+      [-90.18560, 35.37572],
+      [-90.23180, 35.32639],
+      [-90.30005, 35.28075],
+      [-90.36335, 35.22424],
+      [-90.46119, 35.14590],
+      [-90.47731, 35.13122]
+    ]
+  }
+}

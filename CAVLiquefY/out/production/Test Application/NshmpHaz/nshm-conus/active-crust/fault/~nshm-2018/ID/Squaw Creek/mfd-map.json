@@ -1,0 +1,36 @@
+{
+  "squaw-creek-partial": [
+    {
+      "id": "BIRD : partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 0.53319, "b": 0.8, "mMin": 6.5, "mMax": 7.15, "Δm": 0.1083 }
+    },
+    {
+      "id": "GEO : partial-rupture",
+      "weight": 0.8,
+      "value": { "type": "GR", "a": 0.99332, "b": 0.8, "mMin": 6.5, "mMax": 7.03, "Δm": 0.0883 }
+    },
+    {
+      "id": "ZENG : partial-rupture",
+      "weight": 0.1,
+      "value": { "type": "GR", "a": 1.04507, "b": 0.8, "mMin": 6.5, "mMax": 7.15, "Δm": 0.1083 }
+    }
+  ],
+  "squaw-creek-full": [
+    {
+      "id": "BIRD : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 7.15, "rate": 2.42E-5 }
+    },
+    {
+      "id": "GEO : full-rupture",
+      "weight": 0.8,
+      "value": { "type": "SINGLE", "m": 7.03, "rate": 9.43E-5 }
+    },
+    {
+      "id": "ZENG : full-rupture",
+      "weight": 0.1,
+      "value": { "type": "SINGLE", "m": 7.15, "rate": 7.85E-5 }
+    }
+  ]
+}

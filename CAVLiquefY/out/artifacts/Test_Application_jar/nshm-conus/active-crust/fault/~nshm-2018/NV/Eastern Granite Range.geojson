@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 1039,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.37907, 40.71341],
+      [-119.37772, 40.78159],
+      [-119.38517, 40.81797],
+      [-119.38284, 40.83657],
+      [-119.39829, 40.85517],
+      [-119.43306, 40.87152],
+      [-119.41752, 40.93638],
+      [-119.43369, 40.99487]
+    ]
+  },
+  "properties": {
+    "name": "Eastern Granite Range",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 33.61407,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.3064177772475912,
+        "gr-a-value": 1.5676,
+        "single-rate": 3.737E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.08128,
+        "single-rate": 1.22E-4
+      },
+      "ZENG": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.19599,
+        "single-rate": 1.588E-4
+      }
+    }
+  }
+}

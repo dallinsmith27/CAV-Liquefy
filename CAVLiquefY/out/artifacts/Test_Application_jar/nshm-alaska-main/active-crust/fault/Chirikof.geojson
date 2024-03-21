@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "id": 4311,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-155.57975, 55.83562],
+      [-155.59822, 55.82259],
+      [-155.6221, 55.81099],
+      [-155.63734, 55.80273],
+      [-155.67967, 55.77641]
+    ]
+  },
+  "properties": {
+    "name": "Chirikof",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": -90.0,
+    "rate-type": "SLIP",
+    "length": 9.092943217211545,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.5
+      },
+      "GEO": {
+        "rate": 0.5
+      }
+    }
+  }
+}

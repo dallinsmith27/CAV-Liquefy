@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "id": 2608,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-104.81956, 31.66924],
+      [-104.80986, 31.65702],
+      [-104.80914, 31.63511],
+      [-104.79594, 31.60402],
+      [-104.79306, 31.58704],
+      [-104.75668, 31.52919],
+      [-104.74876, 31.50673],
+      [-104.7308, 31.4928],
+      [-104.71651, 31.46756]
+    ]
+  },
+  "properties": {
+    "name": "West Delaware Mountains",
+    "state": "TX",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 24.98816,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.024,
+        "gr-a-value": 0.69021,
+        "single-rate": 3.65E-5
+      },
+      "GEO": {
+        "rate": 0.024,
+        "gr-a-value": 0.69021,
+        "single-rate": 3.65E-5
+      },
+      "ZENG": {
+        "rate": 0.024,
+        "gr-a-value": 0.69021,
+        "single-rate": 3.65E-5
+      }
+    }
+  }
+}

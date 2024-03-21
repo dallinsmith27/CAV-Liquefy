@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "id": 4255,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-145.1596, 63.21448],
+      [-145.37504, 63.20197],
+      [-145.51344, 63.21961],
+      [-145.64475, 63.25274],
+      [-145.73798, 63.37046]
+    ]
+  },
+  "properties": {
+    "name": "McCallum Creek",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 35.0,
+    "rake": 90.0,
+    "rate-type": "SLIP",
+    "length": 39.525518647759455,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.6
+      },
+      "GEO": {
+        "rate": 0.6
+      }
+    }
+  }
+}

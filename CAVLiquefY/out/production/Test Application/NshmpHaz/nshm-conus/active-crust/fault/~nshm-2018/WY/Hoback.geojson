@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 2905,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-110.79926, 43.45766],
+      [-110.78056, 43.43313],
+      [-110.73717, 43.40034],
+      [-110.67805, 43.37743],
+      [-110.66296, 43.34743],
+      [-110.65029, 43.3344]
+    ]
+  },
+  "properties": {
+    "name": "Hoback",
+    "state": "WY",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 18.91577,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.6587982210823211,
+        "gr-a-value": 2.35928,
+        "single-rate": 0.0012311
+      },
+      "GEO": {
+        "rate": 0.071,
+        "gr-a-value": 1.39179,
+        "single-rate": 1.327E-4
+      },
+      "ZENG": {
+        "rate": 0.14554844419260582,
+        "gr-a-value": 1.70354,
+        "single-rate": 2.72E-4
+      }
+    }
+  }
+}

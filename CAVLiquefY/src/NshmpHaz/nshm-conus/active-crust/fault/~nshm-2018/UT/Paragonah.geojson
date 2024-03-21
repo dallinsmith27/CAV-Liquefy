@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2710,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-112.70242, 37.97832],
+      [-112.71571, 37.94949],
+      [-112.74824, 37.91238],
+      [-112.75273, 37.88992],
+      [-112.78893, 37.83781],
+      [-112.84373, 37.80251],
+      [-112.87006, 37.77682]
+    ]
+  },
+  "properties": {
+    "name": "Paragonah",
+    "state": "UT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 27.45295,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.4213244437154379,
+        "gr-a-value": 1.95718,
+        "single-rate": 5.928E-4
+      },
+      "GEO": {
+        "rate": 0.46,
+        "gr-a-value": 1.99532,
+        "single-rate": 6.472E-4
+      },
+      "ZENG": {
+        "rate": 0.4213244437154379,
+        "gr-a-value": 1.95718,
+        "single-rate": 5.928E-4
+      }
+    }
+  }
+}

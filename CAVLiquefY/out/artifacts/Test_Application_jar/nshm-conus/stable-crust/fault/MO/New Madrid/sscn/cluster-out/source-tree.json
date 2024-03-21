@@ -1,0 +1,10 @@
+[
+  {
+    "id": "reelfoot-short",
+    "weight": 0.7
+  },
+  {
+    "id": "reelfoot-extended",
+    "weight": 0.3
+  }
+]

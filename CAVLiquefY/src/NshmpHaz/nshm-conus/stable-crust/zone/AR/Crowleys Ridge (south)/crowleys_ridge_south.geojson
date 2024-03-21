@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": "20000",
+  "properties": {
+    "name": "Crowley's Ridge (south)",
+    "reference": "Thompson Jobe et al., 2020",
+    "status": "last updated Sept 2021",
+    "state": "AR",
+    "rate": "crowleys-ridge-south.csv",
+    "strike": 5.0,
+    "mfd-tree": [
+      { "id": "M1", "weight": 0.15, "value": { "type": "SINGLE", "m": 6.10 }},
+      { "id": "M2", "weight": 0.20, "value": { "type": "SINGLE", "m": 6.35 }},
+      { "id": "M3", "weight": 0.20, "value": { "type": "SINGLE", "m": 6.60 }},
+      { "id": "M4", "weight": 0.20, "value": { "type": "SINGLE", "m": 6.85 }},
+      { "id": "M5", "weight": 0.20, "value": { "type": "SINGLE", "m": 7.10 }},
+      { "id": "M6", "weight": 0.05, "value": { "type": "SINGLE", "m": 7.35 }}
+    ]
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-90.69330, 35.74764],
+        [-90.64757, 35.74314],
+        [-90.65666, 35.68543],
+        [-90.63635, 35.62233],
+        [-90.64862, 35.50559],
+        [-90.66503, 35.39737],
+        [-90.69058, 35.27606],
+        [-90.66970, 35.16477],
+        [-90.69045, 34.99778],
+        [-90.81897, 34.99664],
+        [-90.74450, 35.50501],
+        [-90.70187, 35.70681],
+        [-90.69330, 35.74764]
+      ]
+    ]
+  }
+}

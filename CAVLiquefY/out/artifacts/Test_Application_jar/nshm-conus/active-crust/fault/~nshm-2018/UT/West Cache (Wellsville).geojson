@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 2715,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-111.87608, 41.57967],
+      [-111.91885, 41.60123],
+      [-111.95226, 41.62486],
+      [-112.00024, 41.68972],
+      [-112.01057, 41.69663],
+      [-112.02369, 41.72098]
+    ]
+  },
+  "properties": {
+    "name": "West Cache (Wellsville)",
+    "state": "UT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 20.42393,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.5438915546144744,
+        "gr-a-value": 2.29536,
+        "single-rate": 9.558E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.55984,
+        "single-rate": 1.757E-4
+      },
+      "ZENG": {
+        "rate": 0.1149066664678467,
+        "gr-a-value": 1.62019,
+        "single-rate": 2.019E-4
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 1065,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.8287, 39.04941],
+      [-119.81972, 39.05893],
+      [-119.80175, 39.06379],
+      [-119.78711, 39.06334],
+      [-119.78989, 39.08346],
+      [-119.77839, 39.09487]
+    ]
+  },
+  "properties": {
+    "name": "Indian Hill",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 8.082262,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.1,
+        "gr-a-value": null,
+        "single-rate": 3.5256494E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": null,
+        "single-rate": 3.5256494E-4
+      },
+      "ZENG": {
+        "rate": 0.1,
+        "gr-a-value": null,
+        "single-rate": 3.5256494E-4
+      }
+    }
+  }
+}

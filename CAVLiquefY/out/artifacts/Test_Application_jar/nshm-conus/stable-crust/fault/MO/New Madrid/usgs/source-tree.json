@@ -1,0 +1,22 @@
+[
+  {
+    "id": "west",
+    "weight": 0.05
+  },
+  {
+    "id": "mid-west",
+    "weight": 0.1
+  },
+  {
+    "id": "center",
+    "weight": 0.7
+  },
+  {
+    "id": "mid-east",
+    "weight": 0.1
+  },
+  {
+    "id": "east",
+    "weight": 0.05
+  }
+]

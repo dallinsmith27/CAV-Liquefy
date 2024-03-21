@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Interface (r85, fixed, full catalog)",
+    "id": 9986,
+    "feature": 9998,
+    "mfd-tree": "interface-full",
+    "spatial-pdf": "pdf-ak-interface-r85-fixed.csv"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "id": 3021,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-89.583, 36.687],
+      [-89.504, 36.241]
+    ]
+  },
+  "properties": {
+    "name": "New Madrid - USGS (center, center)",
+    "state": "MO",
+    "states": ["MO", "TN"],
+    "upper-depth": 10.0,
+    "lower-depth": 19.234,
+    "dip": 38.0,
+    "rake": 90.0,
+    "rate-type": "RECURRENCE"
+  }
+}

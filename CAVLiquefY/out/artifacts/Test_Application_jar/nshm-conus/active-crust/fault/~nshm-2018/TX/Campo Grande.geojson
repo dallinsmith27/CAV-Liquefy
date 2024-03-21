@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "id": 2604,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-106.0335, 31.49495],
+      [-106.00107, 31.47753],
+      [-105.91617, 31.45049],
+      [-105.87646, 31.43414],
+      [-105.77646, 31.3602],
+      [-105.72489, 31.3266],
+      [-105.68348, 31.30827],
+      [-105.64341, 31.29893],
+      [-105.62957, 31.29246]
+    ]
+  },
+  "properties": {
+    "name": "Campo Grande",
+    "state": "TX",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 45.00735,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.048,
+        "gr-a-value": 0.83122,
+        "single-rate": 4.67E-5
+      },
+      "GEO": {
+        "rate": 0.048,
+        "gr-a-value": 0.83122,
+        "single-rate": 4.67E-5
+      },
+      "ZENG": {
+        "rate": 0.048,
+        "gr-a-value": 0.83122,
+        "single-rate": 4.67E-5
+      }
+    }
+  }
+}

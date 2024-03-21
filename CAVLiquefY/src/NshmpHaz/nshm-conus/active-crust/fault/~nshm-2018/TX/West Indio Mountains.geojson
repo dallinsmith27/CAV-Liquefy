@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2610,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-105.13643, 30.83789],
+      [-105.11423, 30.81174],
+      [-105.08468, 30.80267],
+      [-105.03607, 30.73323],
+      [-105.02745, 30.70726],
+      [-105.02583, 30.67816],
+      [-105.02969, 30.66666]
+    ]
+  },
+  "properties": {
+    "name": "West Indio Mountains",
+    "state": "TX",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 23.18034,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.044,
+        "gr-a-value": 0.93535,
+        "single-rate": 7.13E-5
+      },
+      "GEO": {
+        "rate": 0.044,
+        "gr-a-value": 0.93535,
+        "single-rate": 7.13E-5
+      },
+      "ZENG": {
+        "rate": 0.044,
+        "gr-a-value": 0.93535,
+        "single-rate": 7.13E-5
+      }
+    }
+  }
+}

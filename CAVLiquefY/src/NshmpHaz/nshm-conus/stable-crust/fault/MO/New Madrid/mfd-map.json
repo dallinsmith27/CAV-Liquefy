@@ -1,0 +1,40 @@
+{
+  "sscn-north": [
+    { "id": "M1", "weight": 0.083, "value": { "type": "SINGLE", "m": 6.8 }},
+    { "id": "M2", "weight": 0.250, "value": { "type": "SINGLE", "m": 7.0 }},
+    { "id": "M3", "weight": 0.083, "value": { "type": "SINGLE", "m": 7.2 }},
+    { "id": "M4", "weight": 0.250, "value": { "type": "SINGLE", "m": 7.5 }},
+    { "id": "M5", "weight": 0.167, "value": { "type": "SINGLE", "m": 7.5 }},
+    { "id": "M6", "weight": 0.167, "value": { "type": "SINGLE", "m": 7.6 }}
+  ],
+  "sscn-reelfoot": [
+    { "id": "M1", "weight": 0.083, "value": { "type": "SINGLE", "m": 7.1 }},
+    { "id": "M2", "weight": 0.250, "value": { "type": "SINGLE", "m": 7.3 }},
+    { "id": "M3", "weight": 0.083, "value": { "type": "SINGLE", "m": 7.4 }},
+    { "id": "M4", "weight": 0.250, "value": { "type": "SINGLE", "m": 7.8 }},
+    { "id": "M5", "weight": 0.167, "value": { "type": "SINGLE", "m": 7.7 }},
+    { "id": "M6", "weight": 0.167, "value": { "type": "SINGLE", "m": 7.8 }}
+  ],
+  "sscn-south": [
+    { "id": "M1", "weight": 0.083, "value": { "type": "SINGLE", "m": 6.7 }},
+    { "id": "M2", "weight": 0.250, "value": { "type": "SINGLE", "m": 6.9 }},
+    { "id": "M3", "weight": 0.083, "value": { "type": "SINGLE", "m": 7.2 }},
+    { "id": "M4", "weight": 0.250, "value": { "type": "SINGLE", "m": 7.6 }},
+    { "id": "M5", "weight": 0.167, "value": { "type": "SINGLE", "m": 7.8 }},
+    { "id": "M6", "weight": 0.167, "value": { "type": "SINGLE", "m": 7.9 }}
+  ],
+  "usgs-lo-mag": [
+    { "id": "M1", "weight": 0.1, "value": { "type": "SINGLE", "m": 6.6 }},
+    { "id": "M2", "weight": 0.1, "value": { "type": "SINGLE", "m": 6.9 }},
+    { "id": "M3", "weight": 0.5, "value": { "type": "SINGLE", "m": 7.3 }},
+    { "id": "M4", "weight": 0.2, "value": { "type": "SINGLE", "m": 7.5 }},
+    { "id": "M5", "weight": 0.1, "value": { "type": "SINGLE", "m": 7.8 }}
+  ],
+  "usgs-hi-mag": [
+    { "id": "M1", "weight": 0.1, "value": { "type": "SINGLE", "m": 6.8 }},
+    { "id": "M2", "weight": 0.1, "value": { "type": "SINGLE", "m": 7.1 }},
+    { "id": "M3", "weight": 0.5, "value": { "type": "SINGLE", "m": 7.5 }},
+    { "id": "M4", "weight": 0.2, "value": { "type": "SINGLE", "m": 7.7 }},
+    { "id": "M5", "weight": 0.1, "value": { "type": "SINGLE", "m": 8.0 }}
+  ]
+}

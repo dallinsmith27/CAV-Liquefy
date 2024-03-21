@@ -1,0 +1,10 @@
+[
+  {
+    "id": "segmented",
+    "weight": 0.9
+  },
+  {
+    "id": "unsegmented",
+    "weight": 0.1
+  }
+]

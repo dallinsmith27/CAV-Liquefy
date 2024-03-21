@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "id": 2534,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-124.29931, 43.28849],
+      [-124.31117, 43.27761],
+      [-124.33597, 43.19487]
+    ]
+  },
+  "properties": {
+    "name": "South Slough",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 10.96146,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.25980762113533157,
+        "gr-a-value": null,
+        "single-rate": 5.5933389E-4
+      },
+      "GEO": {
+        "rate": 0.62,
+        "gr-a-value": null,
+        "single-rate": 0.0013347843
+      },
+      "ZENG": {
+        "rate": 0.44167295593006367,
+        "gr-a-value": null,
+        "single-rate": 9.5086754E-4
+      }
+    }
+  }
+}

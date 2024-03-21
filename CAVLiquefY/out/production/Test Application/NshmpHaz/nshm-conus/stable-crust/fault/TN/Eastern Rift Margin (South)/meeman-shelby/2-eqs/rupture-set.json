@@ -1,0 +1,9 @@
+{
+  "name": "Eastern Rift Margin (South) (meeman-shelby)",
+  "id": 3805,
+  "sections": [3802, 3806],
+  "mfd-tree": "eastern-rift-margin-south",
+  "properties": {
+    "width": 15.0
+  }
+}

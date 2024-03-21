@@ -1,0 +1,13 @@
+{
+  "name": "Cheraw (SSCn, full)",
+  "id": 2181,
+  "mfd-tree": [
+    { "id": "M1", "weight": 0.3, "value": { "type": "SINGLE", "m": 6.8, "rate": 1.987E-04 }},
+    { "id": "M2", "weight": 0.3, "value": { "type": "SINGLE", "m": 7.0, "rate": 9.960E-05 }},
+    { "id": "M3", "weight": 0.3, "value": { "type": "SINGLE", "m": 7.2, "rate": 4.990E-05 }},
+    { "id": "M4", "weight": 0.1, "value": { "type": "SINGLE", "m": 7.4, "rate": 2.500E-05 }}
+  ],
+  "properties": {
+    "width": 17.3205
+  }
+}

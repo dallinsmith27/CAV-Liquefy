@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Crustal (gk, fixed, full catalog)",
+    "id": 4711,
+    "feature": 4700,
+    "mfd-tree": "crustal-full",
+    "spatial-pdf": "pdf-ak-crustal-gk-fixed.csv"
+  }
+]

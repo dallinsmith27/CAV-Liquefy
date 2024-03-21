@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 1104,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.28949, 40.49833],
+      [-119.3027, 40.46024],
+      [-119.3018, 40.44829],
+      [-119.28868, 40.42152],
+      [-119.29739, 40.37992],
+      [-119.29839, 40.34084]
+    ]
+  },
+  "properties": {
+    "name": "Selenite Range",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 17.91947,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.1991715552109343,
+        "gr-a-value": 1.82676,
+        "single-rate": 3.911E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.52753,
+        "single-rate": 1.963E-4
+      },
+      "ZENG": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.64223,
+        "single-rate": 2.557E-4
+      }
+    }
+  }
+}

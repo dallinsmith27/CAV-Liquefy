@@ -1,0 +1,10 @@
+[
+  {
+    "id": "regional",
+    "weight": 0.5
+  },
+  {
+    "id": "local",
+    "weight": 0.5
+  }
+]

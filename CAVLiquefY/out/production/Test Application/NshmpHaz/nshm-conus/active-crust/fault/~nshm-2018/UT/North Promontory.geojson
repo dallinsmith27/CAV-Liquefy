@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2708,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-112.55062, 41.90146],
+      [-112.55017, 41.87918],
+      [-112.55709, 41.85447],
+      [-112.55556, 41.78889],
+      [-112.56033, 41.76598],
+      [-112.59438, 41.69914],
+      [-112.6181, 41.67354]
+    ]
+  },
+  "properties": {
+    "name": "North Promontory",
+    "state": "UT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 26.57005,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.3983431104218686,
+        "gr-a-value": 1.92596,
+        "single-rate": 5.812E-4
+      },
+      "GEO": {
+        "rate": 0.2,
+        "gr-a-value": 1.62673,
+        "single-rate": 2.918E-4
+      },
+      "ZENG": {
+        "rate": 0.1915111107797445,
+        "gr-a-value": 1.6079,
+        "single-rate": 2.794E-4
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 2306,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-112.09921, 46.773],
+      [-111.94, 46.73761],
+      [-111.90353, 46.70572],
+      [-111.86948, 46.69089]
+    ]
+  },
+  "properties": {
+    "name": "Helena Valley",
+    "state": "MT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 20.3344,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.0383022221559489,
+        "gr-a-value": 1.14116,
+        "single-rate": 6.7E-5
+      },
+      "GEO": {
+        "rate": 0.01,
+        "gr-a-value": 0.55794,
+        "single-rate": 1.75E-5
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": 0.44219,
+        "single-rate": 1.34E-5
+      }
+    }
+  }
+}

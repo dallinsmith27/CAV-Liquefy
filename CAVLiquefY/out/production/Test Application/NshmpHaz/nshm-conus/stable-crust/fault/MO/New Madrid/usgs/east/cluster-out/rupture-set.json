@@ -1,0 +1,10 @@
+{
+  "name": "New Madrid - USGS (east)",
+  "id": 3043,
+  "sections": [3040, 3041, 3042],
+  "mfd-tree": "usgs-hi-mag",
+  "properties": {
+    "state": "MO",
+    "width": 15.0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "id": 2504,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-125.42388, 44.60938],
+      [-125.30664, 44.57013],
+      [-124.90369, 44.47598],
+      [-124.86291, 44.45927],
+      [-124.76057, 44.42908],
+      [-124.64665, 44.40995],
+      [-124.58188, 44.39154]
+    ]
+  },
+  "properties": {
+    "name": "Alvin Canyon",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 0.0,
+    "rate-type": "SLIP",
+    "length": 71.23322,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 6.4,
+        "gr-a-value": 2.52911,
+        "single-rate": 0.0026126
+      },
+      "ZENG": null
+    }
+  }
+}

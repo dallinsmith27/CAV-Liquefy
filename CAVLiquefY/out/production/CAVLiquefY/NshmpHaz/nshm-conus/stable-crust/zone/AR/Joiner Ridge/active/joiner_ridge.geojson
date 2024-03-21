@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "id": "40000",
+  "properties": {
+    "name": "Joiner Ridge",
+    "reference": "Price et al., 2019; Ward et al., 2017",
+    "status": "last updated Sept 2021",
+    "state": "AR",
+    "states": ["AR", "TN"],
+    "rate": "joiner-ridge.csv",
+    "strike": 350.0,
+    "mfd-tree": [
+      { "id": "M1", "weight": 0.20, "value": { "type": "SINGLE", "m": 6.20 }},
+      { "id": "M2", "weight": 0.30, "value": { "type": "SINGLE", "m": 6.45 }},
+      { "id": "M3", "weight": 0.30, "value": { "type": "SINGLE", "m": 6.70 }},
+      { "id": "M4", "weight": 0.20, "value": { "type": "SINGLE", "m": 6.95 }}
+    ]
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-90.16418, 35.73512],
+        [-90.05872, 35.82784],
+        [-90.01040, 35.65544],
+        [-89.96475, 35.49514],
+        [-90.11279, 35.43728],
+        [-90.16418, 35.73512]
+      ]
+    ]
+  }
+}

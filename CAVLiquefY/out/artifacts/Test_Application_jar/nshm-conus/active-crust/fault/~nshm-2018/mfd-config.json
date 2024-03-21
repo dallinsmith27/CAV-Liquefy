@@ -1,0 +1,14 @@
+{
+  "epistemic-tree": [
+    { "id": "+uₑ", "weight": 0.2, "value": 0.2 },
+    { "id": "~uₑ", "weight": 0.6, "value": 0.0 },
+    { "id": "-uₑ", "weight": 0.2, "value": -0.2 }
+  ],
+  "aleatory-properties": {
+    "size": 11,
+    "nσ": 2,
+    "σ": 0.12
+  },
+  "minimum-magnitude": 6.5,
+  "nshm-bin-model": true
+}

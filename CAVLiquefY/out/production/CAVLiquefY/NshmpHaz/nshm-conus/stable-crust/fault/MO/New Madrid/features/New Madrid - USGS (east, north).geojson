@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "id": 3040,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-88.929, 36.960],  
+      [-89.279, 36.639]
+    ]
+  },
+  "properties": {
+    "name": "New Madrid - USGS (east, north)",
+    "state": "KY",
+    "states": ["KY", "MO"],
+    "upper-depth": 10.0,
+    "lower-depth": 25.0,
+    "dip": 89.0,
+    "rake": 180.0,
+    "rate-type": "RECURRENCE"
+  }
+}

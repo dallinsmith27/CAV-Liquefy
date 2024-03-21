@@ -1,0 +1,9 @@
+[
+  {
+    "name": "AK Slab (nn, adaptive, full catalog)",
+    "id": 37004,
+    "feature": 37001,
+    "mfd-tree": "slab-full",
+    "spatial-pdf": "pdf-ak-slab-nn-adaptive.csv"
+  }
+]

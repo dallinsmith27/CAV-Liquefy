@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 2591,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-124.41664, 44.49168],
+      [-124.5004, 44.60195],
+      [-124.53324, 44.66642],
+      [-124.55499, 44.74394]
+    ]
+  },
+  "properties": {
+    "name": "Stonewall Anticline",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 30.3591,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.521347293078232,
+        "gr-a-value": 1.6651,
+        "single-rate": 5.323E-4
+      },
+      "GEO": {
+        "rate": 0.5,
+        "gr-a-value": 1.64839,
+        "single-rate": 5.122E-4
+      },
+      "ZENG": {
+        "rate": 0.5542562584220407,
+        "gr-a-value": 1.69313,
+        "single-rate": 5.677E-4
+      }
+    }
+  }
+}

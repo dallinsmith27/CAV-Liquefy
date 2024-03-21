@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 1062,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-118.70341, 37.99948],
+      [-118.68024, 38.02589],
+      [-118.63388, 38.06165],
+      [-118.6161, 38.08698],
+      [-118.52077, 38.18823],
+      [-118.51583, 38.18679],
+      [-118.46201, 38.20692],
+      [-118.44468, 38.2407],
+      [-118.43147, 38.25651]
+    ]
+  },
+  "properties": {
+    "name": "Huntoon Valley",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 0.0,
+    "rate-type": "SLIP",
+    "length": 38.30296,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 0.87964,
+        "single-rate": 6.4E-5
+      },
+      "ZENG": {
+        "rate": 0.12,
+        "gr-a-value": 0.95882,
+        "single-rate": 7.68E-5
+      }
+    }
+  }
+}

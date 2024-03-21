@@ -1,0 +1,47 @@
+{
+  "type": "Feature",
+  "id": 2527,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.98402, 44.92442],
+      [-116.90999, 44.90043],
+      [-116.87791, 44.87887],
+      [-116.84943, 44.86593],
+      [-116.83893, 44.85623],
+      [-116.83057, 44.83458],
+      [-116.83605, 44.81176]
+    ]
+  },
+  "properties": {
+    "name": "Pine Valley Graben (Brownlee)",
+    "state": "OR",
+    "states": [
+      "OR",
+      "ID"
+    ],
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 18.99062,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.0383022221559489,
+        "gr-a-value": 1.12547,
+        "single-rate": 7.19E-5
+      },
+      "GEO": {
+        "rate": 0.008,
+        "gr-a-value": 0.44533,
+        "single-rate": 1.5E-5
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": 0.4265,
+        "single-rate": 1.44E-5
+      }
+    }
+  }
+}

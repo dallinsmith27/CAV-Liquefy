@@ -1,0 +1,21 @@
+{
+  "grid-spacing": 0.05,
+  "smoothing-density": 10,
+  "smoothing-limit": 40.0,
+  "opt-distance-bin": 1.0,
+  "point-source-type": "FINITE",
+  "rupture-scaling": "NSHM_SUB_GEOMAT_LENGTH",
+  "max-depth": 50.0,
+  "focal-mech-tree": [
+    { "id": "STRIKE_SLIP", "weight": 1.0 }
+  ],
+  "grid-depth-map": {
+    "all-magnitude": {
+      "mMin": 0.0,
+      "mMax": 10.0,
+      "depth-tree": [
+        { "id": "40km", "weight": 1.0, "value": 40.0 }
+      ]
+    }
+  }
+}

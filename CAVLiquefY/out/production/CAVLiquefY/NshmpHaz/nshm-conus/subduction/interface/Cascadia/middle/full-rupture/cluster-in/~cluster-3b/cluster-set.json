@@ -1,0 +1,35 @@
+{
+  "name": "Cluster 3b (middle)",
+  "id": 3350,
+  "rupture-sets": [
+    {
+      "name": "3b-1",
+      "id": 3351,
+      "mfd-tree": "cluster-3b-1-middle",
+      "sections": [
+        3230, 3231, 3232, 3233, 3234, 3235, 3236
+      ]
+    },
+    {
+      "name": "3b-2",
+      "id": 3352,
+      "mfd-tree": "cluster-3b-2-middle",
+      "sections": [
+        3237, 3238, 3239,
+        3240, 3241, 3242,
+        3243, 3244
+      ]
+    },
+    {
+      "name": "3b-3",
+      "id": 3353,
+      "mfd-tree": "cluster-3b-3-middle",
+      "sections": [
+        3245, 3246, 3247, 3248, 3249, 3250, 3251
+      ]
+    }
+  ],
+  "properties": {
+    "state": "WA"
+  }
+}

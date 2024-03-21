@@ -1,0 +1,14 @@
+[
+  {
+    "id": "geologic",
+    "weight": 0.33333
+  },
+  {
+    "id": "connected",
+    "weight": 0.33333
+  },
+  {
+    "id": "cluster",
+    "weight": 0.33333
+  }
+]

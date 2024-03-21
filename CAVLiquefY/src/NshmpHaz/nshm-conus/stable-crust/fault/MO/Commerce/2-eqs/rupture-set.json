@@ -1,0 +1,8 @@
+{
+  "name": "Commerce",
+  "id": 60000,
+  "mfd-tree": "commerce",
+  "properties": {
+    "width": 15.0
+  }
+}

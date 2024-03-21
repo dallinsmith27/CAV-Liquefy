@@ -1,0 +1,10 @@
+{
+  "name": "New Madrid - SSCn (Reelfoot, extended)",
+  "id": 3073,
+  "sections": [3070, 3071, 3072],
+  "mfd-tree": "sscn-reelfoot",
+  "properties": {
+    "state": "MO",
+    "width": 15.0
+  }
+}

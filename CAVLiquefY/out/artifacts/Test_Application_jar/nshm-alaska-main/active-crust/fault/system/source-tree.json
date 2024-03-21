@@ -1,0 +1,10 @@
+[
+  {
+    "id": "geologic",
+    "weight": 0.6667
+  },
+  {
+    "id": "geodetic",
+    "weight": 0.3333
+  }
+]

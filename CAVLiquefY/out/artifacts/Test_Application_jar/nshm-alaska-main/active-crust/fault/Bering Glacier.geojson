@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "id": 4296,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-143.71209, 60.12461],
+      [-143.51992, 60.21692],
+      [-143.32913, 60.30149],
+      [-143.02967, 60.38084],
+      [-142.79122, 60.42636],
+      [-142.59564, 60.49246],
+      [-142.50284, 60.53257]
+    ]
+  },
+  "properties": {
+    "name": "Bering Glacier",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 45.0,
+    "rake": 90.0,
+    "rate-type": "SLIP",
+    "length": 81.37906073004983,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.0
+      },
+      "GEO": {
+        "rate": 9.0
+      }
+    }
+  }
+}

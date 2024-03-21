@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "CONUS Stable Crust Map Region"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [[
+      [-114.95, 24.0],
+      [-64.6, 24.0],
+      [-64.6, 50.4],
+      [-114.95, 50.4],
+      [-114.95, 24.0]
+    ]]
+  }
+}

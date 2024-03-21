@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "id": 1077,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-118.94693, 41.61098],
+      [-118.95016, 41.63857],
+      [-118.94118, 41.71627],
+      [-118.9127, 41.75769],
+      [-118.88099, 41.777],
+      [-118.85799, 41.81402],
+      [-118.88845, 41.861],
+      [-118.9331, 41.88643],
+      [-118.99869, 41.91383]
+    ]
+  },
+  "properties": {
+    "name": "McGee Mountain",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 41.54241,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.09958577760546715,
+        "gr-a-value": 1.12905,
+        "single-rate": 1.027E-4
+      },
+      "GEO": {
+        "rate": 0.01,
+        "gr-a-value": 0.13086,
+        "single-rate": 1.03E-5
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": 0.01511,
+        "single-rate": 7.9E-6
+      }
+    }
+  }
+}

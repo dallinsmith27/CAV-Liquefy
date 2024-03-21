@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "id": 2605,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-104.90589, 30.9518],
+      [-104.90059, 30.98486],
+      [-104.88892, 31.0128],
+      [-104.86933, 31.04424],
+      [-104.85702, 31.05224],
+      [-104.82486, 31.09437],
+      [-104.78955, 31.16166],
+      [-104.76853, 31.18682],
+      [-104.72307, 31.28465]
+    ]
+  },
+  "properties": {
+    "name": "East Baylor Mountain - Carizzo Mountain",
+    "state": "TX",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 41.39165,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.008,
+        "gr-a-value": 0.03237,
+        "single-rate": 8.2E-6
+      },
+      "GEO": {
+        "rate": 0.008,
+        "gr-a-value": 0.03237,
+        "single-rate": 8.2E-6
+      },
+      "ZENG": {
+        "rate": 0.008,
+        "gr-a-value": 0.03237,
+        "single-rate": 8.2E-6
+      }
+    }
+  }
+}

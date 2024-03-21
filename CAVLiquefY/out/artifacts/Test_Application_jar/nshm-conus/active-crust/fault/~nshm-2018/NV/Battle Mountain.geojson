@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 1005,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-117.17658, 40.77872],
+      [-117.17973, 40.75357],
+      [-117.21835, 40.68969],
+      [-117.23731, 40.59509],
+      [-117.23758, 40.55359]
+    ]
+  },
+  "properties": {
+    "name": "Battle Mountain",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 25.87878,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.2221528885045036,
+        "gr-a-value": 1.66457,
+        "single-rate": 3.268E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.31791,
+        "single-rate": 1.471E-4
+      },
+      "ZENG": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.43262,
+        "single-rate": 1.916E-4
+      }
+    }
+  }
+}

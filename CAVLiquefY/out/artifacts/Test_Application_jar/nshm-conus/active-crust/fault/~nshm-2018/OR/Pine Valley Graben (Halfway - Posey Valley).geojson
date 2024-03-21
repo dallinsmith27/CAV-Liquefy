@@ -1,0 +1,50 @@
+{
+  "type": "Feature",
+  "id": 2528,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.85528, 44.75597],
+      [-116.86815, 44.76704],
+      [-116.88555, 44.79163],
+      [-116.92733, 44.81769],
+      [-117.01789, 44.8388],
+      [-117.08842, 44.86189],
+      [-117.10297, 44.8706],
+      [-117.12939, 44.90654],
+      [-117.14286, 44.94769],
+      [-117.14771, 44.98865]
+    ]
+  },
+  "properties": {
+    "name": "Pine Valley Graben (Halfway - Posey Valley)",
+    "state": "OR",
+    "states": [
+      "OR",
+      "ID"
+    ],
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 37.96342,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.061283555449518246,
+        "gr-a-value": 0.89847,
+        "single-rate": 6.86E-5
+      },
+      "GEO": {
+        "rate": 0.008,
+        "gr-a-value": 0.01422,
+        "single-rate": 9.0E-6
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": -0.00462,
+        "single-rate": 8.6E-6
+      }
+    }
+  }
+}

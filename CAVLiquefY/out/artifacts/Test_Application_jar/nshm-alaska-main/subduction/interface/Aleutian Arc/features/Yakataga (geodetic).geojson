@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "id": 4860,
+  "geometry": {
+    "type": "MultiLineString",
+    "coordinates": [[
+      [-140.242, 60.325, 10.0],
+      [-142.950, 60.459, 10.0]
+    ],[
+      [-140.545, 60.549, 12.0],
+      [-143.259, 60.692, 12.0]
+    ]]
+  },
+  "properties": {
+    "name": "Yakataga (geodetic)",
+    "state": "AK",
+    "stroke": "#51B825"
+  }
+}

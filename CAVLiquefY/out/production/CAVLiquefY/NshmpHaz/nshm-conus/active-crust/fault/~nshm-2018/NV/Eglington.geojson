@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 1048,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-115.22067, 36.23076],
+      [-115.21735, 36.2472],
+      [-115.20738, 36.26185],
+      [-115.18806, 36.26661],
+      [-115.15536, 36.28952],
+      [-115.14907, 36.30291]
+    ]
+  },
+  "properties": {
+    "name": "Eglington",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "RECURRENCE",
+    "length": 10.99656,
+    "rate-map": {
+      "BIRD": {
+        "rate": 4.65E-4,
+        "gr-a-value": null,
+        "single-rate": 7.1000002E-5
+      },
+      "GEO": {
+        "rate": 4.65E-4,
+        "gr-a-value": null,
+        "single-rate": 4.6499999E-4
+      },
+      "ZENG": {
+        "rate": 4.65E-4,
+        "gr-a-value": null,
+        "single-rate": 7.1000002E-5
+      }
+    }
+  }
+}

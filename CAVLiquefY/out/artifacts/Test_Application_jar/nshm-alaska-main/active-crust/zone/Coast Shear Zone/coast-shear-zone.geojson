@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "id": 4600,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-135.316, 58.624],
+        [-131.115, 54.551],
+        [-130.426, 54.759],
+        [-129.73, 54.963],
+        [-133.821, 59.084],
+        [-135.249, 58.964],
+        [-135.316, 58.624]
+      ]
+    ]
+  },
+  "properties": {
+    "name": "Coast Shear Zone",
+    "state": "AK",
+    "rate": "coast-shear-zone.csv",
+    "strike": 340.0,
+    "mfd-tree": [
+      {
+        "id": "M1",
+        "weight": 1.0,
+        "value": {
+          "type": "GR",
+          "a": 0.0,
+          "b": 0.8,
+          "Δm": 0.1,
+          "mMin": 6.5,
+          "mMax": 7.9
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "surface-spacing": 1.0,
+  "rupture-scaling": "NSHM_FAULT_WC94_LENGTH",
+  "rupture-floating": "NSHM",
+  "dip-slip-model": null,
+  "dip-tree": null
+}

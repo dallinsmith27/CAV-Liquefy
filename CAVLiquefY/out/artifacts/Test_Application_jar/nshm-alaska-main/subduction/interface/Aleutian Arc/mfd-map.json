@@ -1,0 +1,753 @@
+{
+  "yakataga-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.32100E-03, "m": 7.82 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.32100E-03, "m": 7.95 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.32100E-03, "m": 7.84 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.32100E-03, "m": 8.02 } }
+  ],
+  "pws-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.68350E-03, "m": 8.76 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.68350E-03, "m": 9.05 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.68350E-03, "m": 8.64 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.68350E-03, "m": 8.96 } }
+  ],
+  "kenai-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.39 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.62 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.33 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.60 } }
+  ],
+  "barren-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.14 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.33 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.11 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.34 } }
+  ],
+  "kodiak-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.63852E-03, "m": 8.53 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.63852E-03, "m": 8.78 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.63852E-03, "m": 8.44 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.63852E-03, "m": 8.73 } }
+  ],
+  "semidi-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.50450E-03, "m": 8.30 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.50450E-03, "m": 8.51 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.50450E-03, "m": 8.25 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.50450E-03, "m": 8.50 } }
+  ],
+  "shumagin-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.94118E-04, "m": 8.15 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.94118E-04, "m": 8.34 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.94118E-04, "m": 8.12 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.94118E-04, "m": 8.35 } }
+  ],
+  "sanak-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.00000E-03, "m": 8.25 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.00000E-03, "m": 8.46 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.00000E-03, "m": 8.21 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.00000E-03, "m": 8.45 } }
+  ],
+  "fox-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.76190E-03, "m": 8.37 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.76190E-03, "m": 8.60 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.76190E-03, "m": 8.31 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.76190E-03, "m": 8.57 } }
+  ],
+  "andreanof-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.25 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.46 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.21 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.46 } }
+  ],
+  "adak-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.22 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.43 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.19 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.43 } }
+  ],
+  "amchitka-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.13 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.31 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.10 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.33 } }
+  ],
+  "attu-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.24 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.45 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.20 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.44 } }
+  ],
+  "komandorski-geologic-narrow-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.26 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.47 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.22 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.46 } }
+  ],
+
+  
+
+  "yakataga-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.32100E-03, "m": 8.20 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.32100E-03, "m": 8.40 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.32100E-03, "m": 8.17 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.32100E-03, "m": 8.41 } }
+  ],
+  "pws-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.68350E-03, "m": 8.90 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.68350E-03, "m": 9.21 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.68350E-03, "m": 8.76 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.68350E-03, "m": 9.10 } }
+  ],
+  "kenai-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.55 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.80 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.46 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.75 } }
+  ],
+  "barren-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.31 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.53 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.26 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.27273E-03, "m": 8.51 } }
+  ],
+  "kodiak-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.63852E-03, "m": 8.70 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.63852E-03, "m": 8.98 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.63852E-03, "m": 8.59 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.63852E-03, "m": 8.91 } }
+  ],
+  "semidi-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.50450E-03, "m": 8.52 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.50450E-03, "m": 8.77 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.50450E-03, "m": 8.44 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.50450E-03, "m": 8.72 } }
+  ],
+  "shumagin-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.94118E-04, "m": 8.36 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.94118E-04, "m": 8.59 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.94118E-04, "m": 8.31 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.94118E-04, "m": 8.57 } }
+  ],
+  "sanak-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.00000E-03, "m": 8.43 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.00000E-03, "m": 8.66 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.00000E-03, "m": 8.36 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.00000E-03, "m": 8.63 } }
+  ],
+  "fox-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.76190E-03, "m": 8.57 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.76190E-03, "m": 8.83 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.76190E-03, "m": 8.48 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.76190E-03, "m": 8.77 } }
+  ],
+  "andreanof-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.43 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.67 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.36 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.64 } }
+  ],
+  "adak-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.41 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.64 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.34 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.61 } }
+  ],
+  "amchitka-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.35 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.58 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.29 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.56 } }
+  ],
+  "attu-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.46 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.70 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.38 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.66 } }
+  ],
+  "komandorski-geologic-wide-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.50 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.75 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.42 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.00000E-03, "m": 8.71 } }
+  ],
+
+
+
+  "yakataga-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.321E-03, "m": 7.82 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.321E-03, "m": 7.95 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.321E-03, "m": 7.84 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.321E-03, "m": 8.02 } }
+  ],
+  "pws-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.470E-04, "m": 8.76 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.470E-04, "m": 9.05 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.470E-04, "m": 8.64 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.470E-04, "m": 8.96 } }
+  ],
+  "pws-kenai-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.91 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 9.23 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.77 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 9.12 } }
+  ],
+  "kenai-barren-kodiak-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.86 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 9.16 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.72 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 9.06 } }
+  ],
+  "barren-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.14 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.33 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.11 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.34 } }
+  ],
+  "kodiak-semidi-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.502E-03, "m": 8.73 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.502E-03, "m": 9.01 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.502E-03, "m": 8.61 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.502E-03, "m": 8.93 } }
+  ],
+  "semidi-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.003E-03, "m": 8.30 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.003E-03, "m": 8.51 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.003E-03, "m": 8.25 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.003E-03, "m": 8.50 } }
+  ],
+  "shumagin-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.941E-04, "m": 8.15 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.941E-04, "m": 8.34 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.941E-04, "m": 8.12 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.941E-04, "m": 8.35 } }
+  ],
+  "sanak-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.000E-03, "m": 8.25 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.000E-03, "m": 8.46 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.000E-03, "m": 8.21 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.000E-03, "m": 8.45 } }
+  ],
+  "fox-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.262E-03, "m": 8.37 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.262E-03, "m": 8.60 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.262E-03, "m": 8.31 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.262E-03, "m": 8.57 } }
+  ],
+  "fox-andreanof-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.62 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.88 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.52 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.82 } }
+  ],
+  "andreanof-adak-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.54 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.79 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.45 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.74 } }
+  ],
+  "adak-amchitka-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.48 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.72 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.40 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.68 } }
+  ],
+  "amchitka-attu-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.49 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.73 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.41 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.69 } }
+  ],
+  "attu-komandorski-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.55 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.81 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.46 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.75 } }
+  ],
+  "komandorski-geologic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.26 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.47 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.22 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.500E-03, "m": 8.46 } }
+  ],
+
+
+
+  "yakataga-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.321E-03, "m": 7.82 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.321E-03, "m": 7.95 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.321E-03, "m": 7.84 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.321E-03, "m": 8.02 } }
+  ],
+  "pws-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.470E-04, "m": 8.76 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.470E-04, "m": 9.05 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.470E-04, "m": 8.64 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.470E-04, "m": 8.96 } }
+  ],
+  "pws-kenai-barren-kodiak-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 9.11 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 9.46 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.94 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 9.32 } }
+  ],
+  "kenai-barren-kodiak-semidi-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.96 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 9.29 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 8.81 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.136E-03, "m": 9.17 } }
+  ],
+  "kodiak-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.658E-04, "m": 8.53 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.658E-04, "m": 8.78 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.658E-04, "m": 8.44 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.658E-04, "m": 8.73 } }
+  ],
+  "semidi-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.367E-03, "m": 8.30 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.367E-03, "m": 8.51 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.367E-03, "m": 8.25 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.367E-03, "m": 8.50 } }
+  ],
+  "shumagin-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.941E-04, "m": 8.15 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.941E-04, "m": 8.34 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.941E-04, "m": 8.12 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.941E-04, "m": 8.35 } }
+  ],
+  "sanak-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.000E-03, "m": 8.25 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.000E-03, "m": 8.46 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.000E-03, "m": 8.21 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.000E-03, "m": 8.45 } }
+  ],
+  "fox-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.096E-03, "m": 8.37 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.096E-03, "m": 8.60 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.096E-03, "m": 8.31 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.096E-03, "m": 8.57 } }
+  ],
+  "fox-andreanof-adak-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.76 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 9.05 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.64 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.97 } }
+  ],
+  "andreanof-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.25 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.46 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.21 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.46 } }
+  ],
+  "andreanof-adak-amchitka-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.68 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.96 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.57 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.88 } }
+  ],
+  "adak-amchitka-attu-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.68 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.95 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.57 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.88 } }
+  ],
+  "attu-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.24 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.45 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.20 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.44 } }
+  ],
+  "amchitka-attu-komandorski-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.69 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.97 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.58 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.667E-03, "m": 8.89 } }
+  ],
+  "komandorski-geologic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.096E-03, "m": 8.26 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.096E-03, "m": 8.47 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.096E-03, "m": 8.22 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.096E-03, "m": 8.46 } }
+  ],
+
+
+
+
+  "yakataga-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.50592E-02, "m": 7.37 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.20430E-02, "m": 7.44 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.08850E-02, "m": 7.47 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 7.45432E-03, "m": 7.58 } }
+  ],
+  "pws-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.10807E-02, "m": 8.71 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.16638E-03, "m": 9.00 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.63546E-02, "m": 8.60 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.48496E-03, "m": 8.92 } }
+  ],
+  "kenai-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.95858E-02, "m": 8.23 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 9.64673E-03, "m": 8.44 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.23923E-02, "m": 8.20 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 9.69500E-03, "m": 8.44 } }
+  ],
+  "barren-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.88716E-02, "m": 7.68 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.27022E-02, "m": 7.79 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.60568E-02, "m": 7.73 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 9.34147E-03, "m": 7.88 } }
+  ],
+  "kodiak-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.58484E-02, "m": 8.46 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.87334E-03, "m": 8.70 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.04370E-02, "m": 8.39 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 7.84499E-03, "m": 8.66 } }
+  ],
+  "semidi-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.63636E-02, "m": 8.16 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.38746E-03, "m": 8.36 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.80161E-02, "m": 8.14 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.10003E-03, "m": 8.37 } }
+  ],
+  "shumagin-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.36868E-03, "m": 8.04 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.60852E-03, "m": 8.21 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.60929E-03, "m": 8.03 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.14252E-03, "m": 8.24 } }
+  ],
+  "sanak-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.07774E-04, "m": 7.99 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.44076E-04, "m": 8.15 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.09107E-04, "m": 7.99 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.00850E-04, "m": 8.19 } }
+  ],
+  "fox-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.76320E-02, "m": 8.03 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.52606E-02, "m": 8.20 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.83489E-02, "m": 8.02 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.36779E-02, "m": 8.23 } }
+  ],
+  "andreanof-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 7.97489E-03, "m": 8.00 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.46987E-03, "m": 8.17 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.06832E-03, "m": 8.00 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.94759E-03, "m": 8.21 } }
+  ],
+  "adak-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.56775E-02, "m": 8.13 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.33886E-02, "m": 8.32 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.78165E-02, "m": 8.11 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.27104E-02, "m": 8.34 } }
+  ],
+  "amchitka-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.01838E-02, "m": 8.31 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.80957E-03, "m": 8.53 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.21151E-02, "m": 8.26 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.04102E-03, "m": 8.51 } }
+  ],
+  "attu-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.06547E-02, "m": 8.42 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.73447E-03, "m": 8.65 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.34276E-02, "m": 8.35 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.27412E-03, "m": 8.62 } }
+  ],
+  "komandorski-geodetic-1": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.57217E-02, "m": 8.03 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.69370E-03, "m": 8.20 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.61104E-02, "m": 8.02 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 7.78227E-03, "m": 8.23 } }
+  ],
+
+
+
+  "yakataga-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.50592E-02, "m": 7.37 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.20430E-02, "m": 7.44 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.08850E-02, "m": 7.47 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 7.45432E-03, "m": 7.58 } }
+  ],
+  "pws-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.375E-04, "m": 8.71 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.375E-04, "m": 9.00 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.375E-04, "m": 8.60 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.375E-04, "m": 8.92 } }
+  ],
+  "pws-kenai-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.848E-03, "m": 8.84 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.848E-03, "m": 9.14 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.848E-03, "m": 8.71 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.848E-03, "m": 9.04 } }
+  ],
+  "kenai-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 9.250E-04, "m": 8.23 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 9.250E-04, "m": 8.44 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 9.250E-04, "m": 8.20 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 9.250E-04, "m": 8.44 } }
+  ],
+  "kenai-barren-kodiak-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.71 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.99 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.59 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.91 } }
+  ],
+  "barren-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.419E-03, "m": 7.68 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.419E-03, "m": 7.79 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.419E-03, "m": 7.73 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.419E-03, "m": 7.88 } }
+  ],
+  "kodiak-semidi-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.64 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.91 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.54 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.84 } }
+  ],
+  "semidi-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.178E-03, "m": 8.16 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.178E-03, "m": 8.36 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.178E-03, "m": 8.14 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.178E-03, "m": 8.37 } }
+  ],
+  "shumagin-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.36868E-03, "m": 8.04 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.60852E-03, "m": 8.21 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.60929E-03, "m": 8.03 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.14252E-03, "m": 8.24 } }
+  ],
+  "sanak-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.07774E-04, "m": 7.99 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.44076E-04, "m": 8.15 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.09107E-04, "m": 7.99 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.00850E-04, "m": 8.19 } }
+  ],
+  "fox-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.170E-02, "m": 8.03 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.170E-02, "m": 8.20 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.170E-02, "m": 8.02 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.170E-02, "m": 8.23 } }
+  ],
+  "fox-andreanof-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.974E-03, "m": 8.32 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.974E-03, "m": 8.54 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.974E-03, "m": 8.27 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.974E-03, "m": 8.52 } }
+  ],
+  "andreanof-adak-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.974E-03, "m": 8.37 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.974E-03, "m": 8.60 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.974E-03, "m": 8.31 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.974E-03, "m": 8.58 } }
+  ],
+  "adak-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.216E-03, "m": 8.13 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.216E-03, "m": 8.32 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.216E-03, "m": 8.11 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.216E-03, "m": 8.34 } }
+  ],
+  "adak-amchitka-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.521E-03, "m": 8.53 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.521E-03, "m": 8.78 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.521E-03, "m": 8.45 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.521E-03, "m": 8.73 } }
+  ],
+  "amchitka-attu-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.521E-03, "m": 8.67 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.521E-03, "m": 8.94 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.521E-03, "m": 8.56 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.521E-03, "m": 8.87 } }
+  ],
+  "attu-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.166E-04, "m": 8.42 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.166E-04, "m": 8.65 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.166E-04, "m": 8.35 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.166E-04, "m": 8.62 } }
+  ],
+  "attu-komandorski-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.637E-03, "m": 8.57 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.637E-03, "m": 8.82 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.637E-03, "m": 8.48 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 2.637E-03, "m": 8.77 } }
+  ],
+  "komandorski-geodetic-2": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.145E-03, "m": 8.03 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.145E-03, "m": 8.20 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.145E-03, "m": 8.02 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.145E-03, "m": 8.23 } }
+  ],
+
+
+
+  "yakataga-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.50592E-02, "m": 7.37 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.20430E-02, "m": 7.44 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.08850E-02, "m": 7.47 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 7.45432E-03, "m": 7.58 } }
+  ],
+  "pws-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.562E-03, "m": 8.71 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.562E-03, "m": 9.00 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.562E-03, "m": 8.60 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.562E-03, "m": 8.92 } }
+  ],
+  "pws-kenai-barren-kodiak-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 9.01 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 9.34 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.85 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 9.21 } }
+  ],
+  "kenai-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.850E-03, "m": 8.23 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.850E-03, "m": 8.44 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.850E-03, "m": 8.20 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.850E-03, "m": 8.44 } }
+  ],
+  "kenai-barren-kodiak-semidi-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.81 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 9.11 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 8.69 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.922E-03, "m": 9.02 } }
+  ],
+  "barren-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.496E-03, "m": 7.68 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.496E-03, "m": 7.79 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.496E-03, "m": 7.73 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.496E-03, "m": 7.88 } }
+  ],
+  "semidi-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.178E-03, "m": 8.16 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.178E-03, "m": 8.36 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.178E-03, "m": 8.14 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.178E-03, "m": 8.37 } }
+  ],
+  "shumagin-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.36868E-03, "m": 8.04 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.60852E-03, "m": 8.21 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 8.60929E-03, "m": 8.03 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 4.14252E-03, "m": 8.24 } }
+  ],
+  "sanak-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.07774E-04, "m": 7.99 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.44076E-04, "m": 8.15 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.09107E-04, "m": 7.99 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 3.00850E-04, "m": 8.19 } }
+  ],
+  "fox-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.200E-02, "m": 8.03 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.200E-02, "m": 8.20 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.200E-02, "m": 8.02 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.200E-02, "m": 8.23 } }
+  ],
+  "fox-andreanof-adak-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.54 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.79 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.45 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.74 } }
+  ],
+  "andreanof-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.869E-04, "m": 8.00 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.869E-04, "m": 8.17 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.869E-04, "m": 8.00 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 5.869E-04, "m": 8.21 } }
+  ],
+  "andreanof-adak-amchitka-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.64 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.92 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.54 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.85 } }
+  ],
+  "adak-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.589E-02, "m": 8.13 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.589E-02, "m": 8.32 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.589E-02, "m": 8.11 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.589E-02, "m": 8.34 } }
+  ],
+  "adak-amchitka-attu-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.78 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 9.07 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.66 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.98 } }
+  ],
+  "attu-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.913E-03, "m": 8.42 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.913E-03, "m": 8.65 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.913E-03, "m": 8.35 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.913E-03, "m": 8.62 } }
+  ],
+  "amchitka-attu-komandorski-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.76 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 9.05 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.64 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 1.680E-03, "m": 8.96 } }
+  ],
+  "komandorski-geodetic-3": [
+    { "id": "M1", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.102E-03, "m": 8.03 } },
+    { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.102E-03, "m": 8.20 } },
+    { "id": "M3", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.102E-03, "m": 8.02 } },
+    { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "rate": 6.102E-03, "m": 8.23 } }
+  ],
+
+
+
+  "aleutian-arc-narrow": [
+    { "id": "M1", "weight": 1.0, "value": { "type": "GR", "a": 4.9135, "b": 0.85, "mMin": 7.0, "mMax": 8.0, "Δm": 0.1 } }
+  ],
+  "aleutian-arc-wide": [
+    { "id": "M1", "weight": 1.0, "value": { "type": "GR", "a": 4.9135, "b": 0.85, "mMin": 7.0, "mMax": 8.0, "Δm": 0.1 } }
+  ],
+
+  "yakataga-narrow": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "GR", "a": 2.18, "b": 0.666, "mMin": 7.0, "mMax": 8.1, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "GR", "a": 2.18, "b": 0.666, "mMin": 7.0, "mMax": 8.1, "Δm": 0.1 } }
+  ],
+  "yakataga-wide": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "GR", "a": 2.18, "b": 0.666, "mMin": 7.0, "mMax": 8.1, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "GR", "a": 2.18, "b": 0.666, "mMin": 7.0, "mMax": 8.1, "Δm": 0.1 } }
+  ],
+  "aleutians-east-narrow": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00153851, "m": 9.2 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00153851, "m": 9.2 } }
+  ],
+  "aleutians-east-wide": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00153851, "m": 9.2 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00153851, "m": 9.2 } }
+  ],
+  "kodiak-narrow": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00153851, "m": 8.8 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00153851, "m": 8.8 } }
+  ],
+  "kodiak-wide": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00153851, "m": 8.8 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00153851, "m": 8.8 } }
+  ],
+  "semidi-narrow": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "GR", "a": 2.4, "b": 0.71, "mMin": 8.0, "mMax": 8.5, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "GR", "a": 2.4, "b": 0.71, "mMin": 8.0, "mMax": 8.5, "Δm": 0.1 } }
+  ],
+  "semidi-wide": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "GR", "a": 2.4, "b": 0.71, "mMin": 8.0, "mMax": 8.5, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "GR", "a": 2.4, "b": 0.71, "mMin": 8.0, "mMax": 8.5, "Δm": 0.1 } }
+  ],
+  "aleutians-west-narrow": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "GR", "a": 3.16, "b": 0.66, "mMin": 8.0, "mMax": 9.2, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "GR", "a": 3.16, "b": 0.66, "mMin": 8.0, "mMax": 9.2, "Δm": 0.1 } }
+  ],
+  "aleutians-west-wide": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "GR", "a": 3.16, "b": 0.66, "mMin": 8.0, "mMax": 9.2, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "GR", "a": 3.16, "b": 0.66, "mMin": 8.0, "mMax": 9.2, "Δm": 0.1 } }
+  ],
+  "komandorski-narrow": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "GR", "a": 2.69, "b": 0.773, "mMin": 8.0, "mMax": 9.2, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "GR", "a": 2.69, "b": 0.773, "mMin": 8.0, "mMax": 9.2, "Δm": 0.1 } }
+  ],
+  "komandorski-wide": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "GR", "a": 2.69, "b": 0.773, "mMin": 8.0, "mMax": 9.2, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "GR", "a": 2.69, "b": 0.773, "mMin": 8.0, "mMax": 9.2, "Δm": 0.1 } }
+  ],
+  "transition-narrow": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00306832, "m": 8.2 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00306832, "m": 8.2 } }
+  ],
+  "transition-wide": [
+    { "id": "M1", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00306832, "m": 8.2 } },
+    { "id": "M2", "weight": 0.5, "value": { "type": "SINGLE", "rate": 0.00306832, "m": 8.2 } }
+  ]
+}

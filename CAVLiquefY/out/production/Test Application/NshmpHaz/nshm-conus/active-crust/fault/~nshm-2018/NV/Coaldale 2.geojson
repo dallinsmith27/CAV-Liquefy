@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "id": 1025,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-118.29598, 37.99993],
+      [-118.34495, 37.99077],
+      [-118.46794, 37.92932]
+    ]
+  },
+  "properties": {
+    "name": "Coaldale 2",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 0.0,
+    "rate-type": "SLIP",
+    "length": 17.17629,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.28464,
+        "single-rate": 1.183E-4
+      },
+      "ZENG": {
+        "rate": 0.1,
+        "gr-a-value": 1.28464,
+        "single-rate": 1.183E-4
+      }
+    }
+  }
+}

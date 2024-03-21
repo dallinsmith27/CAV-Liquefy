@@ -1,0 +1,58 @@
+{
+  "grid-mmax-craton-gk": [
+      { "id": "M1", "weight": 0.2, "value": { "type": "GR", "mMax": 6.5, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M2", "weight": 0.5, "value": { "type": "GR", "mMax": 7.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M3", "weight": 0.2, "value": { "type": "GR", "mMax": 7.5, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "GR", "mMax": 8.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }}
+  ],
+  "grid-mmax-margin-1-gk": [
+      { "id": "M1", "weight": 0.1, "value": { "type": "GR", "mMax": 6.8, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M2", "weight": 0.3, "value": { "type": "GR", "mMax": 7.2, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M3", "weight": 0.5, "value": { "type": "GR", "mMax": 7.6, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "GR", "mMax": 8.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }}
+  ],
+  "grid-mmax-margin-2-gk": [
+      { "id": "M1", "weight": 0.2, "value": { "type": "GR", "mMax": 6.8, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M2", "weight": 0.3, "value": { "type": "GR", "mMax": 7.2, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M3", "weight": 0.4, "value": { "type": "GR", "mMax": 7.6, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "GR", "mMax": 8.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }}
+  ],
+
+  "grid-mmax-craton-nn": [
+      { "id": "M1", "weight": 0.2, "value": { "type": "GR", "mMax": 6.5, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M2", "weight": 0.5, "value": { "type": "GR", "mMax": 7.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M3", "weight": 0.2, "value": { "type": "GR", "mMax": 7.5, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "GR", "mMax": 8.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }}
+  ],
+  "grid-mmax-margin-1-nn": [
+      { "id": "M1", "weight": 0.1, "value": { "type": "GR", "mMax": 6.8, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M2", "weight": 0.3, "value": { "type": "GR", "mMax": 7.2, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M3", "weight": 0.5, "value": { "type": "GR", "mMax": 7.6, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "GR", "mMax": 8.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }}
+  ],
+  "grid-mmax-margin-2-nn": [
+      { "id": "M1", "weight": 0.2, "value": { "type": "GR", "mMax": 6.8, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M2", "weight": 0.3, "value": { "type": "GR", "mMax": 7.2, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M3", "weight": 0.4, "value": { "type": "GR", "mMax": 7.6, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "GR", "mMax": 8.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }}
+  ],
+
+  "grid-mmax-craton-r85": [
+      { "id": "M1", "weight": 0.2, "value": { "type": "GR", "mMax": 6.5, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M2", "weight": 0.5, "value": { "type": "GR", "mMax": 7.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M3", "weight": 0.2, "value": { "type": "GR", "mMax": 7.5, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "GR", "mMax": 8.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }}
+  ],
+  "grid-mmax-margin-1-r85": [
+      { "id": "M1", "weight": 0.1, "value": { "type": "GR", "mMax": 6.8, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M2", "weight": 0.3, "value": { "type": "GR", "mMax": 7.2, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M3", "weight": 0.5, "value": { "type": "GR", "mMax": 7.6, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "GR", "mMax": 8.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }}
+  ],
+  "grid-mmax-margin-2-r85": [
+      { "id": "M1", "weight": 0.2, "value": { "type": "GR", "mMax": 6.8, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M2", "weight": 0.3, "value": { "type": "GR", "mMax": 7.2, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M3", "weight": 0.4, "value": { "type": "GR", "mMax": 7.6, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "GR", "mMax": 8.0, "mMin": 4.7, "Δm": 0.1, "b": 0.94 }}
+  ]
+}

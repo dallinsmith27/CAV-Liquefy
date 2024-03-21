@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 2512,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-117.33468, 43.92403],
+      [-117.3788, 43.98761],
+      [-117.46243, 44.09457],
+      [-117.48013, 44.10338],
+      [-117.49684, 44.12161],
+      [-117.52932, 44.15759],
+      [-117.54446, 44.19304],
+      [-117.58512, 44.2575]
+    ]
+  },
+  "properties": {
+    "name": "Cottonwood Mountain",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 42.45026,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.10724622203665693,
+        "gr-a-value": 1.16672,
+        "single-rate": 1.091E-4
+      },
+      "GEO": {
+        "rate": 0.09,
+        "gr-a-value": 1.09058,
+        "single-rate": 9.16E-5
+      },
+      "ZENG": {
+        "rate": 0.09192533317427735,
+        "gr-a-value": 1.09977,
+        "single-rate": 9.35E-5
+      }
+    }
+  }
+}

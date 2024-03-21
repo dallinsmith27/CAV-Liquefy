@@ -1,0 +1,20 @@
+{
+  "name": "NSHM Conterminous U.S. 2023 (beta)",
+  "site-class-vs30": {
+    "A": 3000,
+    "AB": 1500,
+    "B": 1080,
+    "BC": 760,
+    "C": 530,
+    "CD": 365,
+    "D": 260,
+    "DE": 185,
+    "E": 150
+  },
+  "bounds": {
+    "min-latitude": 24.6,
+    "min-longitude": -125.0,
+    "max-latitude": 50.0,
+    "max-longitude": -65.0
+  }
+}

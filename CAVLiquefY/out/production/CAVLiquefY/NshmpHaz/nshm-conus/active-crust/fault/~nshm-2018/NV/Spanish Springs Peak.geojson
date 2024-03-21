@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "id": 1113,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.61211, 39.60579],
+      [-119.63663, 39.59096],
+      [-119.65208, 39.5747]
+    ]
+  },
+  "properties": {
+    "name": "Spanish Springs Peak",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 0.0,
+    "rate-type": "SLIP",
+    "length": 4.911732,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": null,
+        "single-rate": 1.9699172E-4
+      },
+      "ZENG": {
+        "rate": 0.12,
+        "gr-a-value": null,
+        "single-rate": 2.3639004E-4
+      }
+    },
+    "magnitude": 6.0,
+    "magnitude-note": "HISTORIC_M_MAX"
+  }
+}

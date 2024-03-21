@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "id": 4212,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-149.7558, 66.46775],
+      [-149.71917, 66.4239],
+      [-149.71369, 66.36747],
+      [-149.6736, 66.32548],
+      [-149.65522, 66.28608],
+      [-149.57196, 66.22771],
+      [-149.51423, 66.21123]
+    ]
+  },
+  "properties": {
+    "name": "Dall Mountain",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 31.533403764659653,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.2
+      },
+      "GEO": {
+        "rate": 0.2
+      }
+    }
+  }
+}

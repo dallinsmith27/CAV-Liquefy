@@ -1,0 +1,19 @@
+{
+  "name": "NSHM Alaska 2023 (beta)",
+  "site-class-vs30": {
+    "AB": 1500,
+    "B": 1080,
+    "BC": 760,
+    "C": 530,
+    "CD": 365,
+    "D": 260,
+    "DE": 185,
+    "E": 150
+  },
+  "bounds": {
+    "min-latitude": 45.95,
+    "min-longitude": -195.05,
+    "max-latitude": 73.05,
+    "max-longitude": -119.95
+  }
+}

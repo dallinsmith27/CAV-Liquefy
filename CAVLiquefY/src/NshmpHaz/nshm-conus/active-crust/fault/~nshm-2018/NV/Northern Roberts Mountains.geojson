@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 1086,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.21041, 39.9992],
+      [-116.28075, 39.95922],
+      [-116.3042, 39.95294],
+      [-116.35101, 39.93075],
+      [-116.36008, 39.93156],
+      [-116.37356, 39.92401],
+      [-116.40958, 39.87711]
+    ]
+  },
+  "properties": {
+    "name": "Northern Roberts Mountains",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 22.52656,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.09192533317427735,
+        "gr-a-value": 1.24651,
+        "single-rate": 1.499E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.28308,
+        "single-rate": 1.631E-4
+      },
+      "ZENG": {
+        "rate": 0.12256711089903649,
+        "gr-a-value": 1.37145,
+        "single-rate": 1.999E-4
+      }
+    }
+  }
+}

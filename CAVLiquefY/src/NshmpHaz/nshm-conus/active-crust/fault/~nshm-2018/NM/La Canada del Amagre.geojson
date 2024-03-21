@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 2412,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-106.24306, 36.02293],
+      [-106.23102, 36.06929],
+      [-106.23363, 36.10531],
+      [-106.21206, 36.17009]
+    ]
+  },
+  "properties": {
+    "name": "La Canada del Amagre",
+    "state": "NM",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 16.7387,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.061283555449518246,
+        "gr-a-value": null,
+        "single-rate": 1.2467269E-4
+      },
+      "GEO": {
+        "rate": 0.012,
+        "gr-a-value": null,
+        "single-rate": 2.4412309E-5
+      },
+      "ZENG": {
+        "rate": 0.02298133329356934,
+        "gr-a-value": null,
+        "single-rate": 4.6752251E-5
+      }
+    }
+  }
+}

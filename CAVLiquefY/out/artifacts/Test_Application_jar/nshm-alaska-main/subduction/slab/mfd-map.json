@@ -1,0 +1,12 @@
+{
+  "slab-full": [
+    { "id": "M1:R1", "weight": 0.13, "value": { "type": "GR", "b": 0.89, "mMin": 5.0, "mMax": 8.0, "Δm": 0.1, "a": 5.037197 } },
+    { "id": "M2:R2", "weight": 0.74, "value": { "type": "GR", "b": 0.85, "mMin": 5.0, "mMax": 8.0, "Δm": 0.1, "a": 4.539277 } },
+    { "id": "M3:R3", "weight": 0.13, "value": { "type": "GR", "b": 0.81, "mMin": 5.0, "mMax": 8.0, "Δm": 0.1, "a": 4.075866 } }
+  ],
+  "interface-full": [
+    { "id": "M1:R1", "weight": 0.13, "value": { "type": "GR", "b": 0.91, "mMin": 5.0, "mMax": 7.0, "Δm": 0.1, "a": 5.198894 } },
+    { "id": "M2:R2", "weight": 0.74, "value": { "type": "GR", "b": 0.82, "mMin": 5.0, "mMax": 7.0, "Δm": 0.1, "a": 4.765841 } },
+    { "id": "M3:R3", "weight": 0.13, "value": { "type": "GR", "b": 0.79, "mMin": 5.0, "mMax": 7.0, "Δm": 0.1, "a": 4.339072 } }
+  ]
+}

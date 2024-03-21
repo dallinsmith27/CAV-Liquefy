@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "id": 2414,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-106.27657, 36.20656],
+      [-106.30433, 36.14349],
+      [-106.30011, 36.04108]
+    ]
+  },
+  "properties": {
+    "name": "Lobato Mesa",
+    "state": "NM",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 18.83734,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": 0.42298,
+        "single-rate": 1.43E-5
+      },
+      "GEO": {
+        "rate": 0.0054,
+        "gr-a-value": 0.27112,
+        "single-rate": 1.0E-5
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": 0.42298,
+        "single-rate": 1.43E-5
+      }
+    }
+  }
+}

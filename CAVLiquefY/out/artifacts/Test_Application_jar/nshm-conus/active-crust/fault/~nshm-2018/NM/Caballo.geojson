@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "id": 2402,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-107.26687, 33.11372],
+      [-107.25662, 33.09593],
+      [-107.25339, 33.06862],
+      [-107.23964, 33.04248],
+      [-107.24413, 33.01463],
+      [-107.26462, 32.96054],
+      [-107.26498, 32.94788],
+      [-107.25546, 32.93476],
+      [-107.25393, 32.92344]
+    ]
+  },
+  "properties": {
+    "name": "Caballo",
+    "state": "NM",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 22.24395,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 0.025,
+        "gr-a-value": 1.32259,
+        "single-rate": 1.834E-4
+      },
+      "ZENG": null
+    }
+  }
+}

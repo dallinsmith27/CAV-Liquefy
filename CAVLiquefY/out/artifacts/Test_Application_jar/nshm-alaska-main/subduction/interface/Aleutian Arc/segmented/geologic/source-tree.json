@@ -1,0 +1,10 @@
+[
+  {
+    "id": "narrow",
+    "weight": 0.5
+  },
+  {
+    "id": "wide",
+    "weight": 0.5
+  }
+]

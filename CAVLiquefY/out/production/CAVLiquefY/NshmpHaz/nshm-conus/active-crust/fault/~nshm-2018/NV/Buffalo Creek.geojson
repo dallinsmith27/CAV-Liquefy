@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 1014,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-117.8007, 39.48838],
+      [-117.82675, 39.41489],
+      [-117.82693, 39.38408],
+      [-117.81202, 39.36422],
+      [-117.7892, 39.33179],
+      [-117.7803, 39.30187],
+      [-117.81624, 39.25102]
+    ]
+  },
+  "properties": {
+    "name": "Buffalo Creek",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 28.4169,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.1991715552109343,
+        "gr-a-value": 1.63941,
+        "single-rate": 2.707E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.34019,
+        "single-rate": 1.359E-4
+      },
+      "ZENG": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.45489,
+        "single-rate": 1.77E-4
+      }
+    }
+  }
+}

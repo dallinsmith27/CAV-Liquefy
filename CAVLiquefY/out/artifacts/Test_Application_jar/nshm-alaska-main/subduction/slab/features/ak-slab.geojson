@@ -1,0 +1,19 @@
+{
+    "type": "Feature",
+    "id": 37001,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-195.55, 50.35],
+        [-195.55, 64.75],
+        [-137.85, 64.75],
+        [-137.85, 50.35],
+        [-195.55, 50.35]
+        ]]
+    },
+    "properties": {
+      "name": "AK Intraslab (X km)",
+      "state": "AK",
+      "mfd-tree": "ak-slab"
+    }
+  }

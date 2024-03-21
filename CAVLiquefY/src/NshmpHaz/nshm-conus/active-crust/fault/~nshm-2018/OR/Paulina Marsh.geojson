@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 2526,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-121.03912, 43.2312],
+      [-121.00515, 43.18924],
+      [-120.99725, 43.17613],
+      [-120.99518, 43.15771],
+      [-120.98421, 43.14855]
+    ]
+  },
+  "properties": {
+    "name": "Paulina Marsh",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 10.41728,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.04596266658713868,
+        "gr-a-value": null,
+        "single-rate": 1.3331037E-4
+      },
+      "GEO": {
+        "rate": 0.29,
+        "gr-a-value": null,
+        "single-rate": 8.4111799E-4
+      },
+      "ZENG": {
+        "rate": 0.28343644395402184,
+        "gr-a-value": null,
+        "single-rate": 8.2208071E-4
+      }
+    }
+  }
+}

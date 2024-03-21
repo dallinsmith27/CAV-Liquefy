@@ -1,0 +1,38 @@
+{
+  "wus-extensional": [
+    { 
+      "id": "M1",
+      "weight": 0.2997,
+      "value": { 
+        "type": "GR_MMAX_GR",
+        "b": 0.8,
+        "Δm": 0.1,
+        "mMin": 5.0,
+        "mMax": 7.5
+      }
+    },
+    { 
+      "id": "M2",
+      "weight": 0.6003,
+      "value": { 
+        "type": "GR_MMAX_SINGLE",
+        "b": 0.8,
+        "Δm": 0.1,
+        "mMin": 5.0,
+        "mMax": 7.5
+      }
+    },
+    { 
+      "id": "M3",
+      "weight": 0.1,
+      "value": { 
+        "type": "GR_TAPER",
+        "b": 0.8,
+        "Δm": 0.1,
+        "mMin": 5.0,
+        "mMax": 7.5,
+        "mc": 7.5
+      }
+    }
+  ]
+}

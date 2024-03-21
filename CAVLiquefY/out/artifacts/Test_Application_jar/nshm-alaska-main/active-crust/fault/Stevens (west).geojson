@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "id": 4293,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-149.639, 66.133],
+      [-149.30245, 66.24911],
+      [-148.96281, 66.31496]
+    ]
+  },
+  "properties": {
+    "name": "Stevens (west)",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 180.0,
+    "rate-type": "SLIP",
+    "length": 36.735985292979514,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.01
+      },
+      "GEO": {
+        "rate": 0.01
+      }
+    }
+  }
+}

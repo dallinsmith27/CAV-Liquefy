@@ -1,0 +1,9 @@
+{
+  "max-distance": 300.0,
+  "epistemic-model": "NGA_WEST2",
+  "epistemic-tree": [
+    { "id": "+uₑ", "weight": 0.185, "value": 1.0 },
+    { "id": "~uₑ", "weight": 0.63, "value": 0.0 },
+    { "id": "-uₑ", "weight": 0.185, "value": -1.0 }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "R1",
+    "weight": 0.45,
+    "value" : null
+  },
+  {
+    "id": "R2",
+    "weight": 0.45,
+    "value" : 0.0006667
+  },
+  {
+    "id": "R3",
+    "weight": 0.05,
+    "value" : null
+  },
+  {
+    "id": "R4",
+    "weight": 0.05,
+    "value" : null
+  }
+]

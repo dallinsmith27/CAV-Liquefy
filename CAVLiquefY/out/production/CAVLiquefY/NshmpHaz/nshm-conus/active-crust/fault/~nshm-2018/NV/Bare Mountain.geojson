@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 1004,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.61422, 36.74148],
+      [-116.63102, 36.77571],
+      [-116.62509, 36.81255],
+      [-116.63776, 36.8395],
+      [-116.64037, 36.85674],
+      [-116.62563, 36.87399],
+      [-116.62456, 36.89573],
+      [-116.6321, 36.90409]
+    ]
+  },
+  "properties": {
+    "name": "Bare Mountain",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 19.24263,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.08426488874308759,
+        "gr-a-value": 1.47012,
+        "single-rate": 1.547E-4
+      },
+      "GEO": {
+        "rate": 0.008,
+        "gr-a-value": 0.44756,
+        "single-rate": 1.47E-5
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": 0.42872,
+        "single-rate": 1.41E-5
+      }
+    }
+  }
+}

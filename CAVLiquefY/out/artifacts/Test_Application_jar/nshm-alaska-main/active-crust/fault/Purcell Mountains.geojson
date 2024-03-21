@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "id": 4211,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-157.16305, 66.14561],
+      [-156.94643, 66.13836],
+      [-156.7722, 66.11523],
+      [-156.57903, 66.11737],
+      [-156.3788, 66.11936]
+    ]
+  },
+  "properties": {
+    "name": "Purcell Mountains",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 35.74404341796432,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.2
+      },
+      "GEO": {
+        "rate": 0.2
+      }
+    }
+  }
+}

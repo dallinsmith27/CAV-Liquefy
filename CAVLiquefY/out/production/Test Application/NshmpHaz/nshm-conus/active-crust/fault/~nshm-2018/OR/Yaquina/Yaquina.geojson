@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "id": 2545,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-123.98667, 44.64147],
+      [-124.03321, 44.63195],
+      [-124.07742, 44.60868]
+    ]
+  },
+  "properties": {
+    "name": "Yaquina",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 8.183013,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 0.6,
+        "gr-a-value": null,
+        "single-rate": 0.0016188847
+      },
+      "ZENG": null
+    }
+  }
+}

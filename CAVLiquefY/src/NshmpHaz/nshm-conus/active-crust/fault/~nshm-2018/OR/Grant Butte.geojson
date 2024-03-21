@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "id": 2515,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-122.43135, 45.49836],
+      [-122.45605, 45.48821],
+      [-122.47205, 45.48812],
+      [-122.49882, 45.47797],
+      [-122.54401, 45.47608]
+    ]
+  },
+  "properties": {
+    "name": "Grant Butte",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 9.381696,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 0.11,
+        "gr-a-value": null,
+        "single-rate": 3.4148953E-4
+      },
+      "ZENG": {
+        "rate": 0.13788799976141602,
+        "gr-a-value": null,
+        "single-rate": 4.2806621E-4
+      }
+    }
+  }
+}

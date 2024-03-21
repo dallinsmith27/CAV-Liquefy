@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 1089,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.91092, 39.58701],
+      [-119.91056, 39.5942],
+      [-119.91846, 39.60579],
+      [-119.94335, 39.62573],
+      [-119.96375, 39.63319],
+      [-119.97444, 39.63238],
+      [-119.99798, 39.66849]
+    ]
+  },
+  "properties": {
+    "name": "Peavine Peak",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "RECURRENCE",
+    "length": 12.67924,
+    "rate-map": {
+      "BIRD": {
+        "rate": 8.333E-4,
+        "gr-a-value": null,
+        "single-rate": 8.333E-4
+      },
+      "GEO": {
+        "rate": 8.333E-4,
+        "gr-a-value": null,
+        "single-rate": 8.333E-4
+      },
+      "ZENG": {
+        "rate": 8.333E-4,
+        "gr-a-value": null,
+        "single-rate": 8.333E-4
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "eastern-rift-margin-north": [
+      { "id": "M1", "weight": 0.3, "value": { "type": "SINGLE", "m": 6.7 }},
+      { "id": "M2", "weight": 0.3, "value": { "type": "SINGLE", "m": 6.9 }},
+      { "id": "M3", "weight": 0.3, "value": { "type": "SINGLE", "m": 7.1 }},
+      { "id": "M4", "weight": 0.1, "value": { "type": "SINGLE", "m": 7.4 }}
+  ]
+}

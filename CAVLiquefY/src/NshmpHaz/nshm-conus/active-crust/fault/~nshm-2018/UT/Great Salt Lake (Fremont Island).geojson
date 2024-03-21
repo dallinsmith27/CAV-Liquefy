@@ -1,0 +1,47 @@
+{
+  "type": "Feature",
+  "id": 2702,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-112.52186, 41.20998],
+      [-112.52016, 41.1992],
+      [-112.49221, 41.17826],
+      [-112.45268, 41.17126],
+      [-112.44091, 41.16156],
+      [-112.41405, 41.1515],
+      [-112.36455, 41.09319],
+      [-112.35448, 41.06013],
+      [-112.32735, 41.02599],
+      [-112.31918, 41.00362],
+      [-112.30606, 40.99266]
+    ]
+  },
+  "properties": {
+    "name": "Great Salt Lake (Fremont Island)",
+    "state": "UT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "RECURRENCE",
+    "length": 31.99558,
+    "rate-map": {
+      "BIRD": {
+        "rate": 2.38E-4,
+        "gr-a-value": 1.34923,
+        "single-rate": 2.38E-4
+      },
+      "GEO": {
+        "rate": 2.38E-4,
+        "gr-a-value": 1.34923,
+        "single-rate": 2.38E-4
+      },
+      "ZENG": {
+        "rate": 2.38E-4,
+        "gr-a-value": 1.34923,
+        "single-rate": 2.38E-4
+      }
+    }
+  }
+}

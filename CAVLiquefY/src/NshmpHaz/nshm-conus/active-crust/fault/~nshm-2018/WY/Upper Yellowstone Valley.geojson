@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 2908,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-110.12274, 44.08817],
+      [-110.12994, 44.16965],
+      [-110.13029, 44.18052],
+      [-110.12347, 44.19436],
+      [-110.13065, 44.23101],
+      [-110.12939, 44.24898]
+    ]
+  },
+  "properties": {
+    "name": "Upper Yellowstone Valley",
+    "state": "WY",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 18.03641,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.4213244437154379,
+        "gr-a-value": 2.15147,
+        "single-rate": 8.044E-4
+      },
+      "GEO": {
+        "rate": 0.37,
+        "gr-a-value": 2.09506,
+        "single-rate": 7.064E-4
+      },
+      "ZENG": {
+        "rate": 0.32173866610997076,
+        "gr-a-value": 2.03436,
+        "single-rate": 6.143E-4
+      }
+    }
+  }
+}

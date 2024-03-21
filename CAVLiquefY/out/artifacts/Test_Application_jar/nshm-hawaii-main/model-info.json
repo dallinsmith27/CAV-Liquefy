@@ -1,0 +1,19 @@
+{
+  "name": "NSHM Hawaii 2021",
+  "site-class-vs30": {
+    "AB": 1500,
+    "B": 1080,
+    "BC": 760,
+    "C": 530,
+    "CD": 365,
+    "D": 260,
+    "DE": 185,
+    "E": 150
+  },
+  "bounds": {
+    "min-latitude": 18.6,
+    "min-longitude": -160.5,
+    "max-latitude": 22.5,
+    "max-longitude": -154.3
+  }
+}

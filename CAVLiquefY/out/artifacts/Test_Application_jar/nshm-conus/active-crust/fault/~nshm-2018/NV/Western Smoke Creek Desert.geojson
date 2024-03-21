@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 1124,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.64805, 40.61952],
+      [-119.62101, 40.67028],
+      [-119.576, 40.70082],
+      [-119.57007, 40.72023],
+      [-119.50799, 40.74701]
+    ]
+  },
+  "properties": {
+    "name": "Western Smoke Creek Desert",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 19.41534,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.29875733281640143,
+        "gr-a-value": 2.02367,
+        "single-rate": 5.536E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.54835,
+        "single-rate": 1.853E-4
+      },
+      "ZENG": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.66305,
+        "single-rate": 2.413E-4
+      }
+    }
+  }
+}

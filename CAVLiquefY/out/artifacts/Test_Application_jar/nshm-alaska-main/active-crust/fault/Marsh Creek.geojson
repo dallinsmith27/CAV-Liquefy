@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "id": 4304,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-145.75627, 69.772],
+      [-145.59911, 69.79653],
+      [-145.43855, 69.82141],
+      [-145.23635, 69.85247],
+      [-145.00608, 69.88748],
+      [-144.73839, 69.91249],
+      [-144.45881, 69.93814]
+    ]
+  },
+  "properties": {
+    "name": "Marsh Creek",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 65.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 53.14508468356942,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.01
+      },
+      "GEO": {
+        "rate": 0.01
+      }
+    }
+  }
+}

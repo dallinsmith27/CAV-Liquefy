@@ -1,0 +1,9 @@
+[
+  {
+    "name": "CEUS Branch Average",
+    "id": 8051,
+    "feature": 8050,
+    "mfd-tree": "system-stable-mfd",
+    "grid-mfds": "../../../active-crust/grid/grid-data/branch-avg-grid.csv"
+  }
+]

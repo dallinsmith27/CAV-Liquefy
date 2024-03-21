@@ -1,0 +1,10 @@
+[
+  {
+    "id": "full-rupture",
+    "weight": 0.667
+  },
+  {
+    "id": "partial-rupture",
+    "weight": 0.333
+  }
+]

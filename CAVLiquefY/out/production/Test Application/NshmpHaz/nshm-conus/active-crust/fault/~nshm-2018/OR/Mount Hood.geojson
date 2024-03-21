@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 2524,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-121.80624, 45.3309],
+      [-121.81756, 45.32901],
+      [-121.83058, 45.33431],
+      [-121.85808, 45.35453],
+      [-121.91854, 45.38588]
+    ]
+  },
+  "properties": {
+    "name": "Mount Hood",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 11.06647,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.030641777724759123,
+        "gr-a-value": null,
+        "single-rate": 8.5119129E-5
+      },
+      "GEO": {
+        "rate": 0.16,
+        "gr-a-value": null,
+        "single-rate": 4.4446075E-4
+      },
+      "ZENG": {
+        "rate": 0.21449244407331386,
+        "gr-a-value": null,
+        "single-rate": 5.9583387E-4
+      }
+    }
+  }
+}

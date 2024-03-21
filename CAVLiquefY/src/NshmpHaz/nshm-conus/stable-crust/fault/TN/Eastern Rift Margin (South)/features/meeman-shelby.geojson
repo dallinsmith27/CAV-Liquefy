@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "id": 3804,
+  "properties": {
+    "name": "Meeman-Shelby",
+    "state": "TN",
+    "dip": 83.0,
+    "dip-dir": "NW",
+    "rake": 132.0,
+    "references": "Hao et al., 2013; Cox et al., 2013; CEUS-SSCn 2012",
+    "upper-depth": 10.0,
+    "lower-depth": 25.0,
+    "rate-type": "RECURRENCE",
+    "status": "last updated Sept 2021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-89.98700, 35.45014],
+      [-90.03225, 35.37002],
+      [-90.06764, 35.31506],
+      [-90.09522, 35.26771],
+      [-90.14103, 35.18449],
+      [-90.15666, 35.12623],
+      [-90.17954, 35.07372],
+      [-90.20036, 35.04070],
+      [-90.21944, 35.01881],
+      [-90.29441, 34.97860]
+    ]
+  }
+}

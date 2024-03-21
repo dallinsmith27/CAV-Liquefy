@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2506,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-124.49048, 42.76508],
+      [-124.45787, 42.78395],
+      [-124.45014, 42.79634],
+      [-124.42211, 42.81297],
+      [-124.39058, 42.82671],
+      [-124.3541, 42.83471],
+      [-124.3214, 42.85528]
+    ]
+  },
+  "properties": {
+    "name": "Beaver Creek",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 17.45503,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.061283555449518246,
+        "gr-a-value": 1.30697,
+        "single-rate": 1.213E-4
+      },
+      "GEO": {
+        "rate": 0.2,
+        "gr-a-value": 1.82066,
+        "single-rate": 3.96E-4
+      },
+      "ZENG": {
+        "rate": 0.1838506663485547,
+        "gr-a-value": 1.78409,
+        "single-rate": 3.64E-4
+      }
+    }
+  }
+}

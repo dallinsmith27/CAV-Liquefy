@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 1020,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.81882, 39.06522],
+      [-119.79124, 39.11401],
+      [-119.77731, 39.12155],
+      [-119.76941, 39.16917],
+      [-119.76042, 39.17213],
+      [-119.74659, 39.19342]
+    ]
+  },
+  "properties": {
+    "name": "Carson City",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 16.22096,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.1,
+        "gr-a-value": null,
+        "single-rate": 2.1124246E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": null,
+        "single-rate": 2.1124246E-4
+      },
+      "ZENG": {
+        "rate": 0.1,
+        "gr-a-value": null,
+        "single-rate": 2.1124246E-4
+      }
+    }
+  }
+}

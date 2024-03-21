@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 1043,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-117.31386, 41.04877],
+      [-117.26265, 41.09872],
+      [-117.24747, 41.11957],
+      [-117.20722, 41.13906],
+      [-117.18098, 41.14338],
+      [-117.16392, 41.15622],
+      [-117.12439, 41.17086],
+      [-117.05539, 41.22306]
+    ]
+  },
+  "properties": {
+    "name": "Eastern Osgood Mountains (Piedmont)",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 29.81576,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.12256711089903649,
+        "gr-a-value": 1.44204,
+        "single-rate": 1.631E-4
+      },
+      "GEO": {
+        "rate": 0.01,
+        "gr-a-value": 0.35366,
+        "single-rate": 1.33E-5
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": 0.23792,
+        "single-rate": 1.02E-5
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "id": 4280,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-147.69521, 59.96872],
+      [-147.72682, 59.94923],
+      [-147.74284, 59.94558],
+      [-147.77357, 59.93101],
+      [-147.79234, 59.91683],
+      [-147.81392, 59.90633]
+    ]
+  },
+  "properties": {
+    "name": "Hanning Bay",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 45.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 9.697050409856642,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.2
+      },
+      "GEO": {
+        "rate": 0.2
+      }
+    }
+  }
+}

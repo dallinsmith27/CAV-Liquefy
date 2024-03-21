@@ -1,0 +1,9 @@
+[
+  {
+    "name": "UCERF3 Fault Model 3.2",
+    "id": 8022,
+    "feature": 8120,
+    "mfd-tree": "ucerf3-mfd",
+    "grid-mfds": "ucerf3-fm-3.2.csv"
+  }
+]

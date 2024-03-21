@@ -1,0 +1,79 @@
+   INFO HazardCalc version: 
+	nshmp-haz: 2.0.9-37-g30585a6.dirty
+	nshmp-lib: 1.2.10
+	nshmp-ws-utils: 0.3.11
+
+   INFO {
+  "hazard": {
+    "exceedanceModel": "TRUNCATION_3SIGMA_UPPER",
+    "truncationLevel": 3.0,
+    "imts": [
+      "CAV"
+    ],
+    "tectonicSettings": [],
+    "sourceTypes": [],
+    "vs30s": [],
+    "useSiteData": true,
+    "valueFormat": "ANNUAL_RATE",
+    "customImls": {}
+  },
+  "gmm": {
+    "dampingRatio": 5.0,
+    "sigmaScale": 1.0,
+    "vertical": false
+  },
+  "disagg": {
+    "returnPeriod": 2475,
+    "bins": {
+      "rMin": 0.0,
+      "rMax": 1000.0,
+      "?r": 0.0,
+      "mMin": 4.4,
+      "mMax": 9.4,
+      "?m": 0.0,
+      "?Min": 0.0,
+      "?Max": 0.0,
+      "??": 0.0
+    },
+    "contributorLimit": 1.0
+  },
+  "rate": {
+    "bins": {
+      "mMin": 4.2,
+      "mMax": 9.4,
+      "?m": 0.0
+    },
+    "distance": 20.0,
+    "distributionFormat": "INCREMENTAL",
+    "valueFormat": "ANNUAL_RATE",
+    "timespan": 30.0
+  },
+  "output": {
+    "directory": "C:\\Users\\dalli\\Documents\\GRAD_PROJECT\\Settlement\\Test Application\\out\\artifacts\\Test_Application_jar\\HazardCurve",
+    "dataTypes": [
+      "TOTAL",
+      "MAP"
+    ],
+    "returnPeriods": [
+      475,
+      975,
+      2475,
+      10000
+    ]
+  },
+  "performance": {
+    "optimizeGrids": true,
+    "smoothGrids": true,
+    "systemPartition": 1000,
+    "threadCount": "ALL",
+    "distanceFilterUpdate": false
+  }
+}
+   INFO 
+   INFO Sites file: C:\Users\dalli\Documents\GRAD_PROJECT\Settlement\Test Application\out\artifacts\Test_Application_jar\nshmp-haz-site.csv
+   INFO Sites: Sites [size=1]
+               Honolulu                    -157.858 21.310 vs30=760.0 z1.0=NaN z2.5=NaN zSed=NaN
+   INFO Threads: 8
+   INFO HazardCalc: calculating ...
+ SEVERE @ HazardCalc.handleError()
+** Exiting **

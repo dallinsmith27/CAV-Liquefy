@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "id": 3050,
+  "properties": {
+    "name": "New Madrid - SSCn (Axial, south)",
+    "state": "AR",
+    "states": ["AR","MO"],
+    "dip": 90.0,
+    "dip-dir": "vertical",
+    "rake": 180.0,
+    "rate-type": "RECURRENCE",
+    "references": "Pratt et al., 2013; Guo et al., 2014; CEUS-SSCn 2012",
+    "upper-depth": 10.0,
+    "lower-depth": 25.0,
+    "status": "last updated Sept 2021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-90.67355, 35.35296],
+      [-90.50268, 35.42491],
+      [-90.39806, 35.49722],
+      [-90.36679, 35.55478],
+      [-90.18828, 35.72327],
+      [-90.18813, 35.72340]
+    ]
+  }
+}

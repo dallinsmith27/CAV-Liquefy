@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "id": 1114,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.73753, 39.5712],
+      [-119.74319, 39.57506],
+      [-119.7448, 39.58557],
+      [-119.7263, 39.6225],
+      [-119.73106, 39.63714],
+      [-119.73168, 39.66966],
+      [-119.71659, 39.69643],
+      [-119.70248, 39.7118],
+      [-119.68964, 39.75132]
+    ]
+  },
+  "properties": {
+    "name": "Spanish Springs Valley",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 21.38962,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.4596266658713868,
+        "gr-a-value": 1.93378,
+        "single-rate": 7.894E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.27137,
+        "single-rate": 1.718E-4
+      },
+      "ZENG": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.38607,
+        "single-rate": 2.237E-4
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Eastern Monitor Range",
+  "id": 1041,
+  "mfd-tree": "monitor-zeng",
+  "properties": {
+    "dip": 35.0
+  }
+}

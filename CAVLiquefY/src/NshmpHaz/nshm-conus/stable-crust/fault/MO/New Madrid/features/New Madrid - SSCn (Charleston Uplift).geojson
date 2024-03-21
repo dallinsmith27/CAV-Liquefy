@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": 3061,
+  "properties": {
+    "name": "New Madrid - SSCn (Charleston Uplift)",
+    "state": "MO",
+    "dip": 90.0,
+    "dip-dir": "vertical",
+    "rake": 90.0,
+    "rate-type": "RECURRENCE",
+    "references": "CEUS-SSCn 2012",
+    "upper-depth": 10.0,
+    "lower-depth": 25.0,
+    "status": "last updated Sept 2021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-89.36598, 36.89696],
+      [-89.36465, 36.89813],
+      [-89.29577, 36.99196],
+      [-89.01824, 37.27083]
+    ]
+  }
+}

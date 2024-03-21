@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Interface (nn, fixed, full catalog)",
+    "id": 9984,
+    "feature": 9998,
+    "mfd-tree": "interface-full",
+    "spatial-pdf": "pdf-ak-interface-nn-fixed.csv"
+  }
+]

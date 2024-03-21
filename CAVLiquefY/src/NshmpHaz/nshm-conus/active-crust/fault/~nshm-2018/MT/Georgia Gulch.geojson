@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 2304,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-112.2682, 45.62593],
+      [-112.25507, 45.58343],
+      [-112.26118, 45.56088],
+      [-112.24834, 45.5377],
+      [-112.24016, 45.50015]
+    ]
+  },
+  "properties": {
+    "name": "Georgia Gulch",
+    "state": "MT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 14.37637,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.27577599952283205,
+        "gr-a-value": null,
+        "single-rate": 6.3519966E-4
+      },
+      "GEO": {
+        "rate": 0.031,
+        "gr-a-value": null,
+        "single-rate": 7.1402872E-5
+      },
+      "ZENG": {
+        "rate": 0.0383022221559489,
+        "gr-a-value": null,
+        "single-rate": 8.8222179E-5
+      }
+    }
+  }
+}

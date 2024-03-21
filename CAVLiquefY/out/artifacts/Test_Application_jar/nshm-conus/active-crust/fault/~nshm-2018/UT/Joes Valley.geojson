@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "id": 2706,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-111.2229, 39.59973],
+      [-111.21904, 39.53119],
+      [-111.23144, 39.5001],
+      [-111.22883, 39.46812],
+      [-111.23332, 39.43146],
+      [-111.25793, 39.35986],
+      [-111.27115, 39.30209],
+      [-111.27033, 39.25834],
+      [-111.25812, 39.18468]
+    ]
+  },
+  "properties": {
+    "name": "Joes Valley",
+    "state": "UT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 46.78987,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.17619022191736494,
+        "gr-a-value": 1.00756,
+        "single-rate": 1.0E-4
+      },
+      "GEO": {
+        "rate": 0.2,
+        "gr-a-value": 1.00756,
+        "single-rate": 1.0E-4
+      },
+      "ZENG": {
+        "rate": 0.2221528885045036,
+        "gr-a-value": 1.00756,
+        "single-rate": 1.0E-4
+      }
+    }
+  }
+}

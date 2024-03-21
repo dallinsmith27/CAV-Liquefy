@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2206,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.87303, 44.70679],
+      [-116.82793, 44.69317],
+      [-116.79675, 44.69378],
+      [-116.76072, 44.68378],
+      [-116.65839, 44.69529],
+      [-116.62388, 44.66714],
+      [-116.53305, 44.66139]
+    ]
+  },
+  "properties": {
+    "name": "Rush Peak",
+    "state": "ID",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 28.95134,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.04596266658713868,
+        "gr-a-value": 1.00699,
+        "single-rate": 6.15E-5
+      },
+      "GEO": {
+        "rate": 0.05,
+        "gr-a-value": 1.04355,
+        "single-rate": 6.69E-5
+      },
+      "ZENG": {
+        "rate": 0.06894399988070801,
+        "gr-a-value": 1.18308,
+        "single-rate": 9.22E-5
+      }
+    }
+  }
+}

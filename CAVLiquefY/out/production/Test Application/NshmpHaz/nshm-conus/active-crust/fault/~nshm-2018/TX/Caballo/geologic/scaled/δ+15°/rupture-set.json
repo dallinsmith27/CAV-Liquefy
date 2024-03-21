@@ -1,0 +1,8 @@
+{
+  "name": "Caballo",
+  "id": 2603,
+  "mfd-tree": "caballo-geologic",
+  "properties": {
+    "dip": 65.0
+  }
+}

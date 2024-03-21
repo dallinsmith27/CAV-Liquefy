@@ -1,0 +1,23 @@
+[
+  {
+    "name": "USGS Craton [1,3,4] (nn, adaptive)",
+    "id": 80302,
+    "feature": 8010,
+    "mfd-tree": "grid-mmax-craton-nn",
+    "spatial-pdf": "pdf-nn-adaptive.csv"
+  },
+  {
+    "name": "USGS Extended Margin [2] (nn, adaptive)",
+    "id": 80312,
+    "feature": 8011,
+    "mfd-tree": "grid-mmax-margin-1-nn",
+    "spatial-pdf": "pdf-nn-adaptive.csv"
+  },
+  {
+    "name": "USGS default (nn, adaptive)",
+    "id": 80322,
+    "feature": 8012,
+    "mfd-tree": "grid-mmax-craton-nn",
+    "spatial-pdf": "pdf-nn-adaptive.csv"
+  }
+]

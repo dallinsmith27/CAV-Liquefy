@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 2401,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-105.96356, 36.21968],
+      [-106.01262, 36.2053],
+      [-106.02681, 36.19192],
+      [-106.06203, 36.17386],
+      [-106.12123, 36.12463]
+    ]
+  },
+  "properties": {
+    "name": "Black Mesa",
+    "state": "NM",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 18.01698,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.64109,
+        "single-rate": 2.484E-4
+      },
+      "GEO": {
+        "rate": 0.02,
+        "gr-a-value": 0.82742,
+        "single-rate": 3.81E-5
+      },
+      "ZENG": {
+        "rate": 0.030641777724759123,
+        "gr-a-value": 1.0127,
+        "single-rate": 5.84E-5
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "id": 10001,
+  "properties": {
+    "name": "Central Virginia (local)",
+    "reference": "Pazzaglia et al. 2021; Tuttle et al., 2021",
+    "status": "last updated Sept 2021",
+    "state": "VA",
+    "strike": 42.0,
+    "rate": "local.csv",
+    "mfd-tree": [
+    { "id": "M1", "weight": 0.20, "value": { "type": "SINGLE", "m": 6.00 }},
+    { "id": "M2", "weight": 0.60, "value": { "type": "SINGLE", "m": 6.25 }},
+    { "id": "M3", "weight": 0.20, "value": { "type": "SINGLE", "m": 6.50 }}
+    ]
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-78.13692, 37.88782],
+        [-77.97212, 38.02812],
+        [-77.82275, 37.94022],
+        [-77.98504, 37.80009],
+        [-78.13692, 37.88782]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "west-valley-geodetic": [
+    {
+      "id": "BIRD : full-rupture",
+      "weight": 0.5,
+      "value": {
+        "type": "SINGLE",
+        "m": 6.5,
+        "rate": 0.0004814874
+      }
+    },
+    {
+      "id": "ZENG : full-rupture",
+      "weight": 0.5,
+      "value": {
+        "type": "SINGLE",
+        "m": 6.5,
+        "rate": 0.00068340148
+      }
+    }
+  ],
+  "west-valley-geologic": [
+    {
+      "id": "GEO : full-rupture",
+      "weight": 1.0,
+      "value": {
+        "type": "SINGLE",
+        "m": 6.5,
+        "rate": 0.00038646886
+      }
+    }
+  ]
+}

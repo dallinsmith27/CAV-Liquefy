@@ -1,0 +1,51 @@
+[
+  {
+    "name": "SSCn Craton [1,9,10] (nn, adaptive)",
+    "id": 80332,
+    "feature": 8013,
+    "mfd-tree": "grid-mmax-craton-nn",
+    "spatial-pdf": "pdf-nn-adaptive.csv"
+  },
+  {
+    "name": "SSCn Gulf Coast [2,3] (nn, adaptive)",
+    "id": 80342,
+    "feature": 8014,
+    "mfd-tree": "grid-mmax-margin-1-nn",
+    "spatial-pdf": "pdf-nn-adaptive.csv"
+  },
+  {
+    "name": "SSCn Mesozoic [4,5] (nn, adaptive)",
+    "id": 80352,
+    "feature": 8015,
+    "mfd-tree": "grid-mmax-margin-1-nn",
+    "spatial-pdf": "pdf-nn-adaptive.csv"
+  },
+  {
+    "name": "SSCn Mesozoic [6] (nn, adaptive)",
+    "id": 80362,
+    "feature": 8016,
+    "mfd-tree": "grid-mmax-margin-2-nn",
+    "spatial-pdf": "pdf-nn-adaptive.csv"
+  },
+  {
+    "name": "SSCn Paleozoic [7] (nn, adaptive)",
+    "id": 80372,
+    "feature": 8017,
+    "mfd-tree": "grid-mmax-margin-2-nn",
+    "spatial-pdf": "pdf-nn-adaptive.csv"
+  },
+  {
+    "name": "SSCn Paleozoic [8] (nn, adaptive)",
+    "id": 80382,
+    "feature": 8018,
+    "mfd-tree": "grid-mmax-margin-2-nn",
+    "spatial-pdf": "pdf-nn-adaptive.csv"
+  },
+  {
+    "name": "SSCn default (nn, adaptive)",
+    "id": 80392,
+    "feature": 8019,
+    "mfd-tree": "grid-mmax-craton-nn",
+    "spatial-pdf": "pdf-nn-adaptive.csv"
+  }
+]

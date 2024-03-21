@@ -1,0 +1,34 @@
+{
+  "west-flank-hualalai": [
+    { "id": "wf-klein-2001-hua-7p0", "weight": 0.5, "value": { "type": "SINGLE", "m": 7.0, "rate": 0.002 } },
+    { "id": "wf-klein-2001-hua-7p5", "weight": 0.5, "value": { "type": "SINGLE", "m": 7.5, "rate": 0.00063 } }
+  ],
+  "west-flank-kona": [
+    { "id": "wf-klein-2001-kon-7p0", "weight": 0.5, "value": { "type": "SINGLE", "m": 7.0, "rate": 0.003 } },
+    { "id": "wf-klein-2001-kon-7p5", "weight": 0.5, "value": { "type": "SINGLE", "m": 7.5, "rate": 0.00095 } }
+  ],
+  "west-flank":[
+    { "id": "1000-yr", 
+      "weight": 0.5, 
+      "value": { 
+        "type": "GR",
+        "a": 3.3632,
+        "b": 1.0,
+        "mMin": 7.0,
+        "mMax": 8.0,
+        "Δm": 0.1
+      }
+    },
+    { "id": "1500-yr", 
+      "weight": 0.5, 
+      "value": { 
+        "type": "GR",
+        "a": 3.1873,
+        "b": 1.0,
+        "mMin": 7.0,
+        "mMax": 8.0,
+        "Δm": 0.1
+      }
+    }
+  ]
+}

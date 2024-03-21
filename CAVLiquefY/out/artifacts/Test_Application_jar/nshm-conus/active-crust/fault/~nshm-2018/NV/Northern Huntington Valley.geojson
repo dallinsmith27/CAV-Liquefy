@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 1085,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-115.56921, 40.52288],
+      [-115.5897, 40.49989],
+      [-115.59679, 40.4122],
+      [-115.63192, 40.32874],
+      [-115.656, 40.30206],
+      [-115.67352, 40.27106],
+      [-115.67828, 40.23881],
+      [-115.70568, 40.1938]
+    ]
+  },
+  "properties": {
+    "name": "Northern Huntington Valley",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 39.08757,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.23077,
+        "single-rate": 1.401E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.11607,
+        "single-rate": 1.076E-4
+      },
+      "ZENG": {
+        "rate": 0.09192533317427735,
+        "gr-a-value": 1.0795,
+        "single-rate": 9.89E-5
+      }
+    }
+  }
+}

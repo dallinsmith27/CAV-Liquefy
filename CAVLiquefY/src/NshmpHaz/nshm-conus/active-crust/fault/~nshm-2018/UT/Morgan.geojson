@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 2707,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-111.72289, 41.15141],
+      [-111.70673, 41.10667],
+      [-111.67223, 41.07658],
+      [-111.66872, 41.02726],
+      [-111.65533, 41.00956]
+    ]
+  },
+  "properties": {
+    "name": "Morgan",
+    "state": "UT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 17.33688,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.02298133329356934,
+        "gr-a-value": 0.87805,
+        "single-rate": 4.52E-5
+      },
+      "GEO": {
+        "rate": 0.02,
+        "gr-a-value": 0.81771,
+        "single-rate": 3.93E-5
+      },
+      "ZENG": {
+        "rate": 0.030641777724759123,
+        "gr-a-value": 1.00299,
+        "single-rate": 6.03E-5
+      }
+    }
+  }
+}

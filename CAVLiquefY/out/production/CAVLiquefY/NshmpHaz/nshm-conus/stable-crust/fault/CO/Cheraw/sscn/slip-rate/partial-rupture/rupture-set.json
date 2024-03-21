@@ -1,0 +1,21 @@
+{
+  "name": "Cheraw (SSCn, partial)",
+  "id": 2182,
+  "mfd-tree": [
+    {
+      "id": "partial-rupture",
+      "weight": 1.0,
+      "value": {
+        "type": "GR",
+        "a": 2.10117,
+        "b": 1.0,
+        "mMin": 6.5,
+        "mMax": 7.4,
+        "Δm": 0.1125
+      }
+    }
+  ],
+  "properties": {
+    "width": 19.58112
+  }
+}

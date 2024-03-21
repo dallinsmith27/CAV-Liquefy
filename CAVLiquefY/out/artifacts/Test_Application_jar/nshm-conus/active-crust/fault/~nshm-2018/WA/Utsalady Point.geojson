@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 2811,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-122.80077, 48.34381],
+      [-122.73869, 48.3351],
+      [-122.65351, 48.30833],
+      [-122.53276, 48.25299],
+      [-122.5068, 48.24634]
+    ]
+  },
+  "properties": {
+    "name": "Utsalady Point",
+    "state": "WA",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 0.0,
+    "rate-type": "SLIP",
+    "length": 24.5655,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.14,
+        "gr-a-value": 1.22086,
+        "single-rate": 1.273E-4
+      },
+      "GEO": {
+        "rate": 0.15,
+        "gr-a-value": 1.25083,
+        "single-rate": 1.363E-4
+      },
+      "ZENG": {
+        "rate": 0.17,
+        "gr-a-value": 1.30519,
+        "single-rate": 1.545E-4
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "crustal-full": [
+    { "id": "M1:R1", "weight": 0.117, "value": { "type": "GR", "b": 0.84, "Δm": 0.1, "mMin": 5.0, "mMax": 7.5, "a": 5.317224 } },
+    { "id": "M1:R2", "weight": 0.666, "value": { "type": "GR", "b": 0.82, "Δm": 0.1, "mMin": 5.0, "mMax": 7.5, "a": 4.732700 } },
+    { "id": "M1:R3", "weight": 0.117, "value": { "type": "GR", "b": 0.68, "Δm": 0.1, "mMin": 5.0, "mMax": 7.5, "a": 4.173604 } },
+    { "id": "M2:R1", "weight": 0.013, "value": { "type": "GR_TAPER", "b": 0.84, "Δm": 0.1, "mMin": 5.0, "mMax": 8.0, "mc": 7.5,  "a": 5.317224 } },
+    { "id": "M2:R2", "weight": 0.074, "value": { "type": "GR_TAPER", "b": 0.82, "Δm": 0.1, "mMin": 5.0, "mMax": 8.0, "mc": 7.5,  "a": 4.732700 } },
+    { "id": "M2:R3", "weight": 0.013, "value": { "type": "GR_TAPER", "b": 0.68, "Δm": 0.1, "mMin": 5.0, "mMax": 8.0, "mc": 7.5,  "a": 4.173604 } }
+  ]
+}

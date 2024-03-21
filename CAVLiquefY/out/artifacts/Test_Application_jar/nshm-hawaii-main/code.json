@@ -1,0 +1,105 @@
+[
+  {
+    "name": "nshm-hawaii",
+    "organization": "U.S. Geological Survey",
+    "description": "National Seismic Hazard Model (NSHM): Hawaii",
+    "version": "main",
+    "status": "Development",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-hawaii/-/raw/main/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-hawaii",
+    "downloadURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-hawaii/-/archive/main/nshm-hawaii-main.zip",
+    "disclaimerURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-hawaii/-/raw/main/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-hawaii.git",
+    "vcs": "git",
+
+    "laborHours": 300,
+
+    "tags": [
+      "Earthquake Hazards",
+      "Geologic Hazards Science Center",
+      "psha",
+      "nshmp-haz",
+      "seismic-hazard",
+      "seismic-source",
+      "earthquake-hazard",
+      "earthquake-source",
+      "earthquake-source-characterization"
+    ],
+
+    "languages": [
+      "json",
+      "geojson"
+    ],
+
+    "contact": {
+      "name": "Peter Powers",
+      "email": "pmpowers@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2022-04-05"
+    }
+  },
+  {
+    "name": "nshm-hawaii",
+    "organization": "U.S. Geological Survey",
+    "description": "National Seismic Hazard Model (NSHM): Hawaii",
+    "version": "2.0.0",
+    "status": "Production",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-hawaii/-/raw/2.0.0/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-hawaii",
+    "downloadURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-hawaii/-/archive/2.0.0/nshm-hawaii-2.0.0.zip",
+    "disclaimerURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-hawaii/-/raw/2.0.0/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/ghsc/nshmp/nshms/nshm-hawaii.git",
+    "vcs": "git",
+
+    "laborHours": 300,
+
+    "tags": [
+      "Earthquake Hazards",
+      "Geologic Hazards Science Center",
+      "psha",
+      "nshmp-haz",
+      "seismic-hazard",
+      "seismic-source",
+      "earthquake-hazard",
+      "earthquake-source",
+      "earthquake-source-characterization",
+      "doi|https://doi.org/10.5066/P97SQ3AQ"
+    ],
+
+    "languages": [
+      "json",
+      "geojson"
+    ],
+
+    "contact": {
+      "name": "Peter Powers",
+      "email": "pmpowers@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2022-03-02"
+    }
+  }
+]

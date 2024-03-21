@@ -1,0 +1,37 @@
+{
+  "non-summit-shallow-north": [
+    { "id": "M1", "weight": 0.7, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.85, "mMin": 5.0, "mMax": 7.5, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.2, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.85, "mMin": 5.0, "mMax": 7.7, "Δm": 0.1 } },
+    { "id": "M3", "weight": 0.1, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.85, "mMin": 5.0, "mMax": 8.0, "Δm": 0.1 } }
+  ],
+  "non-summit-shallow-south": [
+    { "id": "M1", "weight": 0.7, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 1.00, "mMin": 5.0, "mMax": 7.5, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.2, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 1.00, "mMin": 5.0, "mMax": 7.7, "Δm": 0.1 } },
+    { "id": "M3", "weight": 0.1, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 1.00, "mMin": 5.0, "mMax": 8.0, "Δm": 0.1 } }
+  ],
+  "non-summit-deep": [
+    { "id": "M1", "weight": 0.7, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.90, "mMin": 5.0, "mMax": 7.5, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.2, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.90, "mMin": 5.0, "mMax": 7.7, "Δm": 0.1 } },
+    { "id": "M3", "weight": 0.1, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.90, "mMin": 5.0, "mMax": 8.0, "Δm": 0.1 } }
+  ],
+  "summit-shallow-nn": [
+    { "id": "M1", "weight": 0.7, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 1.25, "mMin": 5.0, "mMax": 7.5, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.2, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 1.25, "mMin": 5.0, "mMax": 7.7, "Δm": 0.1 } },
+    { "id": "M3", "weight": 0.1, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 1.25, "mMin": 5.0, "mMax": 8.0, "Δm": 0.1 } }
+  ],
+  "summit-shallow-r85": [
+    { "id": "M1", "weight": 0.7, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 1.15, "mMin": 5.0, "mMax": 7.5, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.2, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 1.15, "mMin": 5.0, "mMax": 7.7, "Δm": 0.1 } },
+    { "id": "M3", "weight": 0.1, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 1.15, "mMin": 5.0, "mMax": 8.0, "Δm": 0.1 } }
+  ],
+  "summit-deep-nn": [
+    { "id": "M1", "weight": 0.7, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.85, "mMin": 5.0, "mMax": 7.5, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.2, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.85, "mMin": 5.0, "mMax": 7.7, "Δm": 0.1 } },
+    { "id": "M3", "weight": 0.1, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.85, "mMin": 5.0, "mMax": 8.0, "Δm": 0.1 } }
+  ],
+  "summit-deep-r85": [
+    { "id": "M1", "weight": 0.7, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.90, "mMin": 5.0, "mMax": 7.5, "Δm": 0.1 } },
+    { "id": "M2", "weight": 0.2, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.90, "mMin": 5.0, "mMax": 7.7, "Δm": 0.1 } },
+    { "id": "M3", "weight": 0.1, "value": { "type": "GR_MMAX_SINGLE", "a": 0.0, "b": 0.90, "mMin": 5.0, "mMax": 8.0, "Δm": 0.1 } }
+  ]
+}

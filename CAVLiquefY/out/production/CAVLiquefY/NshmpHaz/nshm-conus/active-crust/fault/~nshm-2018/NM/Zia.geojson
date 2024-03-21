@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 2429,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-106.84337, 35.18924],
+      [-106.82307, 35.28016],
+      [-106.79566, 35.32283],
+      [-106.78407, 35.34727],
+      [-106.77841, 35.37511],
+      [-106.76242, 35.40063],
+      [-106.74814, 35.47061]
+    ]
+  },
+  "properties": {
+    "name": "Zia",
+    "state": "NM",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 32.76184,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.0383022221559489,
+        "gr-a-value": 0.65716,
+        "single-rate": 4.71E-5
+      },
+      "GEO": {
+        "rate": 0.038,
+        "gr-a-value": 0.65372,
+        "single-rate": 4.68E-5
+      },
+      "ZENG": {
+        "rate": 0.04596266658713868,
+        "gr-a-value": 0.73634,
+        "single-rate": 5.66E-5
+      }
+    }
+  }
+}

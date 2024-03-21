@@ -1,0 +1,8 @@
+{
+  "name": "Wasatch (Salt Lake City)",
+  "id": 2782,
+  "mfd-tree": "wasatch-slc-partial-geodetic",
+  "properties": {
+    "dip": 35.0
+  }
+}

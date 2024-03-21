@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "id": 4303,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-144.57642, 69.58497],
+      [-144.43519, 69.5382]
+    ]
+  },
+  "properties": {
+    "name": "Kaktovik (east)",
+    "state": "AK",
+    "upper-depth": 2.0,
+    "lower-depth": 15.0,
+    "dip": 32.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 7.557710752998368,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.1
+      },
+      "GEO": {
+        "rate": 0.1
+      }
+    }
+  }
+}

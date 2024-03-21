@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Interface (gk, adaptive, full catalog)",
+    "id": 9981,
+    "feature": 9998,
+    "mfd-tree": "interface-full",
+    "spatial-pdf": "pdf-ak-interface-gk-adaptive.csv"
+  }
+]

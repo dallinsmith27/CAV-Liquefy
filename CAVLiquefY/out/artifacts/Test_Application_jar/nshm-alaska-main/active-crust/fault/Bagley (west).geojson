@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "id": 4269,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-143.99866, 60.62786],
+      [-144.12641, 60.63774],
+      [-144.21783, 60.6402],
+      [-144.37454, 60.65841],
+      [-144.54397, 60.67132],
+      [-144.79508, 60.67401],
+      [-144.92272, 60.69469]
+    ]
+  },
+  "properties": {
+    "name": "Bagley (west)",
+    "state": "AK",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 45.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 51.16211414858283,
+    "rate-map": {
+      "ELLIOT": {
+        "rate": 0.2
+      },
+      "GEO": {
+        "rate": 0.2
+      }
+    }
+  }
+}

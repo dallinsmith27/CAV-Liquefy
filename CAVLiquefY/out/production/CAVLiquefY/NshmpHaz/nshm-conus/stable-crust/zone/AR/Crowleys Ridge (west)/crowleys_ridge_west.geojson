@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "id": "30000",
+  "properties": {
+    "name": "Crowley's Ridge (west)",
+    "reference": "Thompson Jobe et al., 2020",
+    "status": "last updated Sept 2021",
+    "state": "AR",
+    "rate": "crowleys-ridge-west.csv",
+    "strike": 25.0,
+    "mfd-tree": [
+      { "id": "M1", "weight": 0.10, "value": { "type": "SINGLE", "m": 6.15 }},
+      { "id": "M2", "weight": 0.25, "value": { "type": "SINGLE", "m": 6.40 }},
+      { "id": "M3", "weight": 0.30, "value": { "type": "SINGLE", "m": 6.65 }},
+      { "id": "M4", "weight": 0.25, "value": { "type": "SINGLE", "m": 6.90 }},
+      { "id": "M5", "weight": 0.10, "value": { "type": "SINGLE", "m": 7.15 }}
+    ]
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-90.85268, 35.81692],
+        [-90.82397, 35.89238],
+        [-90.77858, 35.97838],
+        [-90.71608, 36.03629],
+        [-90.67555, 36.10184],
+        [-90.64061, 36.17712],
+        [-90.59164, 36.22197],
+        [-90.37633, 36.20779],
+        [-90.41513, 36.15920],
+        [-90.53990, 35.97251],
+        [-90.65894, 35.75904],
+        [-90.85268, 35.81692]
+      ]
+    ]
+  }
+}

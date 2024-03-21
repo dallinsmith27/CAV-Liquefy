@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 2525,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-122.89107, 45.22525],
+      [-122.92619, 45.28176],
+      [-122.95898, 45.31679],
+      [-122.99816, 45.34662],
+      [-123.05449, 45.41678],
+      [-123.11406, 45.48156]
+    ]
+  },
+  "properties": {
+    "name": "Newberg",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 0.0,
+    "rate-type": "SLIP",
+    "length": 33.56677,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.04,
+        "gr-a-value": 0.45124,
+        "single-rate": 2.86E-5
+      },
+      "GEO": {
+        "rate": 0.016,
+        "gr-a-value": 0.0533,
+        "single-rate": 1.14E-5
+      },
+      "ZENG": {
+        "rate": 0.02,
+        "gr-a-value": 0.15021,
+        "single-rate": 1.43E-5
+      }
+    }
+  }
+}

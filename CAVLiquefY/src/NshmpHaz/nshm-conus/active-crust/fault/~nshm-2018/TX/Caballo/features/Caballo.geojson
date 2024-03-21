@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": 2603,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-105.52715, 31.09545],
+      [-105.4223, 30.98486],
+      [-105.35439, 30.89278],
+      [-105.34342, 30.86304],
+      [-105.30973, 30.82109],
+      [-105.28431, 30.77913]
+    ]
+  },
+  "properties": {
+    "name": "Caballo",
+    "state": "TX",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate": 0.11,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 42.35434
+  }
+}

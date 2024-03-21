@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "id": 2800,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-121.98997, 48.91836],
+      [-122.01945, 48.92453],
+      [-122.08378, 48.91293],
+      [-122.13407, 48.90817]
+    ]
+  },
+  "properties": {
+    "name": "Boulder Creek - Kendall Scarp",
+    "state": "WA",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "RECURRENCE",
+    "length": 10.84858,
+    "rate-map": {
+      "BIRD": {
+        "rate": 3.24E-4,
+        "gr-a-value": 1.44953,
+        "single-rate": 3.24E-4
+      },
+      "GEO": {
+        "rate": 3.24E-4,
+        "gr-a-value": 1.44953,
+        "single-rate": 3.24E-4
+      },
+      "ZENG": {
+        "rate": 3.24E-4,
+        "gr-a-value": 1.44953,
+        "single-rate": 3.24E-4
+      }
+    },
+    "magnitude": 6.8,
+    "magnitude-note": "HISTORIC_M_MAX"
+  }
+}

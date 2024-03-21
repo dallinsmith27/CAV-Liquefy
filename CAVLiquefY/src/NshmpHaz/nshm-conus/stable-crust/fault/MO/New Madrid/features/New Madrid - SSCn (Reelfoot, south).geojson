@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "id": 3072,
+  "properties": {
+    "name": "New Madrid - SSCn (Reelfoot, south)",
+    "state": "MO",
+    "dip": 40.0,
+    "dip-dir": "SW",
+    "rake": 90.0,
+    "rate-type": "RECURRENCE",
+    "references": "Guo et al., 2014; Greenwood et al., 2016; CEUS-SSCn 2012",
+    "upper-depth": 10.0,
+    "lower-depth": 19.642,
+    "status": "last updated Sept 2021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-89.41901, 36.34155],
+      [-89.41891, 36.34142],
+      [-89.41025, 36.32652],
+      [-89.40531, 36.30699],
+      [-89.39916, 36.28838],
+      [-89.38710, 36.27148],
+      [-89.37537, 36.26025],
+      [-89.36791, 36.24491],
+      [-89.35944, 36.20118],
+      [-89.35310, 36.16983],
+      [-89.35015, 36.14232],
+      [-89.34364, 36.11443],
+      [-89.33820, 36.07076]
+    ]
+  }
+}

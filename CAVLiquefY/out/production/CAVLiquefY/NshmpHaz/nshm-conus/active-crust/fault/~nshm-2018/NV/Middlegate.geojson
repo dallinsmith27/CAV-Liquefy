@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "id": 1078,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-117.99216, 39.55773],
+      [-117.97634, 39.52018],
+      [-117.96979, 39.4811],
+      [-117.98146, 39.44777],
+      [-117.96133, 39.40213],
+      [-117.9856, 39.34347],
+      [-117.9847, 39.32325],
+      [-117.99422, 39.27214],
+      [-117.99224, 39.22147]
+    ]
+  },
+  "properties": {
+    "name": "Middlegate",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 38.45053,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.31407822167878097,
+        "gr-a-value": 1.60984,
+        "single-rate": 3.441E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.1128,
+        "single-rate": 1.095E-4
+      },
+      "ZENG": {
+        "rate": 0.13022755533022626,
+        "gr-a-value": 1.22751,
+        "single-rate": 1.427E-4
+      }
+    }
+  }
+}

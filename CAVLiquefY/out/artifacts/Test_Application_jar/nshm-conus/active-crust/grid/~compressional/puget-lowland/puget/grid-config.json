@@ -1,0 +1,29 @@
+{
+  "grid-spacing": 0.1,
+  "smoothing-density": 10,
+  "smoothing-limit": 40.0,
+  "opt-distance-bin": null,
+  "point-source-type": "FINITE",
+  "rupture-scaling": "NSHM_POINT_WC94_LENGTH",
+  "max-depth": 14.0,
+  "focal-mech-tree": [
+    { "id": "STRIKE_SLIP", "weight": 0.333 },
+    { "id": "REVERSE", "weight": 0.667 }
+  ],
+  "grid-depth-map": {
+    "small-magnitude": {
+      "mMin": 4.5,
+      "mMax": 6.5,
+      "depth-tree": [
+        { "id": "5 km", "weight": 1.0, "value": 5.0 }
+      ]
+    },
+    "large-magnitude": {
+      "mMin": 6.5,
+      "mMax": 10.0,
+      "depth-tree": [
+        { "id": "1 km", "weight": 1.0, "value": 1.0 }
+      ]
+    }
+  }
+}

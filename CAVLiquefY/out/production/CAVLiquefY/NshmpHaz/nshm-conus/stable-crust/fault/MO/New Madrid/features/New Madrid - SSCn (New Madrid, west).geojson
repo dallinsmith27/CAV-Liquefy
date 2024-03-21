@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": 3070,
+  "properties": {
+    "name": "New Madrid - SSCn (New Madrid, west)",
+    "state": "MO",
+    "dip": 90.0,
+    "dip-dir": "vertical",
+    "rake": 0.0,
+    "rate-type": "RECURRENCE",
+    "references": "Guo et al., 2014; CEUS-SSCn 2012",
+    "upper-depth": 10.0,
+    "lower-depth": 19.642,
+    "status": "last updated Sept 2021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-89.89547, 36.58107],
+      [-89.68479, 36.54568],
+      [-89.59008, 36.53009]
+    ]
+  }
+}

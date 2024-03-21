@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": 3803,
+  "properties": {
+    "name": "Eastern Rift Margin (South Extension)",
+    "state": "TN",
+    "states": ["TN","AR"],
+    "dip": 90.0,
+    "dip-dir": "vertical",
+    "rake": 180.0,
+    "references": "CEUS-SSCn 2012",
+    "upper-depth": 10.0,
+    "lower-depth": 25.0,
+    "rate-type": "RECURRENCE",
+    "status": "last updated Sept 2021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-89.98459, 35.45364],
+      [-90.03377, 35.44607],
+      [-90.10686, 35.42119]
+    ]
+  }
+}

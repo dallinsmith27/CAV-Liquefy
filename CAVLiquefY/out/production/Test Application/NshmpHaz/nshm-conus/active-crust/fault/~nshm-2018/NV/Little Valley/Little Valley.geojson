@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "id": 1074,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.87901, 39.19728],
+      [-119.88593, 39.21157],
+      [-119.88396, 39.23142],
+      [-119.89088, 39.24778],
+      [-119.85799, 39.30366],
+      [-119.86105, 39.33195],
+      [-119.86959, 39.35163]
+    ]
+  },
+  "properties": {
+    "name": "Little Valley",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 18.11815,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.2,
+        "gr-a-value": 1.82985,
+        "single-rate": 3.836E-4
+      },
+      "GEO": {
+        "rate": 0.2,
+        "gr-a-value": 1.82985,
+        "single-rate": 3.836E-4
+      },
+      "ZENG": {
+        "rate": 0.2,
+        "gr-a-value": 1.82985,
+        "single-rate": 3.836E-4
+      }
+    }
+  }
+}

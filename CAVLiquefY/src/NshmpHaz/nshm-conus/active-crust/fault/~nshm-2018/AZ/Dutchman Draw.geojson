@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "id": 2003,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-113.34864, 37.00043],
+      [-113.36535, 36.98705],
+      [-113.42887, 36.95165],
+      [-113.46777, 36.93988],
+      [-113.50119, 36.91886]
+    ]
+  },
+  "properties": {
+    "name": "Dutchman Draw",
+    "state": "AZ",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 16.45904,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.0766044443118978,
+        "gr-a-value": null,
+        "single-rate": 1.58622E-4
+      },
+      "GEO": {
+        "rate": 0.075,
+        "gr-a-value": null,
+        "single-rate": 1.5529983E-4
+      },
+      "ZENG": {
+        "rate": 0.09958577760546715,
+        "gr-a-value": null,
+        "single-rate": 2.062086E-4
+      }
+    }
+  }
+}

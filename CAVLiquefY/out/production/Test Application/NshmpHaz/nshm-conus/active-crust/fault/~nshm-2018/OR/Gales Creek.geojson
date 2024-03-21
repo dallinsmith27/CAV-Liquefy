@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 2514,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-123.31063, 45.69806],
+      [-123.21234, 45.5572],
+      [-123.15197, 45.51587],
+      [-123.12708, 45.49215]
+    ]
+  },
+  "properties": {
+    "name": "Gales Creek",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 180.0,
+    "rate-type": "SLIP",
+    "length": 27.27874,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.29,
+        "gr-a-value": 1.56071,
+        "single-rate": 2.379E-4
+      },
+      "GEO": {
+        "rate": 0.016,
+        "gr-a-value": 0.30243,
+        "single-rate": 1.31E-5
+      },
+      "ZENG": {
+        "rate": 0.02,
+        "gr-a-value": 0.39934,
+        "single-rate": 1.64E-5
+      }
+    }
+  }
+}

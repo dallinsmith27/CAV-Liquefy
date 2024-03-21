@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 1061,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-118.15117, 39.05931],
+      [-118.14883, 39.04475],
+      [-118.15638, 39.02822],
+      [-118.16509, 38.95366],
+      [-118.18163, 38.93704],
+      [-118.20058, 38.89985],
+      [-118.22349, 38.88969],
+      [-118.24128, 38.86463]
+    ]
+  },
+  "properties": {
+    "name": "Hot Springs",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 24.15817,
+    "rate-map": {
+      "BIRD": null,
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.3026,
+        "single-rate": 1.577E-4
+      },
+      "ZENG": {
+        "rate": 0.10724622203665693,
+        "gr-a-value": 1.33298,
+        "single-rate": 1.691E-4
+      }
+    }
+  }
+}

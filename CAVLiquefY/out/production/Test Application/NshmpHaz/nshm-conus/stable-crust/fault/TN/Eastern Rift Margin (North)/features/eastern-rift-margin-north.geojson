@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": 3800,
+  "properties": {
+    "name": "Eastern Rift Margin (North)",
+    "state": "TN",
+    "states": ["TN","AR"],
+    "dip": 90.0,
+    "dip-dir": "vertical",
+    "rake": 180.0,
+    "references": "CEUS-SSCn 2012",
+    "upper-depth": 10.0,
+    "lower-depth": 25.0,
+    "rate-type": "RECURRENCE",
+    "status": "last updated Sept 2021"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-88.75460, 36.65852],
+      [-89.24270, 36.13793],
+      [-89.33345, 36.05629]
+    ]
+  }
+}

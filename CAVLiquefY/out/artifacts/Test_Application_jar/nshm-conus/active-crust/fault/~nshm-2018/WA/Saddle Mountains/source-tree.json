@@ -1,0 +1,10 @@
+[
+  {
+    "id": "Saddle Mountains (Holocene).geojson",
+    "weight": 0.25
+  },
+  {
+    "id": "Saddle Mountains (long-term).geojson",
+    "weight": 0.75
+  }
+]

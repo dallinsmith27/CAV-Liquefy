@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 2201,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.39713, 44.03586],
+      [-116.41586, 44.06351],
+      [-116.42479, 44.16555],
+      [-116.45113, 44.30807]
+    ]
+  },
+  "properties": {
+    "name": "Big Flat - Jakes Creek",
+    "state": "ID",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 30.77623,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.02298133329356934,
+        "gr-a-value": 0.41951,
+        "single-rate": 2.95E-5
+      },
+      "GEO": {
+        "rate": 0.04,
+        "gr-a-value": 0.66019,
+        "single-rate": 5.13E-5
+      },
+      "ZENG": {
+        "rate": 0.04596266658713868,
+        "gr-a-value": 0.72054,
+        "single-rate": 5.89E-5
+      }
+    }
+  }
+}

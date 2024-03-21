@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 2523,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-122.61166, 44.96732],
+      [-122.78236, 45.05653],
+      [-122.81829, 45.08663],
+      [-122.87211, 45.16056]
+    ]
+  },
+  "properties": {
+    "name": "Mount Angel",
+    "state": "OR",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 60.0,
+    "rake": 90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 30.30835,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.025980762113533156,
+        "gr-a-value": 0.36335,
+        "single-rate": 2.66E-5
+      },
+      "GEO": {
+        "rate": 0.067,
+        "gr-a-value": 0.77477,
+        "single-rate": 6.85E-5
+      },
+      "ZENG": {
+        "rate": 0.09526279441628825,
+        "gr-a-value": 0.92762,
+        "single-rate": 9.74E-5
+      }
+    }
+  }
+}

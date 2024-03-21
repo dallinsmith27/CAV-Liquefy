@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 2404,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-106.5293, 36.08105],
+      [-106.52821, 36.11034],
+      [-106.5151, 36.13469],
+      [-106.47179, 36.16658],
+      [-106.44386, 36.20135],
+      [-106.41879, 36.21132],
+      [-106.3674, 36.25678],
+      [-106.31915, 36.28382]
+    ]
+  },
+  "properties": {
+    "name": "Canones",
+    "state": "NM",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 30.69832,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.04596266658713868,
+        "gr-a-value": 0.71944,
+        "single-rate": 5.88E-5
+      },
+      "GEO": {
+        "rate": 0.02,
+        "gr-a-value": 0.35806,
+        "single-rate": 2.56E-5
+      },
+      "ZENG": {
+        "rate": 0.030641777724759123,
+        "gr-a-value": 0.54335,
+        "single-rate": 3.92E-5
+      }
+    }
+  }
+}

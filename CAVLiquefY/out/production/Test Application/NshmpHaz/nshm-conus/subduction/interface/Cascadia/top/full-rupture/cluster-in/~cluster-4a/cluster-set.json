@@ -1,0 +1,44 @@
+{
+  "name": "Cluster 4a (top)",
+  "id": 3395,
+  "rupture-sets": [
+    {
+      "name": "4a-1",
+      "id": 3396,
+      "mfd-tree": "cluster-4a-1-top",
+      "sections": [
+        3260, 3261, 3262, 3263, 3264, 3265
+      ]
+    },
+    {
+      "name": "4a-2",
+      "id": 3397,
+      "mfd-tree": "cluster-4a-2-top",
+      "sections": [
+        3266,
+        3267, 3268, 3269,
+        3270, 3271
+      ]
+    },
+    {
+      "name": "4a-3",
+      "id": 3398,
+      "mfd-tree": "cluster-4a-3-top",
+      "sections": [
+        3272,
+        3273, 3274, 3275, 3276
+      ]
+    },
+    {
+      "name": "4a-4",
+      "id": 3399,
+      "mfd-tree": "cluster-4a-4-top",
+      "sections": [
+        3277, 3278, 3279, 3280, 3281
+      ]
+    }
+  ],
+  "properties": {
+    "state": "WA"
+  }
+}

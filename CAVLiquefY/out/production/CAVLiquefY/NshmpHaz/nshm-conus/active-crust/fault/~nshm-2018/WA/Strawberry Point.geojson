@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": 2809,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-122.80319, 48.34588],
+      [-122.72646, 48.34157],
+      [-122.61614, 48.31821],
+      [-122.45757, 48.29701]
+    ]
+  },
+  "properties": {
+    "name": "Strawberry Point",
+    "state": "WA",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 0.0,
+    "rate-type": "SLIP",
+    "length": 26.21421,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.43,
+        "gr-a-value": 1.72183,
+        "single-rate": 3.633E-4
+      },
+      "GEO": {
+        "rate": 0.25,
+        "gr-a-value": 1.4863,
+        "single-rate": 2.112E-4
+      },
+      "ZENG": {
+        "rate": 0.27,
+        "gr-a-value": 1.51972,
+        "single-rate": 2.281E-4
+      }
+    }
+  }
+}

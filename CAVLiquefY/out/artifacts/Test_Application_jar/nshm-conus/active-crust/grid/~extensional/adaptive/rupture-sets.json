@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Extensional (adaptive)",
+    "id": 8111,
+    "feature": 8110,
+    "mfd-tree": "wus-extensional",
+    "spatial-pdf": "pdf-ext-adaptive.csv"
+  }
+]

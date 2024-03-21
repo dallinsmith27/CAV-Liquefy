@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "id": 5001,
+  "geometry": {
+    "type": "MultiLineString",
+    "coordinates": [[
+      [-156.08330, 19.56670, 10.0],
+      [-156.33330, 19.75830, 10.0]
+    ],[
+      [-155.80000, 19.73330, 10.0],
+      [-156.17500, 19.92500, 10.0]
+    ]]
+  },
+  "properties": {
+    "name": "West Flank Décollement (Hualālai)",
+    "state": "HI"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "wus-faults": [
+    {
+      "id": "full-rupture",
+      "weight": 0.5,
+      "value": {
+        "type": "SINGLE",
+        "m": 7.5
+      }
+    },
+    {
+      "id": "partial-rupture",
+      "weight": 0.5,
+      "value": {
+        "type": "GR",
+        "b": 0.8,
+        "mMin": 6.5,
+        "mMax": 7.5,
+        "Δm": 0.1
+      }
+    }
+  ]
+}

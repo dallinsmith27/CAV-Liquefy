@@ -1,0 +1,39 @@
+{
+  "south-flank-merged": [
+    { "id": "klein-2001", 
+      "weight": 1.0, 
+      "value": { 
+        "type": "GR",
+        "a": 1.552,
+        "b": 0.5713,
+        "mMin": 7.0,
+        "mMax": 8.0,
+        "Δm": 0.1
+      }
+    }
+  ],
+  "south-flank-extended":[
+    { "id": "50-yr", 
+      "weight": 0.5, 
+      "value": { 
+        "type": "GR",
+        "a": 4.6642,
+        "b": 1.0,
+        "mMin": 7.0,
+        "mMax": 8.0,
+        "Δm": 0.1
+      }
+    },
+    { "id": "150-yr", 
+      "weight": 0.5, 
+      "value": { 
+        "type": "GR",
+        "a": 5.0632,
+        "b": 1.0,
+        "mMin": 7.0,
+        "mMax": 8.0,
+        "Δm": 0.1
+      }
+    }
+  ]
+}

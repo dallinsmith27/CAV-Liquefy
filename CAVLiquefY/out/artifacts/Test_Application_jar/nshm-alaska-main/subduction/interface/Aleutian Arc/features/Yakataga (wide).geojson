@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "id": 4840,
+  "geometry": {
+    "type": "MultiLineString",
+    "coordinates": [[
+      [-139.891, 60.062, 8.0],
+      [-142.528, 60.138, 8.0]
+    ],[
+      [-141.842, 61.495, 50.0],
+      [-144.941, 61.934, 50.0]
+    ]]
+  },
+  "properties": {
+    "name": "Yakataga (wide)",
+    "state": "AK",
+    "stroke": "#955196"
+  }
+}

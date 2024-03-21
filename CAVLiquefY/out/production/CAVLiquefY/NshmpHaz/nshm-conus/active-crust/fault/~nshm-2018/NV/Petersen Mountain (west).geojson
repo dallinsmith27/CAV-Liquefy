@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "id": 1091,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.99798, 39.66849],
+      [-119.97947, 39.70263],
+      [-119.9677, 39.70757],
+      [-119.96069, 39.73057],
+      [-119.96779, 39.74234],
+      [-119.96581, 39.76031],
+      [-119.95818, 39.76525],
+      [-119.9518, 39.78321],
+      [-119.95719, 39.81691],
+      [-119.9845, 39.88419]
+    ]
+  },
+  "properties": {
+    "name": "Petersen Mountain (west)",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 25.8704,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.3600408882659196,
+        "gr-a-value": 1.87413,
+        "single-rate": 5.295E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 1.31777,
+        "single-rate": 1.471E-4
+      },
+      "ZENG": {
+        "rate": 0.13788799976141602,
+        "gr-a-value": 1.4573,
+        "single-rate": 2.028E-4
+      }
+    }
+  }
+}

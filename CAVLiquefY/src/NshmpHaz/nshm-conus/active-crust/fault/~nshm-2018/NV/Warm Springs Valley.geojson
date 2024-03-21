@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 1119,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-119.99798, 40.06738],
+      [-119.92162, 40.03503],
+      [-119.89835, 40.01832],
+      [-119.85414, 39.9964],
+      [-119.75056, 39.91096],
+      [-119.75082, 39.9063],
+      [-119.69917, 39.85859],
+      [-119.66969, 39.84018]
+    ]
+  },
+  "properties": {
+    "name": "Warm Springs Valley",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 90.0,
+    "rake": 180.0,
+    "rate-type": "SLIP",
+    "length": 38.26159,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.57,
+        "gr-a-value": 1.63505,
+        "single-rate": 3.646E-4
+      },
+      "GEO": {
+        "rate": 0.5,
+        "gr-a-value": 1.57814,
+        "single-rate": 3.198E-4
+      },
+      "ZENG": {
+        "rate": 0.56,
+        "gr-a-value": 1.62736,
+        "single-rate": 3.582E-4
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "id": 3031,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-89.431, 36.663],  
+      [-89.341, 36.188]
+    ]
+  },
+  "properties": {
+    "name": "New Madrid - USGS (mid-east, center)",
+    "state": "TN",
+    "states": ["TN", "KY"],
+    "upper-depth": 10.0,
+    "lower-depth": 23.424,
+    "dip": 63.5,
+    "rake": 90.0,
+    "rate-type": "RECURRENCE"
+  }
+}

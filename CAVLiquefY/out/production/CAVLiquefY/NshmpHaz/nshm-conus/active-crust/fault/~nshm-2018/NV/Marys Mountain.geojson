@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 1076,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.23467, 40.62843],
+      [-116.25031, 40.64802],
+      [-116.25642, 40.67326],
+      [-116.25211, 40.71935],
+      [-116.23944, 40.73309],
+      [-116.23647, 40.74729],
+      [-116.23728, 40.76974],
+      [-116.25103, 40.79571]
+    ]
+  },
+  "properties": {
+    "name": "Marys Mountain",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 19.60877,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.10724622203665693,
+        "gr-a-value": 1.57954,
+        "single-rate": 1.939E-4
+      },
+      "GEO": {
+        "rate": 0.001,
+        "gr-a-value": -0.45085,
+        "single-rate": 1.8E-6
+      },
+      "ZENG": {
+        "rate": 0.007660444431189781,
+        "gr-a-value": 0.43341,
+        "single-rate": 1.38E-5
+      }
+    }
+  }
+}

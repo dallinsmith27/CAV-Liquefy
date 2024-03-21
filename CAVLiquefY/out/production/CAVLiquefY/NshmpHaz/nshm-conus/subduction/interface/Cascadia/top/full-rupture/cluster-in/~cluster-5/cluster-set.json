@@ -1,0 +1,50 @@
+{
+  "name": "Cluster 5 (top)",
+  "id": 3405,
+  "rupture-sets": [
+    {
+      "name": "5-1",
+      "id": 3406,
+      "mfd-tree": "cluster-5-1-top",
+      "sections": [
+        3260, 3261, 3262, 3263
+      ]
+    },
+    {
+      "name": "5-2",
+      "id": 3407,
+      "mfd-tree": "cluster-5-2-top",
+      "sections": [
+        3264, 3265, 3266,
+        3267, 3268
+      ]
+    },
+    {
+      "name": "5-3",
+      "id": 3408,
+      "mfd-tree": "cluster-5-3-top",
+      "sections": [
+        3269, 3270, 3271, 3272
+      ]
+    },
+    {
+      "name": "5-4",
+      "id": 3409,
+      "mfd-tree": "cluster-5-4-top",
+      "sections": [
+        3273, 3274, 3275, 3276, 3277
+      ]
+    },
+    {
+      "name": "5-5",
+      "id": 3410,
+      "mfd-tree": "cluster-5-5-top",
+      "sections": [
+        3278, 3279, 3280, 3281
+      ]
+    }
+  ],
+  "properties": {
+    "state": "WA"
+  }
+}

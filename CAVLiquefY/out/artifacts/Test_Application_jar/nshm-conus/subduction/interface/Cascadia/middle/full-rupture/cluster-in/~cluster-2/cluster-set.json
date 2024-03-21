@@ -1,0 +1,28 @@
+{
+  "name": "Cluster 2 (middle)",
+  "id": 3340,
+  "rupture-sets": [
+    {
+      "name": "2-1",
+      "id": 3341,
+      "mfd-tree": "cluster-2-1-middle",
+      "sections": [
+        3230, 3231, 3232, 3233, 3234, 3235, 3236,
+        3237, 3238, 3239,
+        3240
+      ]
+    },
+    {
+      "name": "2-2",
+      "id": 3342,
+      "mfd-tree": "cluster-2-2-middle",
+      "sections": [
+        3241, 3242,
+        3243, 3244, 3245, 3246, 3247, 3248, 3249, 3250, 3251
+      ]
+    }
+  ],
+  "properties": {
+    "state": "WA"
+  }
+}

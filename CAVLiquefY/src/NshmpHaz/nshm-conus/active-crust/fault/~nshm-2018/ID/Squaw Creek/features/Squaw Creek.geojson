@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": 2208,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.44264, 43.94233],
+      [-116.38142, 44.02907],
+      [-116.34443, 44.11453],
+      [-116.3202, 44.19488],
+      [-116.33041, 44.24845],
+      [-116.33806, 44.36069]
+    ]
+  },
+  "properties": {
+    "name": "Squaw Creek",
+    "state": "ID",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate": 0.1,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 48.42027
+  }
+}

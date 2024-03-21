@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "id": 50000,
+  "properties": {
+    "name": "Saline River",
+    "reference": "Cox et al., 2012; 2013; 2014",
+    "status": "last updated Sept 2021",
+    "state": "AR",
+    "rate": "saline-river.csv",
+    "strike": 290.0,
+    "mfd-tree": [
+      { "id": "M1", "weight": 0.20, "value": { "type": "SINGLE", "m": 6.00 }},
+      { "id": "M2", "weight": 0.60, "value": { "type": "SINGLE", "m": 6.25 }},
+      { "id": "M3", "weight": 0.20, "value": { "type": "SINGLE", "m": 6.50 }}
+    ]
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-91.37635, 33.17127],
+        [-92.63416, 33.53693],
+        [-92.52212, 33.82193],
+        [-92.04506, 33.67324],
+        [-91.31044, 33.46178],
+        [-91.37635, 33.17127]
+      ]
+    ]
+  }
+}

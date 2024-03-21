@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Crustal (nn, adaptive, full catalog)",
+    "id": 4712,
+    "feature": 4700,
+    "mfd-tree": "crustal-full",
+    "spatial-pdf": "pdf-ak-crustal-nn-adaptive.csv"
+  }
+]

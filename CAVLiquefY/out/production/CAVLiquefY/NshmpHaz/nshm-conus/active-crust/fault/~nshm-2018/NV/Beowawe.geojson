@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "id": 1007,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-116.36818, 40.832],
+      [-116.37932, 40.75259],
+      [-116.41805, 40.71413],
+      [-116.41615, 40.69329],
+      [-116.44337, 40.63481],
+      [-116.4414, 40.61378],
+      [-116.63986, 40.51137],
+      [-116.6625, 40.50625]
+    ]
+  },
+  "properties": {
+    "name": "Beowawe",
+    "state": "NV",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 48.08831,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.14554844419260582,
+        "gr-a-value": 1.15334,
+        "single-rate": 1.364E-4
+      },
+      "GEO": {
+        "rate": 0.1,
+        "gr-a-value": 0.99033,
+        "single-rate": 9.37E-5
+      },
+      "ZENG": {
+        "rate": 0.10724622203665693,
+        "gr-a-value": 1.02072,
+        "single-rate": 1.005E-4
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "id": 2312,
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-112.27483, 45.0399],
+      [-112.40781, 45.11096]
+    ]
+  },
+  "properties": {
+    "name": "Sweetwater",
+    "state": "MT",
+    "upper-depth": 0.0,
+    "lower-depth": 15.0,
+    "dip": 50.0,
+    "rake": -90.0,
+    "rate-type": "VERTICAL_SLIP",
+    "length": 13.09519,
+    "rate-map": {
+      "BIRD": {
+        "rate": 0.0766044443118978,
+        "gr-a-value": null,
+        "single-rate": 1.8453199E-4
+      },
+      "GEO": {
+        "rate": 0.04,
+        "gr-a-value": null,
+        "single-rate": 9.6355805E-5
+      },
+      "ZENG": {
+        "rate": 0.04596266658713868,
+        "gr-a-value": null,
+        "single-rate": 1.1071918E-4
+      }
+    }
+  }
+}

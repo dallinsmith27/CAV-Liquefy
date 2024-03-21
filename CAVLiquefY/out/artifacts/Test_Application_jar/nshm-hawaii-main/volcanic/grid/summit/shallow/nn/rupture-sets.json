@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Summit (shallow, nn)",
+    "id": 5112,
+    "feature": 5100,
+    "mfd-tree": "summit-shallow-nn",
+    "spatial-pdf": "summit-shallow-nn-pdf.csv"
+  }
+]
